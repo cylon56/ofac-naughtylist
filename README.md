@@ -1,6 +1,4 @@
-# ofac-naughtylist
-
-> "We have Chainalysis at home."
+# OFAC Naughty List
 
 The U.S. Treasury's Office of Foreign Assets Control (OFAC) publishes sanctioned digital currency addresses as part of its [Specially Designated Nationals (SDN) list](https://ofac.treasury.gov/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists). This data is freely available — but it's buried inside a ~120MB XML file alongside thousands of non-crypto sanctions entries, with no separation by blockchain network.
 
