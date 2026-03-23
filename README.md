@@ -82,26 +82,37 @@ See `data/metadata.json` for aggregate statistics and schema version.
 
 ## Running locally
 
+Requires Python 3.11+.
+
 ```bash
-# Install dependencies
+git clone https://github.com/cylon56/ofac-naughtylist.git
+cd ofac-naughtylist
 pip install -r requirements.txt
+
+# Run full pipeline (downloads ~80MB XML from OFAC, writes to data/)
+python -m src.main
 
 # Run with a local XML file (skip download)
 python -m src.main --xml ./sdn_advanced.xml
 
-# Run full pipeline (downloads from OFAC)
-python -m src.main
+# Write output to a custom directory
+python -m src.main --output-dir ./my-output
 
-# Run with verbose logging
+# Verbose logging (shows discovered tickers, parse progress)
 python -m src.main -v
+
+# See all options
+python -m src.main --help
 ```
 
 ## Development
 
 ```bash
-pip install -r requirements-dev.txt
+pip install -r requirements.txt -r requirements-dev.txt
 pytest tests/ -v
 ```
+
+The test suite uses a small hand-crafted XML fixture (`tests/fixtures/sample_sdn_advanced.xml`) covering multi-ticker deduplication, multi-chain token inference, unknown ticker fallback, and all supported address formats. No network access required.
 
 ## Contributing
 
