@@ -125,6 +125,11 @@ class TestCategorizeAddresses:
         assert "ripple" in categorized
         assert len(categorized["ripple"]) == 1
 
+    def test_solana_address(self, categorized):
+        assert "solana" in categorized
+        assert len(categorized["solana"]) == 1
+        assert categorized["solana"][0].address == "42RLPACwZPx3vYYmxSueqsogfynBDqXK298EDsNoyoHi"
+
     def test_source_feature_ids_merged(self, categorized):
         """Deduplicated address should have all feature IDs merged."""
         eth_addrs = categorized["ethereum"]

@@ -2,24 +2,24 @@
   "address_count": 1,
   "addresses": [
     {
-      "address": "someunknownaddressformat12345",
-      "date_listed": "2023-06-15",
-      "entity_id": 60001,
-      "entity_name": "UNKNOWN TICKER ENTITY",
+      "address": "GPwg61XoHqQPNmAucFACuQ5H9sGCDv9TpS",
+      "date_listed": "2020-09-16",
+      "entity_id": 29585,
+      "entity_name": "KARASAVIDI Dmitrii",
       "evm_compatible": false,
       "ofac_tickers": [
-        "NEWTICKER"
+        "BTG"
       ],
       "programs": [
-        "SDGT"
+        "CYBER2"
       ],
       "source_feature_ids": [
-        70001
+        36475
       ]
     }
   ],
-  "chain": "unknown",
-  "last_updated": "2026-03-23T20:16:42Z",
+  "chain": "bitcoin_gold",
+  "last_updated": "2026-03-23T20:46:08Z",
   "source_list": "SDN",
   "source_xml_url": "https://www.treasury.gov/ofac/downloads/sanctions/1.0/sdn_advanced.xml"
 }

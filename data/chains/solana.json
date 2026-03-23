@@ -2,23 +2,23 @@
   "address_count": 1,
   "addresses": [
     {
-      "address": "rnXyVQzgxZe7TR1EPzTkGj2jxH4LMJYh66",
-      "date_listed": "2021-11-08",
-      "entity_id": 33854,
-      "entity_name": "CHATEX",
+      "address": "42RLPACwZPx3vYYmxSueqsogfynBDqXK298EDsNoyoHi",
+      "date_listed": "2025-11-19",
+      "entity_id": 56360,
+      "entity_name": "Sokolovski Rolan",
       "evm_compatible": false,
       "ofac_tickers": [
-        "XRP"
+        "SOL"
       ],
       "programs": [
-        "CYBER2"
+        "ILLICIT-DRUGS-EO14059"
       ],
       "source_feature_ids": [
-        44746
+        94579
       ]
     }
   ],
-  "chain": "ripple",
+  "chain": "solana",
   "last_updated": "2026-03-23T20:46:08Z",
   "source_list": "SDN",
   "source_xml_url": "https://www.treasury.gov/ofac/downloads/sanctions/1.0/sdn_advanced.xml"

@@ -4,12 +4,18 @@
 
   <ReferenceValueSets>
     <FeatureTypeValues>
-      <FeatureType ID="101">
-        <FeatureTypeGroup FeatureTypeGroupID="1" />
-      </FeatureType>
-      <FeatureType ID="102">
-        <FeatureTypeGroup FeatureTypeGroupID="1" />
-      </FeatureType>
+      <FeatureType ID="345" FeatureTypeGroupID="1">Digital Currency Address - ETH</FeatureType>
+      <FeatureType ID="344" FeatureTypeGroupID="1">Digital Currency Address - XBT</FeatureType>
+      <FeatureType ID="887" FeatureTypeGroupID="1">Digital Currency Address - USDT</FeatureType>
+      <FeatureType ID="444" FeatureTypeGroupID="1">Digital Currency Address - XMR</FeatureType>
+      <FeatureType ID="566" FeatureTypeGroupID="1">Digital Currency Address - LTC</FeatureType>
+      <FeatureType ID="687" FeatureTypeGroupID="1">Digital Currency Address - DASH</FeatureType>
+      <FeatureType ID="686" FeatureTypeGroupID="1">Digital Currency Address - ZEC</FeatureType>
+      <FeatureType ID="907" FeatureTypeGroupID="1">Digital Currency Address - XRP</FeatureType>
+      <FeatureType ID="998" FeatureTypeGroupID="1">Digital Currency Address - USDC</FeatureType>
+      <FeatureType ID="1167" FeatureTypeGroupID="1">Digital Currency Address - SOL</FeatureType>
+      <FeatureType ID="9999" FeatureTypeGroupID="1">Digital Currency Address - NEWTICKER</FeatureType>
+      <FeatureType ID="21" FeatureTypeGroupID="1">Email Address</FeatureType>
     </FeatureTypeValues>
     <DetailReferenceValues />
   </ReferenceValueSets>
@@ -33,38 +39,25 @@
             </DocumentedName>
           </Alias>
         </Identity>
-        <Feature FeatureTypeID="101" ID="52341">
-          <FeatureVersion>
-            <Comment>Digital Currency Address - ETH</Comment>
-            <VersionDetail>
-              <DetailReferenceValue>0x7F367cC41522cE07553e823bf3be79A889DEbe1B</DetailReferenceValue>
-            </VersionDetail>
+        <Feature FeatureTypeID="345" ID="52341">
+          <FeatureVersion ID="52341" ReliabilityID="1">
+            <Comment />
+            <VersionDetail DetailTypeID="1432">0x7F367cC41522cE07553e823bf3be79A889DEbe1B</VersionDetail>
           </FeatureVersion>
         </Feature>
-        <Feature FeatureTypeID="101" ID="52342">
-          <FeatureVersion>
-            <Comment>Digital Currency Address - ETH</Comment>
-            <VersionDetail>
-              <DetailReferenceValue>0xd882cFc20F52f2599D84b8e8D58C7FB62cfE344b</DetailReferenceValue>
-            </VersionDetail>
+        <Feature FeatureTypeID="345" ID="52342">
+          <FeatureVersion ID="52342" ReliabilityID="1">
+            <Comment />
+            <VersionDetail DetailTypeID="1432">0xd882cFc20F52f2599D84b8e8D58C7FB62cfE344b</VersionDetail>
           </FeatureVersion>
         </Feature>
-        <Feature FeatureTypeID="101" ID="52343">
-          <FeatureVersion>
-            <Comment>Digital Currency Address - XBT</Comment>
-            <VersionDetail>
-              <DetailReferenceValue>bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh</DetailReferenceValue>
-            </VersionDetail>
+        <Feature FeatureTypeID="344" ID="52343">
+          <FeatureVersion ID="52343" ReliabilityID="1">
+            <Comment />
+            <VersionDetail DetailTypeID="1432">bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh</VersionDetail>
           </FeatureVersion>
         </Feature>
       </Profile>
-      <SanctionsProgram>
-        <SanctionsProgramValue>CYBER2</SanctionsProgramValue>
-      </SanctionsProgram>
-      <SanctionsProgram>
-        <SanctionsProgramValue>DPRK3</SanctionsProgramValue>
-      </SanctionsProgram>
-      <DateOfRecord Day="14" Month="4" Year="2022" />
     </DistinctParty>
 
     <!-- Entity 2: GARANTEX - address under both ETH and USDT (multi-ticker) -->
@@ -80,43 +73,31 @@
             </DocumentedName>
           </Alias>
         </Identity>
-        <Feature FeatureTypeID="101" ID="55102">
-          <FeatureVersion>
-            <Comment>Digital Currency Address - ETH</Comment>
-            <VersionDetail>
-              <DetailReferenceValue>0xd882cFc20F52f2599D84b8e8D58C7FB62cfE344b</DetailReferenceValue>
-            </VersionDetail>
+        <Feature FeatureTypeID="345" ID="55102">
+          <FeatureVersion ID="55102" ReliabilityID="1">
+            <Comment />
+            <VersionDetail DetailTypeID="1432">0xd882cFc20F52f2599D84b8e8D58C7FB62cfE344b</VersionDetail>
           </FeatureVersion>
         </Feature>
-        <Feature FeatureTypeID="101" ID="55103">
-          <FeatureVersion>
-            <Comment>Digital Currency Address - USDT</Comment>
-            <VersionDetail>
-              <DetailReferenceValue>0xd882cFc20F52f2599D84b8e8D58C7FB62cfE344b</DetailReferenceValue>
-            </VersionDetail>
+        <Feature FeatureTypeID="887" ID="55103">
+          <FeatureVersion ID="55103" ReliabilityID="1">
+            <Comment />
+            <VersionDetail DetailTypeID="1432">0xd882cFc20F52f2599D84b8e8D58C7FB62cfE344b</VersionDetail>
           </FeatureVersion>
         </Feature>
-        <Feature FeatureTypeID="101" ID="55104">
-          <FeatureVersion>
-            <Comment>Digital Currency Address - USDT</Comment>
-            <VersionDetail>
-              <DetailReferenceValue>TN2YVFiBnEhM2DFoDqGGoenYbGe8uVJJEY</DetailReferenceValue>
-            </VersionDetail>
+        <Feature FeatureTypeID="887" ID="55104">
+          <FeatureVersion ID="55104" ReliabilityID="1">
+            <Comment />
+            <VersionDetail DetailTypeID="1432">TN2YVFiBnEhM2DFoDqGGoenYbGe8uVJJEY</VersionDetail>
           </FeatureVersion>
         </Feature>
-        <Feature FeatureTypeID="101" ID="55105">
-          <FeatureVersion>
-            <Comment>Digital Currency Address - XBT</Comment>
-            <VersionDetail>
-              <DetailReferenceValue>1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa</DetailReferenceValue>
-            </VersionDetail>
+        <Feature FeatureTypeID="344" ID="55105">
+          <FeatureVersion ID="55105" ReliabilityID="1">
+            <Comment />
+            <VersionDetail DetailTypeID="1432">1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa</VersionDetail>
           </FeatureVersion>
         </Feature>
       </Profile>
-      <SanctionsProgram>
-        <SanctionsProgramValue>CYBER2</SanctionsProgramValue>
-      </SanctionsProgram>
-      <DateOfRecord Day="5" Month="4" Year="2022" />
     </DistinctParty>
 
     <!-- Entity 3: TEST ENTITY - various chain addresses -->
@@ -132,51 +113,37 @@
             </DocumentedName>
           </Alias>
         </Identity>
-        <Feature FeatureTypeID="101" ID="60001">
-          <FeatureVersion>
-            <Comment>Digital Currency Address - XMR</Comment>
-            <VersionDetail>
-              <DetailReferenceValue>4A1BpBgHEVmjdLRWCFpYYzKvSHBGLgSLqF6bRcJHjHEZicxMGMPMQHiRg2FMVgqMPHh3EqD8RNE8KYS3kJf93cRK2RfFg</DetailReferenceValue>
-            </VersionDetail>
+        <Feature FeatureTypeID="444" ID="60001">
+          <FeatureVersion ID="60001" ReliabilityID="1">
+            <Comment />
+            <VersionDetail DetailTypeID="1432">4A1BpBgHEVmjdLRWCFpYYzKvSHBGLgSLqF6bRcJHjHEZicxMGMPMQHiRg2FMVgqMPHh3EqD8RNE8KYS3kJf93cRK2RfFg</VersionDetail>
           </FeatureVersion>
         </Feature>
-        <Feature FeatureTypeID="101" ID="60002">
-          <FeatureVersion>
-            <Comment>Digital Currency Address - LTC</Comment>
-            <VersionDetail>
-              <DetailReferenceValue>LcHKx4Vy5Dxit94JYJ7pGg4dBbZFyv3Lz1</DetailReferenceValue>
-            </VersionDetail>
+        <Feature FeatureTypeID="566" ID="60002">
+          <FeatureVersion ID="60002" ReliabilityID="1">
+            <Comment />
+            <VersionDetail DetailTypeID="1432">LcHKx4Vy5Dxit94JYJ7pGg4dBbZFyv3Lz1</VersionDetail>
           </FeatureVersion>
         </Feature>
-        <Feature FeatureTypeID="101" ID="60003">
-          <FeatureVersion>
-            <Comment>Digital Currency Address - DASH</Comment>
-            <VersionDetail>
-              <DetailReferenceValue>XekiLaxnqpFb2m4NQAEcsKutZcZgcyfo6W</DetailReferenceValue>
-            </VersionDetail>
+        <Feature FeatureTypeID="687" ID="60003">
+          <FeatureVersion ID="60003" ReliabilityID="1">
+            <Comment />
+            <VersionDetail DetailTypeID="1432">XekiLaxnqpFb2m4NQAEcsKutZcZgcyfo6W</VersionDetail>
           </FeatureVersion>
         </Feature>
-        <Feature FeatureTypeID="101" ID="60004">
-          <FeatureVersion>
-            <Comment>Digital Currency Address - ZEC</Comment>
-            <VersionDetail>
-              <DetailReferenceValue>t1VpYgkRJB1iqMPRLM5oTgnihSbftyLkoGN</DetailReferenceValue>
-            </VersionDetail>
+        <Feature FeatureTypeID="686" ID="60004">
+          <FeatureVersion ID="60004" ReliabilityID="1">
+            <Comment />
+            <VersionDetail DetailTypeID="1432">t1VpYgkRJB1iqMPRLM5oTgnihSbftyLkoGN</VersionDetail>
           </FeatureVersion>
         </Feature>
-        <Feature FeatureTypeID="101" ID="60005">
-          <FeatureVersion>
-            <Comment>Digital Currency Address - XRP</Comment>
-            <VersionDetail>
-              <DetailReferenceValue>rHb9CJAWyB4rj91VRWn96DkukG4bwdtyTh</DetailReferenceValue>
-            </VersionDetail>
+        <Feature FeatureTypeID="907" ID="60005">
+          <FeatureVersion ID="60005" ReliabilityID="1">
+            <Comment />
+            <VersionDetail DetailTypeID="1432">rHb9CJAWyB4rj91VRWn96DkukG4bwdtyTh</VersionDetail>
           </FeatureVersion>
         </Feature>
       </Profile>
-      <SanctionsProgram>
-        <SanctionsProgramValue>SDGT</SanctionsProgramValue>
-      </SanctionsProgram>
-      <DateOfRecord Day="10" Month="1" Year="2023" />
     </DistinctParty>
 
     <!-- Entity 4: UNKNOWN TICKER ENTITY - tests unknown bucket -->
@@ -192,19 +159,13 @@
             </DocumentedName>
           </Alias>
         </Identity>
-        <Feature FeatureTypeID="101" ID="70001">
-          <FeatureVersion>
-            <Comment>Digital Currency Address - NEWTICKER</Comment>
-            <VersionDetail>
-              <DetailReferenceValue>someunknownaddressformat12345</DetailReferenceValue>
-            </VersionDetail>
+        <Feature FeatureTypeID="9999" ID="70001">
+          <FeatureVersion ID="70001" ReliabilityID="1">
+            <Comment />
+            <VersionDetail DetailTypeID="1432">someunknownaddressformat12345</VersionDetail>
           </FeatureVersion>
         </Feature>
       </Profile>
-      <SanctionsProgram>
-        <SanctionsProgramValue>SDGT</SanctionsProgramValue>
-      </SanctionsProgram>
-      <DateOfRecord Day="15" Month="6" Year="2023" />
     </DistinctParty>
 
     <!-- Entity 5: EVM MULTI-CHAIN - tests USDC on ethereum via 0x address -->
@@ -220,21 +181,130 @@
             </DocumentedName>
           </Alias>
         </Identity>
-        <Feature FeatureTypeID="101" ID="80001">
-          <FeatureVersion>
-            <Comment>Digital Currency Address - USDC</Comment>
-            <VersionDetail>
-              <DetailReferenceValue>0x1234567890abcdef1234567890abcdef12345678</DetailReferenceValue>
-            </VersionDetail>
+        <Feature FeatureTypeID="998" ID="80001">
+          <FeatureVersion ID="80001" ReliabilityID="1">
+            <Comment />
+            <VersionDetail DetailTypeID="1432">0x1234567890abcdef1234567890abcdef12345678</VersionDetail>
           </FeatureVersion>
         </Feature>
       </Profile>
-      <SanctionsProgram>
-        <SanctionsProgramValue>CYBER2</SanctionsProgramValue>
-      </SanctionsProgram>
-      <DateOfRecord Day="20" Month="9" Year="2023" />
+    </DistinctParty>
+
+    <!-- Entity 6: SOLANA ENTITY - tests SOL chain mapping -->
+    <DistinctParty FixedRef="80001" DeltaAction="add">
+      <Comment />
+      <Profile>
+        <Identity>
+          <Alias AliasTypeID="1" Primary="true" LowQuality="false">
+            <DocumentedName>
+              <DocumentedNamePart>
+                <NamePartValue NamePartGroupID="1">SOLANA TEST ENTITY</NamePartValue>
+              </DocumentedNamePart>
+            </DocumentedName>
+          </Alias>
+        </Identity>
+        <Feature FeatureTypeID="1167" ID="90001">
+          <FeatureVersion ID="90001" ReliabilityID="1">
+            <Comment />
+            <VersionDetail DetailTypeID="1432">42RLPACwZPx3vYYmxSueqsogfynBDqXK298EDsNoyoHi</VersionDetail>
+          </FeatureVersion>
+        </Feature>
+      </Profile>
     </DistinctParty>
 
   </DistinctParties>
+
+  <ProfileRelationships />
+
+  <SanctionsEntries>
+    <SanctionsEntry ID="39498" ProfileID="39498" ListID="1550">
+      <EntryEvent ID="39498" EntryEventTypeID="1" LegalBasisID="1">
+        <Comment />
+        <Date CalendarTypeID="1">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>14</Day>
+        </Date>
+      </EntryEvent>
+      <SanctionsMeasure ID="1" SanctionsTypeID="1">
+        <Comment>CYBER2</Comment>
+        <DatePeriod CalendarTypeID="1" YearFixed="true" MonthFixed="true" DayFixed="true" />
+      </SanctionsMeasure>
+      <SanctionsMeasure ID="2" SanctionsTypeID="1">
+        <Comment>DPRK3</Comment>
+        <DatePeriod CalendarTypeID="1" YearFixed="true" MonthFixed="true" DayFixed="true" />
+      </SanctionsMeasure>
+    </SanctionsEntry>
+    <SanctionsEntry ID="42001" ProfileID="42001" ListID="1550">
+      <EntryEvent ID="42001" EntryEventTypeID="1" LegalBasisID="1">
+        <Comment />
+        <Date CalendarTypeID="1">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>5</Day>
+        </Date>
+      </EntryEvent>
+      <SanctionsMeasure ID="3" SanctionsTypeID="1">
+        <Comment>CYBER2</Comment>
+        <DatePeriod CalendarTypeID="1" YearFixed="true" MonthFixed="true" DayFixed="true" />
+      </SanctionsMeasure>
+    </SanctionsEntry>
+    <SanctionsEntry ID="50001" ProfileID="50001" ListID="1550">
+      <EntryEvent ID="50001" EntryEventTypeID="1" LegalBasisID="1">
+        <Comment />
+        <Date CalendarTypeID="1">
+          <Year>2023</Year>
+          <Month>1</Month>
+          <Day>10</Day>
+        </Date>
+      </EntryEvent>
+      <SanctionsMeasure ID="4" SanctionsTypeID="1">
+        <Comment>SDGT</Comment>
+        <DatePeriod CalendarTypeID="1" YearFixed="true" MonthFixed="true" DayFixed="true" />
+      </SanctionsMeasure>
+    </SanctionsEntry>
+    <SanctionsEntry ID="60001" ProfileID="60001" ListID="1550">
+      <EntryEvent ID="60001" EntryEventTypeID="1" LegalBasisID="1">
+        <Comment />
+        <Date CalendarTypeID="1">
+          <Year>2023</Year>
+          <Month>6</Month>
+          <Day>15</Day>
+        </Date>
+      </EntryEvent>
+      <SanctionsMeasure ID="5" SanctionsTypeID="1">
+        <Comment>SDGT</Comment>
+        <DatePeriod CalendarTypeID="1" YearFixed="true" MonthFixed="true" DayFixed="true" />
+      </SanctionsMeasure>
+    </SanctionsEntry>
+    <SanctionsEntry ID="70001" ProfileID="70001" ListID="1550">
+      <EntryEvent ID="70001" EntryEventTypeID="1" LegalBasisID="1">
+        <Comment />
+        <Date CalendarTypeID="1">
+          <Year>2023</Year>
+          <Month>9</Month>
+          <Day>20</Day>
+        </Date>
+      </EntryEvent>
+      <SanctionsMeasure ID="6" SanctionsTypeID="1">
+        <Comment>CYBER2</Comment>
+        <DatePeriod CalendarTypeID="1" YearFixed="true" MonthFixed="true" DayFixed="true" />
+      </SanctionsMeasure>
+    </SanctionsEntry>
+    <SanctionsEntry ID="80001" ProfileID="80001" ListID="1550">
+      <EntryEvent ID="80001" EntryEventTypeID="1" LegalBasisID="1">
+        <Comment />
+        <Date CalendarTypeID="1">
+          <Year>2024</Year>
+          <Month>1</Month>
+          <Day>15</Day>
+        </Date>
+      </EntryEvent>
+      <SanctionsMeasure ID="7" SanctionsTypeID="1">
+        <Comment>CYBER2</Comment>
+        <DatePeriod CalendarTypeID="1" YearFixed="true" MonthFixed="true" DayFixed="true" />
+      </SanctionsMeasure>
+    </SanctionsEntry>
+  </SanctionsEntries>
 
 </Sanctions>

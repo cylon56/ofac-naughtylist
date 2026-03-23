@@ -1,0 +1,128 @@
+{
+  "address_count": 7,
+  "addresses": [
+    {
+      "address": "18M8bJWMzWHDBMxoLqjHHAffdRy4SrzkfB",
+      "date_listed": "2021-04-15",
+      "entity_id": 30518,
+      "entity_name": "Secondeye Solution",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "BCH"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38238
+      ]
+    },
+    {
+      "address": "qpf2cphc5dkuclkqur7lhj2yuqq9pk3hmukle77vhq",
+      "date_listed": "2021-04-15",
+      "entity_id": 31212,
+      "entity_name": "SOUTHFRONT",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "BCH"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848",
+        "NPWMD"
+      ],
+      "source_feature_ids": [
+        39646
+      ]
+    },
+    {
+      "address": "qpusmp64rajses77x95g9ah825mtyyv74smwwkxhx3",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "BCH"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56436
+      ]
+    },
+    {
+      "address": "qq3vlashthktqpeppuv7trmw070e3mydgq63zq348v",
+      "date_listed": "2021-04-15",
+      "entity_id": 31212,
+      "entity_name": "SOUTHFRONT",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "BCH"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848",
+        "NPWMD"
+      ],
+      "source_feature_ids": [
+        44780
+      ]
+    },
+    {
+      "address": "qqyuc9s700plhzr6awzru7g5z2d2p906uyrm6ht0r0",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "BCH"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56552
+      ]
+    },
+    {
+      "address": "qz9f2vz3033sg5vc5mf7m7xshmj0jugy4ummf05jk8",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "BCH"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56553
+      ]
+    },
+    {
+      "address": "qzjv8hrdvz6edu4gkzpnd4w6jc7zf296g5e9kkq4lx",
+      "date_listed": "2021-04-15",
+      "entity_id": 31212,
+      "entity_name": "SOUTHFRONT",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "BCH"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848",
+        "NPWMD"
+      ],
+      "source_feature_ids": [
+        44779
+      ]
+    }
+  ],
+  "chain": "bitcoin_cash",
+  "last_updated": "2026-03-23T20:46:08Z",
+  "source_list": "SDN",
+  "source_xml_url": "https://www.treasury.gov/ofac/downloads/sanctions/1.0/sdn_advanced.xml"
+}

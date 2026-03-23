@@ -35,8 +35,8 @@ class TestParseSdnXml:
         assert all(isinstance(a, SanctionedAddress) for a in addresses)
 
     def test_extracts_correct_count(self, addresses):
-        # 3 from entity 1 + 4 from entity 2 + 5 from entity 3 + 1 from entity 4 + 1 from entity 5 = 14
-        assert len(addresses) == 14
+        # 3 from entity 1 + 4 from entity 2 + 5 from entity 3 + 1 from entity 4 + 1 from entity 5 + 1 from entity 6 = 15
+        assert len(addresses) == 15
 
     def test_extracts_eth_addresses(self, addresses):
         eth_addrs = [a for a in addresses if a.ofac_ticker == "ETH"]

@@ -21,25 +21,27 @@ curl https://raw.githubusercontent.com/cylon56/ofac-naughtylist/main/data/chains
 curl https://raw.githubusercontent.com/cylon56/ofac-naughtylist/main/data/all_addresses.json
 ```
 
-## Supported chains
+## Current sanctions snapshot
 
-| Chain | File |
-|-------|------|
-| Ethereum | `data/chains/ethereum.json` |
-| Bitcoin | `data/chains/bitcoin.json` |
-| Tron | `data/chains/tron.json` |
-| Arbitrum | `data/chains/arbitrum.json` |
-| BSC | `data/chains/bsc.json` |
-| Litecoin | `data/chains/litecoin.json` |
-| Monero | `data/chains/monero.json` |
-| Zcash | `data/chains/zcash.json` |
-| Dash | `data/chains/dash.json` |
-| Bitcoin Cash | `data/chains/bitcoin_cash.json` |
-| Bitcoin SV | `data/chains/bitcoin_sv.json` |
-| Bitcoin Gold | `data/chains/bitcoin_gold.json` |
-| Ethereum Classic | `data/chains/ethereum_classic.json` |
-| Ripple | `data/chains/ripple.json` |
-| Verge | `data/chains/verge.json` |
+> Last updated: **2026-03-23** | **772 addresses** across **83 sanctioned entities**
+
+| Chain | Addresses | File |
+| ----- | --------: | ---- |
+| Bitcoin | 521 | `data/chains/bitcoin.json` |
+| Tron | 124 | `data/chains/tron.json` |
+| Ethereum | 91 | `data/chains/ethereum.json` |
+| Litecoin | 10 | `data/chains/litecoin.json` |
+| Monero | 8 | `data/chains/monero.json` |
+| Bitcoin Cash | 7 | `data/chains/bitcoin_cash.json` |
+| Dash | 3 | `data/chains/dash.json` |
+| Zcash | 3 | `data/chains/zcash.json` |
+| Bitcoin Gold | 1 | `data/chains/bitcoin_gold.json` |
+| Bitcoin SV | 1 | `data/chains/bitcoin_sv.json` |
+| Ripple | 1 | `data/chains/ripple.json` |
+| Solana | 1 | `data/chains/solana.json` |
+| Verge | 1 | `data/chains/verge.json` |
+
+Additional supported chains (no current sanctions): Arbitrum, BSC, Ethereum Classic.
 
 Addresses that can't be mapped to a known chain are placed in `data/chains/unknown.json`.
 
@@ -73,8 +75,8 @@ See `data/metadata.json` for aggregate statistics and schema version.
 
 ## How it works
 
-1. **Daily cron** (00:00 UTC) triggers the GitHub Actions workflow
-2. **Download** the SDN Advanced XML (~80MB) from OFAC
+1. **Daily cron** (00:00 UTC) triggers the update (GitHub Actions or Railway)
+2. **Download** the SDN Advanced XML (~120MB) from OFAC
 3. **Parse** XML to extract all "Digital Currency Address" features with entity metadata
 4. **Categorize** each address by chain using ticker mapping + address format inference
 5. **Generate** per-chain JSON files, combined file, and metadata
@@ -113,6 +115,43 @@ pytest tests/ -v
 ```
 
 The test suite uses a small hand-crafted XML fixture (`tests/fixtures/sample_sdn_advanced.xml`) covering multi-ticker deduplication, multi-chain token inference, unknown ticker fallback, and all supported address formats. No network access required.
+
+## Deploying on Railway
+
+Railway can run this as a daily cron job that automatically commits updated data back to GitHub.
+
+### Setup
+
+1. **Create a GitHub Personal Access Token** with `contents: write` permission scoped to this repository. Go to GitHub Settings > Developer settings > Fine-grained personal access tokens.
+
+2. **Create a new Railway project** at [railway.com](https://railway.com):
+   - Click **New Project** > **Deploy from GitHub repo**
+   - Select this repository
+   - Railway will auto-detect the `Dockerfile` and `railway.json`
+
+3. **Set environment variables** in the Railway service settings:
+
+   | Variable | Value | Description |
+   | -------- | ----- | ----------- |
+   | `GITHUB_TOKEN` | `ghp_...` | GitHub PAT with repo write access |
+   | `GITHUB_REPO` | `cylon56/ofac-naughtylist` | Owner/repo format |
+   | `GITHUB_BRANCH` | `main` | Branch to push updates to |
+
+4. **Verify cron schedule**: Railway will read `railway.json` and configure the service as a cron job running daily at 00:00 UTC. You can adjust the schedule in the Railway dashboard under Settings > Cron Schedule.
+
+5. **Test manually**: Trigger a one-off run from the Railway dashboard to verify the pipeline works end-to-end.
+
+### Pipeline
+
+The `scripts/railway_cron.py` script:
+
+1. Clones the repo (shallow) using the GitHub token
+2. Runs the full OFAC pipeline
+3. Commits and pushes any data changes back to the repository
+
+### Cost
+
+This runs as a cron job (not an always-on service), so you only pay for the ~2-3 minutes of compute per daily run. Railway's free tier is usually sufficient.
 
 ## Contributing
 

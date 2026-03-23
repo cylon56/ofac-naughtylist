@@ -2,23 +2,24 @@
   "address_count": 1,
   "addresses": [
     {
-      "address": "rnXyVQzgxZe7TR1EPzTkGj2jxH4LMJYh66",
-      "date_listed": "2021-11-08",
-      "entity_id": 33854,
-      "entity_name": "CHATEX",
+      "address": "DFFJhnQNZf8rf67tYnesPu7MuGUpYtzv7Z",
+      "date_listed": "2021-04-15",
+      "entity_id": 30520,
+      "entity_name": "RAZA Mujtaba Ali",
       "evm_compatible": false,
       "ofac_tickers": [
-        "XRP"
+        "XVG"
       ],
       "programs": [
-        "CYBER2"
+        "CYBER2",
+        "ELECTION-EO13848"
       ],
       "source_feature_ids": [
-        44746
+        38294
       ]
     }
   ],
-  "chain": "ripple",
+  "chain": "verge",
   "last_updated": "2026-03-23T20:46:08Z",
   "source_list": "SDN",
   "source_xml_url": "https://www.treasury.gov/ofac/downloads/sanctions/1.0/sdn_advanced.xml"

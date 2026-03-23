@@ -1,25 +1,60 @@
 {
-  "address_count": 1,
+  "address_count": 3,
   "addresses": [
     {
-      "address": "XekiLaxnqpFb2m4NQAEcsKutZcZgcyfo6W",
-      "date_listed": "2023-01-10",
-      "entity_id": 50001,
-      "entity_name": "TEST SANCTIONS ENTITY",
+      "address": "XnPFsRWTaSgiVauosEwQ6dEitGYXgwznz2",
+      "date_listed": "2020-09-16",
+      "entity_id": 29585,
+      "entity_name": "KARASAVIDI Dmitrii",
       "evm_compatible": false,
       "ofac_tickers": [
         "DASH"
       ],
       "programs": [
-        "SDGT"
+        "CYBER2"
       ],
       "source_feature_ids": [
-        60003
+        36474
+      ]
+    },
+    {
+      "address": "Xs3vzQmNvAxRa3Xo8XzQqUb3BMgb9EogF4",
+      "date_listed": "2020-09-10",
+      "entity_id": 29702,
+      "entity_name": "Lifshits Artem Mikhaylovich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "DASH"
+      ],
+      "programs": [
+        "ELECTION-EO13848",
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        36620
+      ]
+    },
+    {
+      "address": "XyARKoupuArYtToA2S6yMdnoquDCDaBsaT",
+      "date_listed": "2021-04-15",
+      "entity_id": 31164,
+      "entity_name": "Association for Free Research and International Cooperation",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "DASH"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848",
+        "UKRAINE-EO13661"
+      ],
+      "source_feature_ids": [
+        39589
       ]
     }
   ],
   "chain": "dash",
-  "last_updated": "2026-03-23T20:16:42Z",
+  "last_updated": "2026-03-23T20:46:08Z",
   "source_list": "SDN",
   "source_xml_url": "https://www.treasury.gov/ofac/downloads/sanctions/1.0/sdn_advanced.xml"
 }

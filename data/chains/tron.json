@@ -1,25 +1,2029 @@
 {
-  "address_count": 1,
+  "address_count": 124,
   "addresses": [
     {
-      "address": "TN2YVFiBnEhM2DFoDqGGoenYbGe8uVJJEY",
-      "date_listed": "2022-04-05",
-      "entity_id": 42001,
-      "entity_name": "GARANTEX EUROPE OU",
+      "address": "TA3941uFAvmVibSkQ6fMJXxmaSNovX86mz",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
       "evm_compatible": false,
       "ofac_tickers": [
         "USDT"
       ],
       "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93748
+      ]
+    },
+    {
+      "address": "TA39q3p75XRSWYAEaSF7dANtyksoa3sLge",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93749
+      ]
+    },
+    {
+      "address": "TASWbk6X1wiTku5TMmMQYqYFvshVEtfJy8",
+      "date_listed": "2026-01-30",
+      "entity_id": 56865,
+      "entity_name": "Zedcex Exchange Ltd",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902",
+        "SDGT",
+        "IFSR"
+      ],
+      "source_feature_ids": [
+        95870
+      ]
+    },
+    {
+      "address": "TAYhjpL8pPs8T84FSM329nffQpc6jD8GBM",
+      "date_listed": "2025-08-14",
+      "entity_id": 55045,
+      "entity_name": "Grinex",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        91893
+      ]
+    },
+    {
+      "address": "TAoLw5yD5XUoHWeBZRSZ1ExK9HMv2CiPvP",
+      "date_listed": "2025-11-19",
+      "entity_id": 56357,
+      "entity_name": "Wedding Ryan James",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        94554
+      ]
+    },
+    {
+      "address": "TBATDh41qMQ1yeVYecneEvhpfayYmkAQWS",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93762
+      ]
+    },
+    {
+      "address": "TBHTJqAy4DhHhmT3dNceJYNRz4SdLofLre",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
         "CYBER2"
       ],
       "source_feature_ids": [
-        55104
+        62905
+      ]
+    },
+    {
+      "address": "TBWRDpQsW1ZVPGGaBAwVLNb7iqmVBuM1nj",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93764
+      ]
+    },
+    {
+      "address": "TBYRhsZR7Mdn9ezpGVLwZiNVnGm8wZGLAD",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93765
+      ]
+    },
+    {
+      "address": "TBZefVsyQpzzxc2WSCLbZBECvxVdzGqdtC",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93766
+      ]
+    },
+    {
+      "address": "TBcLqqqyZjNj1ptuXFgj5H768NhNU5nDyn",
+      "date_listed": "2025-11-19",
+      "entity_id": 56360,
+      "entity_name": "Sokolovski Rolan",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        94571
+      ]
+    },
+    {
+      "address": "TBwghbQMsBC5xcUxE7ZpYXhfDMXZAfiFv6",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93763
+      ]
+    },
+    {
+      "address": "TC4VsFHJdZ66BdwobZxkudVZBVmQZgCP65",
+      "date_listed": "2024-02-16",
+      "entity_id": 47664,
+      "entity_name": "Ansarallah",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "SDGT",
+        "FTO"
+      ],
+      "source_feature_ids": [
+        87614
+      ]
+    },
+    {
+      "address": "TC5UNu3LGrjjVCuLNDdVgjm4oL5cQAyFRZ",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93767
+      ]
+    },
+    {
+      "address": "TC8axQvzJEVR3NKN6mZnJtGy7537GEmh38",
+      "date_listed": "2025-08-14",
+      "entity_id": 55045,
+      "entity_name": "Grinex",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        91891
+      ]
+    },
+    {
+      "address": "TCA7AfTSuDmgYk2VaezfPuZF4Z4X8wxwcQ",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93768
+      ]
+    },
+    {
+      "address": "TCA9vmjsYw9MtPKEwRBtGhKFRfr4CLxJAv",
+      "date_listed": "2026-01-30",
+      "entity_id": 56865,
+      "entity_name": "Zedcex Exchange Ltd",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902",
+        "SDGT",
+        "IFSR"
+      ],
+      "source_feature_ids": [
+        95868
+      ]
+    },
+    {
+      "address": "TCFD8N3vM5b4Gr5f1kkajQsodRVNyyAq1d",
+      "date_listed": "2025-08-14",
+      "entity_id": 55046,
+      "entity_name": "Old Vector LLC",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        91899
+      ]
+    },
+    {
+      "address": "TCu5onCzXuqxjvVzdB2tR4FLuF66d4yRqf",
+      "date_listed": "2025-11-19",
+      "entity_id": 56360,
+      "entity_name": "Sokolovski Rolan",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        94570
+      ]
+    },
+    {
+      "address": "TCzq6m2zxnQkrZrf8cqYcK6bbXQYAfWYKC",
+      "date_listed": "2026-01-30",
+      "entity_id": 56865,
+      "entity_name": "Zedcex Exchange Ltd",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902",
+        "SDGT",
+        "IFSR"
+      ],
+      "source_feature_ids": [
+        95872
+      ]
+    },
+    {
+      "address": "TDFtJtyLPgN3oWUoHh23oJox3T5V5nR11K",
+      "date_listed": "2025-09-24",
+      "entity_id": 55447,
+      "entity_name": "Sayyed Sadiq Abbas Habib",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        93190
+      ]
+    },
+    {
+      "address": "TDNKsLvsY2iSznyghddXz7ZDRc4X3191Z8",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93769
+      ]
+    },
+    {
+      "address": "TDdbRFoBTEmE3qiR69Y6rKRSG1hoF65QaE",
+      "date_listed": "2024-12-04",
+      "entity_id": 52074,
+      "entity_name": "Chirkinyan Elena",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        82914
+      ]
+    },
+    {
+      "address": "TDe2UNAvuUnTbbDo7518eMe3TXN5qJW8Ft",
+      "date_listed": "2026-03-12",
+      "entity_id": 57056,
+      "entity_name": "AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        96926
+      ]
+    },
+    {
+      "address": "TDprk9jeYPVm6khkBp1u7fwuyJcEJFrPWD",
+      "date_listed": "2024-02-16",
+      "entity_id": 47664,
+      "entity_name": "Ansarallah",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "SDGT",
+        "FTO"
+      ],
+      "source_feature_ids": [
+        87620
+      ]
+    },
+    {
+      "address": "TDwN1Eq62bqvVhfGAjdRRJjE46jsi5KNMV",
+      "date_listed": "2024-02-16",
+      "entity_id": 47664,
+      "entity_name": "Ansarallah",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "SDGT",
+        "FTO"
+      ],
+      "source_feature_ids": [
+        87618
+      ]
+    },
+    {
+      "address": "TE3mCcPULjPUE7ykX7RArDPAhyahoy3d2j",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93770
+      ]
+    },
+    {
+      "address": "TEAqwfMhXLaomXhZ8KeMhx3njGmQEDnsUR",
+      "date_listed": "2023-10-03",
+      "entity_id": 45312,
+      "entity_name": "Shen Xingbiao",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        65745
+      ]
+    },
+    {
+      "address": "TEEYCuGDyeNkuDj4u6GQRXxXo3Nh29r2vP",
+      "date_listed": "2026-03-12",
+      "entity_id": 57056,
+      "entity_name": "AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        96367
+      ]
+    },
+    {
+      "address": "TEFph7dZoUN5233cGEzF6XFwRpjPF8fQDS",
+      "date_listed": "2024-03-20",
+      "entity_id": 45213,
+      "entity_name": "Gambashidze Ilya Andreevich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        70364
+      ]
+    },
+    {
+      "address": "TEcuHDQthTmULe8fFLUccBPpjfXaTmJuuD",
+      "date_listed": "2025-08-14",
+      "entity_id": 55045,
+      "entity_name": "Grinex",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        91892
+      ]
+    },
+    {
+      "address": "TF4J8Gp7zbS8NA3HLuxsLdx7Ebzr6weCGn",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93771
+      ]
+    },
+    {
+      "address": "TFFvv7NAWmbcVfA7QN81mMvUC25TWj1WJx",
+      "date_listed": "2021-06-10",
+      "entity_id": 32171,
+      "entity_name": "Al-Jamal Sa'id Ahmad Muhammad",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        83701
+      ]
+    },
+    {
+      "address": "TFdHux43bs21qRsygv5WQWfgtbQeT6nXey",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93772
+      ]
+    },
+    {
+      "address": "TFdTr9C3BqQrzKBXqSxJfAZFTh8UwBAfSg",
+      "date_listed": "2024-05-01",
+      "entity_id": 48432,
+      "entity_name": "OKO DESIGN BUREAU",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        70745
+      ]
+    },
+    {
+      "address": "TFrH3dcpnR3tADrAcfyJwiK4brsgf3B7PG",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93773
+      ]
+    },
+    {
+      "address": "TFurWgnyNMq9bhLrLoT9FGnrLfAL2BtR5R",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93774
+      ]
+    },
+    {
+      "address": "TFwjPScaJRCbSWVAywE1S1WgaUgSnyYUbD",
+      "date_listed": "2022-04-05",
+      "entity_id": 36025,
+      "entity_name": "GARANTEX EUROPE OU",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER4",
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        89504
+      ]
+    },
+    {
+      "address": "TGDaYNWFXi9HJ7NacfETF15vhUH7eRhKzt",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93775
+      ]
+    },
+    {
+      "address": "TGJVc32ig2u8tQsYMLE7KXHT5NDQroaVNU",
+      "date_listed": "2024-03-27",
+      "entity_id": 47635,
+      "entity_name": "Gaza Now",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        70211
+      ]
+    },
+    {
+      "address": "TGKgLatirRpTugS6wgCUKerjLbzWKXAVqx",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93777
+      ]
+    },
+    {
+      "address": "TGMFaAXH15oaW8MpcNHLid6NbMKWaaNPdC",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93778
+      ]
+    },
+    {
+      "address": "TGRZZsD8gxahF5oE6C7K8LLRHqQzoPa5bX",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93780
+      ]
+    },
+    {
+      "address": "TGUPpmW2bAnMCLe5ih2CFisfCHk4gTFDsx",
+      "date_listed": "2024-02-16",
+      "entity_id": 47664,
+      "entity_name": "Ansarallah",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "SDGT",
+        "FTO"
+      ],
+      "source_feature_ids": [
+        87617
+      ]
+    },
+    {
+      "address": "TGXE9dGWawjfd3xqFSho1h1bRbRv9wUGrF",
+      "date_listed": "2023-04-24",
+      "entity_id": 42498,
+      "entity_name": "Sim Hyon Sop",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "NPWMD"
+      ],
+      "source_feature_ids": [
+        96597
+      ]
+    },
+    {
+      "address": "TGckaiamj5NzaYx6Qp6Zu7kahuHArzUo99",
+      "date_listed": "2025-08-14",
+      "entity_id": 55045,
+      "entity_name": "Grinex",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        91895
+      ]
+    },
+    {
+      "address": "TGdpkwNVFjw2DnbHBCFKLvCygPVPz9w4iM",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93776
+      ]
+    },
+    {
+      "address": "TGpNzk9noyvCCdnFPuSg5cqptPs16LjXZq",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93779
+      ]
+    },
+    {
+      "address": "TGsNFrgWfbGN2gX25Wcf8oTejtxtQkvmEx",
+      "date_listed": "2026-01-30",
+      "entity_id": 56865,
+      "entity_name": "Zedcex Exchange Ltd",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902",
+        "SDGT",
+        "IFSR"
+      ],
+      "source_feature_ids": [
+        95869
+      ]
+    },
+    {
+      "address": "TH96tFMn8KGiYSLiwcV3E2UiaJc8jmcbz3",
+      "date_listed": "2024-03-27",
+      "entity_id": 47635,
+      "entity_name": "Gaza Now",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        70213
+      ]
+    },
+    {
+      "address": "THEQTsqPhRDDfgcfBW5npH5Lr9PZhpthrf",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93781
+      ]
+    },
+    {
+      "address": "THHb5iMAbZgQYY19h6uY66y5xt6e11gcZC",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93782
+      ]
+    },
+    {
+      "address": "THUqqeevBQS3EYordDJKwp8DLFknesnfCD",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93784
+      ]
+    },
+    {
+      "address": "THh5woR8qfmDsNknQ3agPYzQSiRtMnKsTh",
+      "date_listed": "2021-06-10",
+      "entity_id": 32171,
+      "entity_name": "Al-Jamal Sa'id Ahmad Muhammad",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        83698
+      ]
+    },
+    {
+      "address": "THob8vRrpDybXeqZDj8ukQhMjJVJ5nCbTW",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93783
+      ]
+    },
+    {
+      "address": "TJ812KESWjzJZGEWBPFCu74Js5zQS7jN5A",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93785
+      ]
+    },
+    {
+      "address": "TJBg9SxwiUUoqJGk18vK9avxkuV8GrKMK7",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93786
+      ]
+    },
+    {
+      "address": "TJkBr9TZ1xBeJoF7RNWqyEMbYqVJ6fXXHR",
+      "date_listed": "2022-04-05",
+      "entity_id": 36025,
+      "entity_name": "GARANTEX EUROPE OU",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER4",
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        89505
+      ]
+    },
+    {
+      "address": "TK17wfSPp32RWrnzZPrGpv7TxdNFvvvE2s",
+      "date_listed": "2023-04-24",
+      "entity_id": 42498,
+      "entity_name": "Sim Hyon Sop",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "NPWMD"
+      ],
+      "source_feature_ids": [
+        96601
+      ]
+    },
+    {
+      "address": "TL1k1U6SHohxBqb68kCodxHc9y2LXoDSep",
+      "date_listed": "2025-08-14",
+      "entity_id": 55045,
+      "entity_name": "Grinex",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        91889
+      ]
+    },
+    {
+      "address": "TLM3zA3EWycoDX4ZX4gKze7sgfbdkntTum",
+      "date_listed": "2024-08-23",
+      "entity_id": 50110,
+      "entity_name": "OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KONSTRUKTORSKOE BYURO VOSTOK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        77641
+      ]
+    },
+    {
+      "address": "TLNRT524dzL5FF1nJHDhYEMFpeWjLjRbz1",
+      "date_listed": "2021-06-10",
+      "entity_id": 32171,
+      "entity_name": "Al-Jamal Sa'id Ahmad Muhammad",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        83697
+      ]
+    },
+    {
+      "address": "TLRMHPjLGXsVpD9RVzSfat6zDiVDrd4b4w",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93787
+      ]
+    },
+    {
+      "address": "TLvuvpfBKdxddxSsJefeiGCe9eVY8HUroE",
+      "date_listed": "2026-01-30",
+      "entity_id": 56865,
+      "entity_name": "Zedcex Exchange Ltd",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902",
+        "SDGT",
+        "IFSR"
+      ],
+      "source_feature_ids": [
+        95874
+      ]
+    },
+    {
+      "address": "TM6Kix9wH8cYQ4rLpFifsQ4ddH3rPX3f8p",
+      "date_listed": "2024-02-16",
+      "entity_id": 47664,
+      "entity_name": "Ansarallah",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "SDGT",
+        "FTO"
+      ],
+      "source_feature_ids": [
+        87619
+      ]
+    },
+    {
+      "address": "TMECKT19hfumcK3KqQKbhxkn1ohyeR58xu",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93788
+      ]
+    },
+    {
+      "address": "TMGLqRQ4twjW8wJhVH1mQR7nUThpGHUsN3",
+      "date_listed": "2024-03-20",
+      "entity_id": 45213,
+      "entity_name": "Gambashidze Ilya Andreevich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        70365
+      ]
+    },
+    {
+      "address": "TMStbg5fgb4uTV7fK1gEYF9hKAzP3siPsG",
+      "date_listed": "2023-10-03",
+      "entity_id": 45349,
+      "entity_name": "Wang Jiantong",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        65806
+      ]
+    },
+    {
+      "address": "TMgnRWb9xFMtktny9Lzty21QYLLQD93ft6",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93789
+      ]
+    },
+    {
+      "address": "TMiSGhXXVsvJzqwGbwAsGiFxWg2eALZoM5",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93790
+      ]
+    },
+    {
+      "address": "TMuCgBejD5RsNANZdjGtaM3YyKGNgDoy7N",
+      "date_listed": "2025-08-14",
+      "entity_id": 55045,
+      "entity_name": "Grinex",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        91894
+      ]
+    },
+    {
+      "address": "TNDjh6WGLYyWmkh8vfu42bXVHUqFNQ3rDq",
+      "date_listed": "2022-04-05",
+      "entity_id": 36025,
+      "entity_name": "GARANTEX EUROPE OU",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER4",
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        89506
+      ]
+    },
+    {
+      "address": "TNTFhgFoKH4srBMiWbfrVFqP2AThSmdwf1",
+      "date_listed": "2023-04-24",
+      "entity_id": 42498,
+      "entity_name": "Sim Hyon Sop",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "NPWMD"
+      ],
+      "source_feature_ids": [
+        96599
+      ]
+    },
+    {
+      "address": "TNZxGWCwvsHr6JxQxzoeDXV597Yf7Zb7nV",
+      "date_listed": "2025-08-14",
+      "entity_id": 55045,
+      "entity_name": "Grinex",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        91890
+      ]
+    },
+    {
+      "address": "TNmRfnSUXZoWWzxcDDbf95eGQYXt1mJDt8",
+      "date_listed": "2025-05-29",
+      "entity_id": 53953,
+      "entity_name": "Funnull Technology Inc",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER3"
+      ],
+      "source_feature_ids": [
+        89215
+      ]
+    },
+    {
+      "address": "TNrX2FwrHKoo4XACGkmSzqeK4pdnKYn6Z7",
+      "date_listed": "2026-03-12",
+      "entity_id": 57056,
+      "entity_name": "AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        96362
+      ]
+    },
+    {
+      "address": "TNuA5CQ6LB4jTHoNrjEeQZJmcmhQuHMbQ7",
+      "date_listed": "2026-01-30",
+      "entity_id": 56865,
+      "entity_name": "Zedcex Exchange Ltd",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902",
+        "SDGT",
+        "IFSR"
+      ],
+      "source_feature_ids": [
+        95875
+      ]
+    },
+    {
+      "address": "TPDLpXxPcaSsupEZ3yrVksmNkYP5SLeKxu",
+      "date_listed": "2023-04-24",
+      "entity_id": 42498,
+      "entity_name": "Sim Hyon Sop",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "NPWMD"
+      ],
+      "source_feature_ids": [
+        96598
+      ]
+    },
+    {
+      "address": "TPF9UQhqpV18BPWg5xo6MeB3h8t4iEg9gP",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93792
+      ]
+    },
+    {
+      "address": "TPJ1JNX98MJpHueBJeF5SVSg85z8mYg1P1",
+      "date_listed": "2025-11-19",
+      "entity_id": 56357,
+      "entity_name": "Wedding Ryan James",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        94556
+      ]
+    },
+    {
+      "address": "TPPR7e8hGC57dexrE2jy1f94wtuGyVP6Dp",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93794
+      ]
+    },
+    {
+      "address": "TPcUZYthDfxNsHQnZZGBM1BDNBeNSjfPZE",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93791
+      ]
+    },
+    {
+      "address": "TPo3JyryRcQ3uhBWexeYhtkpMitsUwY4uB",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93793
+      ]
+    },
+    {
+      "address": "TQ5H49Wz3K57zNHmuXVp6uLzFwitxviABs",
+      "date_listed": "2025-09-16",
+      "entity_id": 55502,
+      "entity_name": "ALIVAND Arash Estaki",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        93077
+      ]
+    },
+    {
+      "address": "TQ5mpZPbQMSq2s1vSM3RJgiB1AsTsiTpFZ",
+      "date_listed": "2024-02-16",
+      "entity_id": 47664,
+      "entity_name": "Ansarallah",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "SDGT",
+        "FTO"
+      ],
+      "source_feature_ids": [
+        87615
+      ]
+    },
+    {
+      "address": "TQKQ4ntejdYYJpuYkFz8oCSDoXW6RKRDdY",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93795
+      ]
+    },
+    {
+      "address": "TQthYM5nLqwAEr6DScC8tRtw29ncEB53mK",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93796
+      ]
+    },
+    {
+      "address": "TR18rEj7gWjKBJLYrowyfnvjWLTTsXGngK",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93797
+      ]
+    },
+    {
+      "address": "TRBACioxdrdsYEZHvJWiUDZcMdBPpEe5Ub",
+      "date_listed": "2023-10-03",
+      "entity_id": 45391,
+      "entity_name": "Zhang Wei",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        65868
+      ]
+    },
+    {
+      "address": "TRakpsE1mZjCUMNPyozR4BW2ZtJsF7ZWFN",
+      "date_listed": "2025-09-16",
+      "entity_id": 55502,
+      "entity_name": "ALIVAND Arash Estaki",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        93074
+      ]
+    },
+    {
+      "address": "TRkGqvaobVp4XDNmSceRo5hDcJYDTFmYjd",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93798
+      ]
+    },
+    {
+      "address": "TSxAAo67VTDgKT537EVXxdogkJtk9c6ojz",
+      "date_listed": "2025-09-16",
+      "entity_id": 55484,
+      "entity_name": "DERAKHSHAN Alireza",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        93071
+      ]
+    },
+    {
+      "address": "TTAHMdqoom4f2VTWniroPWQHcTRZ4caoH4",
+      "date_listed": "2021-06-10",
+      "entity_id": 32171,
+      "entity_name": "Al-Jamal Sa'id Ahmad Muhammad",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        83700
+      ]
+    },
+    {
+      "address": "TTKnV2S1295UrPr7N67Tp9ykNL7xX2Z4Uj",
+      "date_listed": "2023-10-03",
+      "entity_id": 45350,
+      "entity_name": "Xia Fengbing",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        65812
+      ]
+    },
+    {
+      "address": "TTS9o5KkpGgH8cK9LofLmMAPYb5zfQvSNa",
+      "date_listed": "2026-01-30",
+      "entity_id": 56865,
+      "entity_name": "Zedcex Exchange Ltd",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902",
+        "SDGT",
+        "IFSR"
+      ],
+      "source_feature_ids": [
+        95871
+      ]
+    },
+    {
+      "address": "TTUDyVhhpCC1xJoPmWzdjLAzeoPwbSABdr",
+      "date_listed": "2024-09-26",
+      "entity_id": 50641,
+      "entity_name": "Cryptex",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER2",
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        79079
+      ]
+    },
+    {
+      "address": "TTUqoT6EAmiM1xLvwVwxhjvjaoEUGtKDdZ",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93800
+      ]
+    },
+    {
+      "address": "TTct1DezYvriNWU7Wi3mygLoskkaw61mra",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93799
+      ]
+    },
+    {
+      "address": "TTgcTTNbNuFdbrhvbjMZVrdU5KALyzDaPw",
+      "date_listed": "2024-03-27",
+      "entity_id": 47635,
+      "entity_name": "Gaza Now",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        70193
+      ]
+    },
+    {
+      "address": "TTzMs5AR66jr9mQMkWfCHVwd3AiLLYPepQ",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93801
+      ]
+    },
+    {
+      "address": "TU4tDFRvcKhAZ1jdihojmBWZqvJhQCnJ4F",
+      "date_listed": "2025-07-01",
+      "entity_id": 54566,
+      "entity_name": "Aeza Group LLC",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER4",
+        "CAATSA - RUSSIA"
+      ],
+      "source_feature_ids": [
+        90668
+      ]
+    },
+    {
+      "address": "TUKsuPVb8kgJVFp5x528KC5HisUVdzxami",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93802
+      ]
+    },
+    {
+      "address": "TV5ZTpKDszLTF6XcMnPongS33pwBgF91by",
+      "date_listed": "2021-06-10",
+      "entity_id": 32171,
+      "entity_name": "Al-Jamal Sa'id Ahmad Muhammad",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        83699
+      ]
+    },
+    {
+      "address": "TVDsEFm19zLV8HeXdt6G75rLroxnp6uqpV",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93803
+      ]
+    },
+    {
+      "address": "TVNyvx2astt2AB1Us67ENjfMZeEXZeiuu6",
+      "date_listed": "2025-11-19",
+      "entity_id": 56357,
+      "entity_name": "Wedding Ryan James",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        94555
+      ]
+    },
+    {
+      "address": "TVacWx7F5wgMgn49L5frDf9KLgdYy8nPHL",
+      "date_listed": "2023-07-31",
+      "entity_id": 44445,
+      "entity_name": "Shafiu Ali",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        64442
+      ]
+    },
+    {
+      "address": "TVn4q7L4fKEPbygi7UHq1CKfZxtbeuMV5q",
+      "date_listed": "2024-02-16",
+      "entity_id": 47664,
+      "entity_name": "Ansarallah",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "SDGT",
+        "FTO"
+      ],
+      "source_feature_ids": [
+        87621
+      ]
+    },
+    {
+      "address": "TVu2SiQrWSnfwk8quAeDxfiaLy6FHzYkMA",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93804
+      ]
+    },
+    {
+      "address": "TVyiDQ25H6Rx6PcNV1WyjGasGSa8ehj1Uv",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93805
+      ]
+    },
+    {
+      "address": "TW3RgbhYkFEFnmRJ9mE9b83T9XYSMkjwuD",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93806
+      ]
+    },
+    {
+      "address": "TWBAPzpPiZarfVsY2BLXeaLhNHurn4wkWG",
+      "date_listed": "2024-03-26",
+      "entity_id": 48302,
+      "entity_name": "AL-LAW Tawfiq Muhammad Sa'id",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        70468
+      ]
+    },
+    {
+      "address": "TWwv8FQiES3yHGig7y3zJWYuPaZfSV3vmY",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93807
+      ]
+    },
+    {
+      "address": "TX5GV4DyfxNB3rPkzZJhmqZ1efVmL4rEqG",
+      "date_listed": "2022-09-15",
+      "entity_id": 38665,
+      "entity_name": "Task Force Rusich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        54509
+      ]
+    },
+    {
+      "address": "TXEaKf4rT3rMoD3Vuqnuhwr6vLq6BL5t33",
+      "date_listed": "2024-02-16",
+      "entity_id": 47664,
+      "entity_name": "Ansarallah",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "SDGT",
+        "FTO"
+      ],
+      "source_feature_ids": [
+        87616
+      ]
+    },
+    {
+      "address": "TXEsK1sEsKjZ1xtHitnyAAoqw3WLdYdRNW",
+      "date_listed": "2024-03-27",
+      "entity_id": 47635,
+      "entity_name": "Gaza Now",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        70212
+      ]
+    },
+    {
+      "address": "TXFUYHVJMDyKikutvCG6qNgTUS5pxtZhHs",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93809
+      ]
+    },
+    {
+      "address": "TXc4kRiMEcdXRxWpSKkD5qKaARExN4uxPq",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93808
+      ]
+    },
+    {
+      "address": "TXhf9nU9bjo1j9z5qEesHdr6gtdndfnA4T",
+      "date_listed": "2023-04-24",
+      "entity_id": 42498,
+      "entity_name": "Sim Hyon Sop",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "NPWMD"
+      ],
+      "source_feature_ids": [
+        96600
+      ]
+    },
+    {
+      "address": "TYD6a4PAAfAgegEdDf9oZUnW4DFmS8jeFT",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93810
+      ]
+    },
+    {
+      "address": "TYDUutYN4YLKUPeT7TG27Yyqw6kNVLq9QZ",
+      "date_listed": "2025-09-16",
+      "entity_id": 55502,
+      "entity_name": "ALIVAND Arash Estaki",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        93073
+      ]
+    },
+    {
+      "address": "TYK29mbyvVxLaLUKdFSTRADMwoxaVbVZQg",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93811
+      ]
+    },
+    {
+      "address": "TYeQD2VddTZ9NkFkAnT9DD8cUGetGUQZB2",
+      "date_listed": "2023-04-24",
+      "entity_id": 42498,
+      "entity_name": "Sim Hyon Sop",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "NPWMD"
+      ],
+      "source_feature_ids": [
+        96602
+      ]
+    },
+    {
+      "address": "TYxwUhoLPF7AgfG9GaXFEp8CQi8K8KG1m3",
+      "date_listed": "2017-09-26",
+      "entity_id": 22985,
+      "entity_name": "CHEIL CREDIT BANK",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        93812
+      ]
+    },
+    {
+      "address": "TZB4NrX7k9ZsV6PRc1GigAztLL8WHpLvwP",
+      "date_listed": "2026-03-12",
+      "entity_id": 57056,
+      "entity_name": "AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        96368
       ]
     }
   ],
   "chain": "tron",
-  "last_updated": "2026-03-23T20:16:42Z",
+  "last_updated": "2026-03-23T20:46:08Z",
   "source_list": "SDN",
   "source_xml_url": "https://www.treasury.gov/ofac/downloads/sanctions/1.0/sdn_advanced.xml"
 }

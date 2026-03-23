@@ -15,6 +15,7 @@ direct_mappings:
   ARB: arbitrum
   BSC: bsc
   TRX: tron
+  SOL: solana
 
 # Tickers that are multi-chain tokens — require address format inference
 multi_chain_tickers:
@@ -52,6 +53,10 @@ address_patterns:
 
   - pattern: "^X[1-9A-HJ-NP-Za-km-z]{33}$"
     chain: dash
+
+  - pattern: "^[1-9A-HJ-NP-Za-km-z]{32,44}$"
+    chain: solana
+    note: "Solana base58 address. Placed last to avoid false matches with other base58 chains."
 
 # EVM ticker disambiguation: when a multi-chain token has a 0x address,
 # these tickers override the default "ethereum" chain assignment.

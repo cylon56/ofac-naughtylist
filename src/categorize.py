@@ -47,7 +47,18 @@ def categorize_addresses(
     """
     direct_mappings = chain_mapping.get("direct_mappings", {})
     multi_chain_tickers = set(chain_mapping.get("multi_chain_tickers", []))
-    address_patterns = chain_mapping.get("address_patterns", [])
+    address_patterns_raw = chain_mapping.get("address_patterns", [])
+    # Precompile regex patterns for performance and early validation
+    address_patterns = []
+    for pat_entry in address_patterns_raw:
+        try:
+            address_patterns.append({
+                **pat_entry,
+                "_compiled": re.compile(pat_entry["pattern"]),
+            })
+        except re.error as e:
+            logger.error("Invalid regex pattern %r: %s", pat_entry["pattern"], e)
+            raise
     evm_ticker_overrides = chain_mapping.get("evm_ticker_overrides", {})
 
     # First pass: group by address string to deduplicate
@@ -93,7 +104,7 @@ def categorize_addresses(
         else:
             # Step 2: All tickers are multi-chain, use address pattern inference
             for pat_entry in address_patterns:
-                if re.match(pat_entry["pattern"], addr_str):
+                if pat_entry["_compiled"].match(addr_str):
                     chain = pat_entry["chain"]
                     break
 
@@ -127,6 +138,20 @@ def categorize_addresses(
         if chain not in result:
             result[chain] = []
         result[chain].append(cat_addr)
+
+    # Warn about unmapped tickers that ended up in "unknown"
+    if "unknown" in result:
+        unmapped_tickers: set[str] = set()
+        for addr in result["unknown"]:
+            for t in addr.ofac_tickers:
+                if t not in direct_mappings and t not in multi_chain_tickers:
+                    unmapped_tickers.add(t)
+        if unmapped_tickers:
+            logger.warning(
+                "Unmapped tickers found (addresses sent to 'unknown'): %s. "
+                "Consider adding them to config/chain_mapping.yaml.",
+                sorted(unmapped_tickers),
+            )
 
     # Sort addresses within each chain for deterministic output
     for chain in result:

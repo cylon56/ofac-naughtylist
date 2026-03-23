@@ -1,25 +1,141 @@
 {
-  "address_count": 1,
+  "address_count": 8,
   "addresses": [
     {
-      "address": "4A1BpBgHEVmjdLRWCFpYYzKvSHBGLgSLqF6bRcJHjHEZicxMGMPMQHiRg2FMVgqMPHh3EqD8RNE8KYS3kJf93cRK2RfFg",
-      "date_listed": "2023-01-10",
-      "entity_id": 50001,
-      "entity_name": "TEST SANCTIONS ENTITY",
+      "address": "49HqitRzdnhYjgTEAhgGpCfsjdTeMbUTU6cyR4JV1R7k2Eej9rGT8JpFiYDa4tZM6RZiFrHmMzgSrhHEqpDYKBe5B2ufNsL",
+      "date_listed": "2021-04-15",
+      "entity_id": 31212,
+      "entity_name": "SOUTHFRONT",
       "evm_compatible": false,
       "ofac_tickers": [
         "XMR"
       ],
       "programs": [
-        "SDGT"
+        "CYBER2",
+        "ELECTION-EO13848",
+        "NPWMD"
       ],
       "source_feature_ids": [
-        60001
+        44782
+      ]
+    },
+    {
+      "address": "5be5543ff73456ab9f2d207887e2af87322c651ea1a873c5b25b7ffae456c320",
+      "date_listed": "2020-09-16",
+      "entity_id": 29585,
+      "entity_name": "KARASAVIDI Dmitrii",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XMR"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        36454
+      ]
+    },
+    {
+      "address": "84AwzjeFWXNEuhj8LWinXo93AqYr6wS8ZcnaBCoGhrL7EtvBMBovdhiUSV9xLhjrPA8t64hYSaMc8bHtWXoV9129EHUjU62",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XMR"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85112
+      ]
+    },
+    {
+      "address": "86ze8c9oUftDSTxzFBhfSJYpjvw6GYkqjeEaggy3hBVL1ou2tk79DfSj5YiZ3wjDHp541tizcQ8bVCxCtVHQncuc3asa8wz",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XMR"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85114
+      ]
+    },
+    {
+      "address": "87XWTP9tBECHXCwbyMK1KENoy4GeXkRviNzmhNc5Pvo5ExZ1QXjtRRyFeXPuHf7fNiS7KzBZNJeGweJhMbFB647171y66id",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XMR"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85113
+      ]
+    },
+    {
+      "address": "884Bz8UH63aYsjVdkfWfScRYWZGGNbjFL7pztqvWNSrtYT4reFSwyvkCj9KEGUtheHhhMUj87ciTBFyzoesrMJ4L1FvSoxL",
+      "date_listed": "2021-04-15",
+      "entity_id": 31212,
+      "entity_name": "SOUTHFRONT",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XMR"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848",
+        "NPWMD"
+      ],
+      "source_feature_ids": [
+        44781
+      ]
+    },
+    {
+      "address": "88wRZuGMuC5YQvXpKpeLFHQeZWW28XtGyZCizkqeypTaRcjzNNKVrCg7PpoEeWaj5A7wwbh5M2X9ycXrfUkbeptACsG4bVn",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XMR"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85110
+      ]
+    },
+    {
+      "address": "8ANG5NBnApL94YAKRfCSaS7g2fjEi1DWVcFNTn3wQ5HpfsgtnusgxaXE24bbhXukTgF8esRnMsWaReRiqNbSBSbmRE5Nm5M",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XMR"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85111
       ]
     }
   ],
   "chain": "monero",
-  "last_updated": "2026-03-23T20:16:42Z",
+  "last_updated": "2026-03-23T20:46:08Z",
   "source_list": "SDN",
   "source_xml_url": "https://www.treasury.gov/ofac/downloads/sanctions/1.0/sdn_advanced.xml"
 }

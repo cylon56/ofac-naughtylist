@@ -1,11 +1,11 @@
 {
-  "address_count": 2,
+  "address_count": 521,
   "addresses": [
     {
-      "address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "address": "123WBUDmSJv4GctdVEz6Qq6z8nXSKrJ4KX",
       "date_listed": "2022-04-05",
-      "entity_id": 42001,
-      "entity_name": "GARANTEX EUROPE OU",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
       "evm_compatible": false,
       "ofac_tickers": [
         "XBT"
@@ -14,14 +14,223 @@
         "CYBER2"
       ],
       "source_feature_ids": [
-        55105
+        49761
       ]
     },
     {
-      "address": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh",
-      "date_listed": "2022-04-14",
-      "entity_id": 39498,
-      "entity_name": "LAZARUS GROUP",
+      "address": "125W5ek3DT6Zqy5S2iPt4FHQdNMCbZA3FU",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61068
+      ]
+    },
+    {
+      "address": "1295rkVyNfFpqZpXvKGhDqwhP1jZcNNDMV",
+      "date_listed": "2021-09-21",
+      "entity_id": 33151,
+      "entity_name": "SUEX OTC, S.R.O.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        43006
+      ]
+    },
+    {
+      "address": "129zKFLoVad9JtxSmDKeJoLCsjhGR7b3vr",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56416
+      ]
+    },
+    {
+      "address": "12HQDsicffSBaYdJ6BhnE22sfjTESmmzKx",
+      "date_listed": "2021-09-21",
+      "entity_id": 33151,
+      "entity_name": "SUEX OTC, S.R.O.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        42980
+      ]
+    },
+    {
+      "address": "12NpCkhddSNiDkD9rRYUCHsTT9ReMNiJjG",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56491
+      ]
+    },
+    {
+      "address": "12QtD5BFwRsdNsAZY76UVE1xyCGNTojH9h",
+      "date_listed": "2019-08-21",
+      "entity_id": 25308,
+      "entity_name": "YAN Xiaobing",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDNTK"
+      ],
+      "source_feature_ids": [
+        31723
+      ]
+    },
+    {
+      "address": "12VrYZgS1nmf9KHHped24xBb1aLLRpV2cT",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49707
+      ]
+    },
+    {
+      "address": "12YCfVAEzkEZXBYhUTyJJaRkgMXiFxJgcu",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61075
+      ]
+    },
+    {
+      "address": "12YyR9EpvHxBjjKjTWqfKqeyoWnvcraxpW",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56417
+      ]
+    },
+    {
+      "address": "12jVCWW1ZhTLA5yVnroEJswqKwsfiZKsax",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61080
+      ]
+    },
+    {
+      "address": "12mNKr2YP4M3CEQvCvVqZsvxuCG47LHMu1",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56520
+      ]
+    },
+    {
+      "address": "12udabs2TkX7NXCSj6KpqXfakjE52ZPLhz",
+      "date_listed": "2020-09-10",
+      "entity_id": 29702,
+      "entity_name": "Lifshits Artem Mikhaylovich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ELECTION-EO13848",
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        36616
+      ]
+    },
+    {
+      "address": "12w6v1qAaBc4W8h8C2Cu5SKFaKDSv3erUW",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61070
+      ]
+    },
+    {
+      "address": "134r8iHv69xdT6p5qVKTsHrcUEuBVZAYak",
+      "date_listed": "2020-03-02",
+      "entity_id": 28263,
+      "entity_name": "Tian Yinyin",
       "evm_compatible": false,
       "ofac_tickers": [
         "XBT"
@@ -31,12 +240,8187 @@
         "DPRK3"
       ],
       "source_feature_ids": [
-        52343
+        33689
+      ]
+    },
+    {
+      "address": "13JtX4h7G5ZuNK5mFudKGq9DHLvvMFuNuz",
+      "date_listed": "2024-09-26",
+      "entity_id": 50641,
+      "entity_name": "Cryptex",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        79078
+      ]
+    },
+    {
+      "address": "13LQJQ1oJ9K7PsqsGfjNhoVv6UeU6hgzQz",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49710
+      ]
+    },
+    {
+      "address": "13RH4JaFhaCxDGPyYE9emjp2aDxdX18uBA",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56423
+      ]
+    },
+    {
+      "address": "13ViCDZyJxxv5cZzpDDsE7aDQ3Y552zpAH",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56526
+      ]
+    },
+    {
+      "address": "13YBQr2Cp1YY3xqq2qngaPb7ca1o4ugeq6",
+      "date_listed": "2020-09-10",
+      "entity_id": 29703,
+      "entity_name": "Andreyev Anton Nikolaeyvich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        36639
+      ]
+    },
+    {
+      "address": "13f59kUM5FU8MfTG7DCEugYarDhSD7XCoC",
+      "date_listed": "2019-08-21",
+      "entity_id": 25308,
+      "entity_name": "YAN Xiaobing",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDNTK"
+      ],
+      "source_feature_ids": [
+        31725
+      ]
+    },
+    {
+      "address": "13fhnkmpBBWXUQucJd6efWvXdEj78DKavk",
+      "date_listed": "2024-05-01",
+      "entity_id": 48432,
+      "entity_name": "OKO DESIGN BUREAU",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        70746
+      ]
+    },
+    {
+      "address": "13hfsQm6oCaDZehfYBSMFiJVAi1jsL6sQd",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49780
+      ]
+    },
+    {
+      "address": "13mnk8SvDGqsQTHbiGiHBXqtaQCUKfcsnP",
+      "date_listed": "2021-09-21",
+      "entity_id": 33151,
+      "entity_name": "SUEX OTC, S.R.O.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        43001
+      ]
+    },
+    {
+      "address": "148LKmyZT3FGE4x1GjsFN6RsAwcjzk5iuE",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49754
+      ]
+    },
+    {
+      "address": "149w62rY42aZBox8fGcmqNsXUzSStKeq8C",
+      "date_listed": "2018-11-28",
+      "entity_id": 26137,
+      "entity_name": "Khorashadizadeh Ali",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        30464
+      ]
+    },
+    {
+      "address": "14gM1HuLVDELNHaFU22qpabjtiWek4HhV1",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49695
+      ]
+    },
+    {
+      "address": "14kqryJUxM3a7aEi117KX9hoLUw592WsMR",
+      "date_listed": "2020-03-02",
+      "entity_id": 28263,
+      "entity_name": "Tian Yinyin",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33692
+      ]
+    },
+    {
+      "address": "14rjAD8ZP5xaL571cMRE98qgxxbg1S8mAN",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61078
+      ]
+    },
+    {
+      "address": "158treVZBGMBThoaympxccPdZPtqUfYrT9",
+      "date_listed": "2021-11-08",
+      "entity_id": 33858,
+      "entity_name": "Polyanin Yevgeniy Igorevich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44748
+      ]
+    },
+    {
+      "address": "15PggTG7YhJKiE6B16vkKzA1YDTZipXEX4",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51607
+      ]
+    },
+    {
+      "address": "15Pt4NwZaUmMUwS2bQbyyncc7mzgWShtv8",
+      "date_listed": "2020-09-10",
+      "entity_id": 29703,
+      "entity_name": "Andreyev Anton Nikolaeyvich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        36637
+      ]
+    },
+    {
+      "address": "15UdZbmGPa2LatD3abtGpphgkHLFWftV4R",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56429
+      ]
+    },
+    {
+      "address": "15YK647qtoZQDzNrvY6HJL6QwXduLHfT28",
+      "date_listed": "2020-03-02",
+      "entity_id": 28263,
+      "entity_name": "Tian Yinyin",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33690
+      ]
+    },
+    {
+      "address": "15cRqR3TXS1JehBGWERuxFE8NhWZzfoeeU",
+      "date_listed": "2024-02-20",
+      "entity_id": 47682,
+      "entity_name": "Kondratiev Ivan Gennadievich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        69175
+      ]
+    },
+    {
+      "address": "15kZobLkD6HZgEECtz4oS2Vz21XHTnNfSg",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61073
+      ]
+    },
+    {
+      "address": "15qyVrZvvVGvB7GWiAZ82TNcZ6QWMKu3kx",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61074
+      ]
+    },
+    {
+      "address": "15uqdxqNXQwVf5H7yZPz4TmEGeSccCwdor",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56478
+      ]
+    },
+    {
+      "address": "15yqWQ4sqr7jzCwDtZ3U1KaCa8WMEy7Mm2",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56484
+      ]
+    },
+    {
+      "address": "16EKTes8ahD8xvwisqjc2xSNLiG3fDHatW",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49755
+      ]
+    },
+    {
+      "address": "16PhXY3hNNMTo8kpuJx2emh713KbWpkqci",
+      "date_listed": "2021-04-15",
+      "entity_id": 30518,
+      "entity_name": "Secondeye Solution",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38219
+      ]
+    },
+    {
+      "address": "16SPDQFFzgsoNSPiFFTfS8Dw8LLXqia4oc",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49699
+      ]
+    },
+    {
+      "address": "16ZSAEfYpPCj3D94fsNt2okYj9Ue8mxy6T",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49742
+      ]
+    },
+    {
+      "address": "16iWn2J1McqjToYLHSsAyS6En3QA8YQ91H",
+      "date_listed": "2021-09-21",
+      "entity_id": 33151,
+      "entity_name": "SUEX OTC, S.R.O.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        43107
+      ]
+    },
+    {
+      "address": "16p2UWTZwXRyK5bTHNVjdDyy1D3EQGsZf2",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49723
+      ]
+    },
+    {
+      "address": "16tByCYzxuWiN8kF9FrK9jJy6eQYLVkQ1i",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56433
+      ]
+    },
+    {
+      "address": "16ti2EXaae5izfkUZ1Zc59HMcsdnHpP5QJ",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61083
+      ]
+    },
+    {
+      "address": "175BUqf8JCU1uoG1iTRKTacDa4uvJDUCw2",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49716
+      ]
+    },
+    {
+      "address": "17UVSMegvrzfobKC82dHXpZLtLcqzW9stF",
+      "date_listed": "2020-03-02",
+      "entity_id": 28264,
+      "entity_name": "Li Jiadong",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33700
+      ]
+    },
+    {
+      "address": "17V7THwHMiDJmDwZK4unhE5HgKFJKx7VCe",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49693
+      ]
+    },
+    {
+      "address": "17a5bpKvEp1j1Trs4qTbcNZrby53JbaS9C",
+      "date_listed": "2021-07-28",
+      "entity_id": 31811,
+      "entity_name": "FAYZIMATOV Farrukh Furkatovitch",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        41945
+      ]
+    },
+    {
+      "address": "17ezuJoT3XBbdcwFZbkTnrXbup11F4uhiy",
+      "date_listed": "2019-08-21",
+      "entity_id": 26236,
+      "entity_name": "Zheng Fujing",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDNTK"
+      ],
+      "source_feature_ids": [
+        31685
+      ]
+    },
+    {
+      "address": "17mhyeBX617ABZ1ffThhUTJkHUcMvCkfd5",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49688
+      ]
+    },
+    {
+      "address": "182NGZbPJXwg2WDrhrPpR7tpiGQkNPF844",
+      "date_listed": "2021-04-15",
+      "entity_id": 30518,
+      "entity_name": "Secondeye Solution",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38217
+      ]
+    },
+    {
+      "address": "18Ke1QWE9nQfXuhJijHggZuPJ5ZYxapoBK",
+      "date_listed": "2021-04-15",
+      "entity_id": 30518,
+      "entity_name": "Secondeye Solution",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38221
+      ]
+    },
+    {
+      "address": "18Qj1THHuETfYhuRDZycXJbWwDMGw73Poa",
+      "date_listed": "2020-09-10",
+      "entity_id": 29703,
+      "entity_name": "Andreyev Anton Nikolaeyvich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        36634
+      ]
+    },
+    {
+      "address": "18aqbRhHupgvC9K8qEqD78phmTQQWs7B5d",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61082
+      ]
+    },
+    {
+      "address": "18cFGAdYcvNHkuhXLBE7izQKCyUW8TzCJE",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49719
+      ]
+    },
+    {
+      "address": "18dLDAWi8LmrHbEq3QzDJb9SLxCf4uimXB",
+      "date_listed": "2025-11-19",
+      "entity_id": 53994,
+      "entity_name": "Volosovik Aleksandr Aleksandrovich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CAATSA - RUSSIA",
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        94433
+      ]
+    },
+    {
+      "address": "18gaXypKj9M23S2zT9qZfL9iPbLFM372Q5",
+      "date_listed": "2024-02-20",
+      "entity_id": 47680,
+      "entity_name": "Sungatov Artur Ravilevich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        69149
+      ]
+    },
+    {
+      "address": "18uKfaUjgG52rVeXEi3wxnveww7zZuECtE",
+      "date_listed": "2019-08-21",
+      "entity_id": 26323,
+      "entity_name": "Zheng Guanghua",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDNTK"
+      ],
+      "source_feature_ids": [
+        31797
+      ]
+    },
+    {
+      "address": "18yWCu6agTxYqAerMxiz9sgHrK3ViezzGa",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61079
+      ]
+    },
+    {
+      "address": "194xmrZA53UBsZau2PnJLdmVVW9m5feeS",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56499
+      ]
+    },
+    {
+      "address": "1986rYHckYbJpGQJy6ornuMyD2N5MTqwDt",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61067
+      ]
+    },
+    {
+      "address": "19D1iGzDr7FyAdiy3ZZdxMd6ttHj1kj6WW",
+      "date_listed": "2023-10-18",
+      "entity_id": 45678,
+      "entity_name": "Buy Cash Money and Money Transfer Company",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        66233
+      ]
+    },
+    {
+      "address": "19D8PHBjZH29uS1uPZ4m3sVyqqfF8UFG9o",
+      "date_listed": "2021-04-15",
+      "entity_id": 30518,
+      "entity_name": "Secondeye Solution",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38214
+      ]
+    },
+    {
+      "address": "19FQzHibWDhSP8pKmJS3uagFYoisXtehzw",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49737
+      ]
+    },
+    {
+      "address": "19GrL5jnUkGmHXVcraB1Etv5rXCANeLWpq",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56485
+      ]
+    },
+    {
+      "address": "19pPbUDvoSBZafkUCYkD2Z9AkuqqV6sWm7",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49700
+      ]
+    },
+    {
+      "address": "1A3iYY4c3dkgNYGewzYzr7EsqfBuWXibGo",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49766
+      ]
+    },
+    {
+      "address": "1A7SKE2dQtezLktCY8peLsdAtkqxV9r1dC",
+      "date_listed": "2024-02-20",
+      "entity_id": 47682,
+      "entity_name": "Kondratiev Ivan Gennadievich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        69176
+      ]
+    },
+    {
+      "address": "1ANpca7g93BwptUJg1zV116v49zn9gjDi3",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49717
+      ]
+    },
+    {
+      "address": "1AXUTu9y3H8w4wYx4BjyFWgRhZKDhmcMrn",
+      "date_listed": "2020-03-02",
+      "entity_id": 28263,
+      "entity_name": "Tian Yinyin",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33695
+      ]
+    },
+    {
+      "address": "1AeSq93WDNdLoEJ92sex7T8xQZoYYm8BtS",
+      "date_listed": "2020-09-10",
+      "entity_id": 29703,
+      "entity_name": "Andreyev Anton Nikolaeyvich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        36628
+      ]
+    },
+    {
+      "address": "1AjZPMsnmpdK2Rv9KQNfMurTXinscVro9V",
+      "date_listed": "2018-11-28",
+      "entity_id": 26138,
+      "entity_name": "GHORBANIYAN Mohammad",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        30476
+      ]
+    },
+    {
+      "address": "1AoxtfiBQ22DvbhqAN9Ctb8sULMRhrdwTr",
+      "date_listed": "2020-09-10",
+      "entity_id": 29703,
+      "entity_name": "Andreyev Anton Nikolaeyvich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        36633
+      ]
+    },
+    {
+      "address": "1B11Ezqg3AXjFhMdRq5UpPDpNyriYNVtkn",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49698
+      ]
+    },
+    {
+      "address": "1B3u21itzjgKtm7QsNQNCBpSkwzzeDHqrW",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49783
+      ]
+    },
+    {
+      "address": "1B64QRxfaa35MVkf7sDjuGUYAP5izQt7Qi",
+      "date_listed": "2021-09-21",
+      "entity_id": 33151,
+      "entity_name": "SUEX OTC, S.R.O.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        43106
+      ]
+    },
+    {
+      "address": "1BCWMwpR4M1nYUuuYe2bmzrNuwGoF9ZAbA",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49718
+      ]
+    },
+    {
+      "address": "1BiUFjzH6wsT73U3tfy4aXHCQsYQHzjk5h",
+      "date_listed": "2021-04-15",
+      "entity_id": 30520,
+      "entity_name": "RAZA Mujtaba Ali",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38286
+      ]
+    },
+    {
+      "address": "1BvJRBRp9ZZ6zLyuZaZsV7g3xP6JokdZQW",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49776
+      ]
+    },
+    {
+      "address": "1C7RpJNE19HgefzWVCSaUqRTHAwGAFkbYV",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56549
+      ]
+    },
+    {
+      "address": "1CF46Rfbp97absrs7zb7dFfZS6qBXUm9EP",
+      "date_listed": "2021-09-21",
+      "entity_id": 33151,
+      "entity_name": "SUEX OTC, S.R.O.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT",
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        43047,
+        43103
+      ]
+    },
+    {
+      "address": "1CG1aSCxUnbmv9G34ofxTQoHtuVnMLJtQV",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49711
+      ]
+    },
+    {
+      "address": "1CNbhgxGRZvsWnEHotfXge7k2E1UPzBDC7",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49772
+      ]
+    },
+    {
+      "address": "1CPJak9ZyddbawMGJPyEhCiJLXXb4sYv8N",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61071
+      ]
+    },
+    {
+      "address": "1CddRqw7oSPrT4tt5oXKyx2LiHJDPszy7y",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49724
+      ]
+    },
+    {
+      "address": "1D1ej7zQzywWBDNXKNYpmH7Hso2U9koDG4",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49728
+      ]
+    },
+    {
+      "address": "1D3GuaS9eqKw8dWj9JFQtNufdRtysjSLxZ",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49726
+      ]
+    },
+    {
+      "address": "1D6gG9iKEhPitTcWRJiniuj1jYM2hNeAfJ",
+      "date_listed": "2023-05-23",
+      "entity_id": 43377,
+      "entity_name": "Kim Sang Man",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        62809
+      ]
+    },
+    {
+      "address": "1DDA93oZPn7wte2eR1ABwcFoxUFxkKMwCf",
+      "date_listed": "2020-09-16",
+      "entity_id": 29585,
+      "entity_name": "KARASAVIDI Dmitrii",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        36451
+      ]
+    },
+    {
+      "address": "1DGsY4ww3BJnWXTsnmTgWa6UWdoRXgA1pX",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49702
+      ]
+    },
+    {
+      "address": "1DH2xDH7TngrDU6LXciprKCBKNcPA1xX8A",
+      "date_listed": "2019-08-21",
+      "entity_id": 26236,
+      "entity_name": "Zheng Fujing",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDNTK"
+      ],
+      "source_feature_ids": [
+        31762
+      ]
+    },
+    {
+      "address": "1DJoEMvp95yJYWyxAZy8DDBzuvjnrTVrsN",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56425
+      ]
+    },
+    {
+      "address": "1DJoVLgn1foJHHngduRPJvRbwpaFEKxvxd",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61072
+      ]
+    },
+    {
+      "address": "1DKGRGJXGNLAtTeFb9SNPNHtrkZ87q7qKi",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49800
+      ]
+    },
+    {
+      "address": "1DT3tenf14cxz9WFNxmYrXFbB6TFiVWA9U",
+      "date_listed": "2020-09-10",
+      "entity_id": 29702,
+      "entity_name": "Lifshits Artem Mikhaylovich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ELECTION-EO13848",
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        36619
+      ]
+    },
+    {
+      "address": "1DYFJ6CuBvrxyoQSuBzVsNcetY9tvdsrag",
+      "date_listed": "2020-09-10",
+      "entity_id": 29703,
+      "entity_name": "Andreyev Anton Nikolaeyvich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        36636
+      ]
+    },
+    {
+      "address": "1DbShx4r8i2XesthoDBf5EkYWz5dsKEusV",
+      "date_listed": "2020-09-10",
+      "entity_id": 29703,
+      "entity_name": "Andreyev Anton Nikolaeyvich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        36646
+      ]
+    },
+    {
+      "address": "1DbvK8P6imBuLcwh2Vruis4xsUb8YAwJQF",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56413
+      ]
+    },
+    {
+      "address": "1Df883c96LVauVsx9FEgnsourD8DELwCUQ",
+      "date_listed": "2021-09-21",
+      "entity_id": 33151,
+      "entity_name": "SUEX OTC, S.R.O.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT",
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        43049,
+        43105
+      ]
+    },
+    {
+      "address": "1Dpddb1TMjvmNQeYDqgyd1ww6cmwPJRdSk",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49746
+      ]
+    },
+    {
+      "address": "1DtGgdCi9VPKz2Bpq8GQhUQEPnQ5HwaT9n",
+      "date_listed": "2021-04-15",
+      "entity_id": 30518,
+      "entity_name": "Secondeye Solution",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38223
+      ]
+    },
+    {
+      "address": "1E9uUnLbyfToazo95vmM3ysYnzgkrL7GeC",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49735
+      ]
+    },
+    {
+      "address": "1ECeZBxCVJ8Wm2JSN3Cyc6rge2gnvD3W5K",
+      "date_listed": "2021-09-21",
+      "entity_id": 33151,
+      "entity_name": "SUEX OTC, S.R.O.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        43003
+      ]
+    },
+    {
+      "address": "1EYitrwBYNWuTBcjZFbEUdqHppe2raLpaF",
+      "date_listed": "2021-04-15",
+      "entity_id": 30518,
+      "entity_name": "Secondeye Solution",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38215
+      ]
+    },
+    {
+      "address": "1Edue8XZCWNoDBNZgnQkCCivDyr9GEo4x6",
+      "date_listed": "2021-09-21",
+      "entity_id": 33151,
+      "entity_name": "SUEX OTC, S.R.O.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        43002
+      ]
+    },
+    {
+      "address": "1EfMVkxQQuZfBdocpJu6RUsCJvenQWbQyE",
+      "date_listed": "2020-03-02",
+      "entity_id": 28264,
+      "entity_name": "Li Jiadong",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33699
+      ]
+    },
+    {
+      "address": "1EpMiZkQVekM5ij12nMiEwttFPcDK9XhX6",
+      "date_listed": "2019-08-21",
+      "entity_id": 25308,
+      "entity_name": "YAN Xiaobing",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDNTK"
+      ],
+      "source_feature_ids": [
+        31727
+      ]
+    },
+    {
+      "address": "1EtMuBPQnPCa3cecerdSH1SzydxnhbTmw",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49748
+      ]
+    },
+    {
+      "address": "1EuUMPBCZtSd5pVVFEqmRqUSfU1qy6ASuL",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49769
+      ]
+    },
+    {
+      "address": "1EvhBad5wCZYhBoAsGaciV6AvmZ1osLpeJ",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49704
+      ]
+    },
+    {
+      "address": "1F2Gdug9ib9NQMhKMGGJczzMk5SuENoqrp",
+      "date_listed": "2020-03-02",
+      "entity_id": 28263,
+      "entity_name": "Tian Yinyin",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33693
+      ]
+    },
+    {
+      "address": "1F317n2eJEMaEMGiwCqtd5XCU3wF7jzPEW",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56507
+      ]
+    },
+    {
+      "address": "1F7UL41qYm6TvnExZzPHBCyeENvX3XDEMS",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49760
+      ]
+    },
+    {
+      "address": "1FCNgfZWpYMeYhy9t18AAkTBu8AsdoAc1Z",
+      "date_listed": "2023-05-23",
+      "entity_id": 43377,
+      "entity_name": "Kim Sang Man",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        62814
+      ]
+    },
+    {
+      "address": "1FE2cuvkq8n5VGwj5hi8YYQxskwJpovPyV",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56424
+      ]
+    },
+    {
+      "address": "1FFS6pX1TCKTNy668Mbk2Lyoem1qB48kYX",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49745
+      ]
+    },
+    {
+      "address": "1FRyL9gmFGbzfYDAB4iY9836DJe3KSnjP9",
+      "date_listed": "2020-09-10",
+      "entity_id": 29703,
+      "entity_name": "Andreyev Anton Nikolaeyvich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        36645
+      ]
+    },
+    {
+      "address": "1FjubFHV4mpYjBmvjsEhZssyiiA4TNmnm2",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56480
+      ]
+    },
+    {
+      "address": "1Fz29BQp82pE3vXXcsZoMNQ3KSHfMzfMe3",
+      "date_listed": "2020-09-10",
+      "entity_id": 29703,
+      "entity_name": "Andreyev Anton Nikolaeyvich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        36626
+      ]
+    },
+    {
+      "address": "1G64TFMFVJTjhJXra6x74BBhsfSyiWaFtT",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49765
+      ]
+    },
+    {
+      "address": "1G6DuwDKNHiUWqks2Lgu44cesu7ffFbLK7",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56414
+      ]
+    },
+    {
+      "address": "1G9A8WRjGXdnYY4TNEVRrcaHsMtana4ncF",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56421
+      ]
+    },
+    {
+      "address": "1G9CKRHA3mx22DoT1QyNYrh85VSQ19Y1em",
+      "date_listed": "2021-04-15",
+      "entity_id": 30518,
+      "entity_name": "Secondeye Solution",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38216
+      ]
+    },
+    {
+      "address": "1GYuu9d5HPikafbys3k5Q3DRJq6debGsoB",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49696
+      ]
+    },
+    {
+      "address": "1GcKLUUXodTQcLcPD7VLMgvCc4hs5Q775",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49703
+      ]
+    },
+    {
+      "address": "1Ge8JodC2HiBiEuT7D3MoH6Fak6XrcT9Kf",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49733
+      ]
+    },
+    {
+      "address": "1Gekw8ACSs37oXcc5XQHvoux3iKoVFtpF4",
+      "date_listed": "2025-02-11",
+      "entity_id": 52830,
+      "entity_name": "Zservers",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER3"
+      ],
+      "source_feature_ids": [
+        84792
+      ]
+    },
+    {
+      "address": "1GkLN7DbA9mAtHNzQWNPANcdWbefaz4Gzm",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49779
+      ]
+    },
+    {
+      "address": "1GnFTy5F9qi5MfaRZfgdg2jkyT5xtAHvd8",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49721
+      ]
+    },
+    {
+      "address": "1GqChmWqGtsaLrGbHfgdrV5Nkvahtjjuxr",
+      "date_listed": "2021-04-15",
+      "entity_id": 30518,
+      "entity_name": "Secondeye Solution",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38220
+      ]
+    },
+    {
+      "address": "1H8sDTTgJPBKw83EBZDLhXvetCbxZUMMZM",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49775
+      ]
+    },
+    {
+      "address": "1H939dom7i4WDLCKyGbXUp3fs9CSTNRzgL",
+      "date_listed": "2022-09-14",
+      "entity_id": 38419,
+      "entity_name": "Khatibi Aghada Ahmad",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "IFSR",
+        "IRGC"
+      ],
+      "source_feature_ids": [
+        53723,
+        53731
+      ]
+    },
+    {
+      "address": "1HH8eiuaTMucTNyvGCUmAvmCZCtdMi8SqK",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49736
+      ]
+    },
+    {
+      "address": "1Hhe61Bwxs8Hd2WxzWY9FQyZicBiZGeSNW",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49725
+      ]
+    },
+    {
+      "address": "1HmqvgSXUVES1jn4TQPzk9dxo1NE8wim2T",
+      "date_listed": "2025-08-27",
+      "entity_id": 55065,
+      "entity_name": "Andreyev Vitaliy Sergeyevich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK2"
+      ],
+      "source_feature_ids": [
+        92620
+      ]
+    },
+    {
+      "address": "1Hn9ErTCPRP6j5UDBeuXPGuq5RtRjFJxJQ",
+      "date_listed": "2020-03-02",
+      "entity_id": 28263,
+      "entity_name": "Tian Yinyin",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33696
+      ]
+    },
+    {
+      "address": "1Hpj6qm9i7nMF3VkKfBFtjhEDpEjxHWvgv",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56497
+      ]
+    },
+    {
+      "address": "1HuYfoEwsfHgZiRhbhJrCd5ST3iksa8KEx",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49786
+      ]
+    },
+    {
+      "address": "1J378PbmTKn2sEw6NBrSWVfjZLBZW3DZem",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61081
+      ]
+    },
+    {
+      "address": "1J6cgUVEZRKyJhpXJgHWX7YmzkdnHRaLhF",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56521
+      ]
+    },
+    {
+      "address": "1J9oGoAiHeRfeMZeUnJ9W7RpV55CdKtgYE",
+      "date_listed": "2021-09-21",
+      "entity_id": 33151,
+      "entity_name": "SUEX OTC, S.R.O.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        43005
+      ]
+    },
+    {
+      "address": "1J9wJH2bamZVxscXAvoDH4jvtGKb7sYFDm",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49787
+      ]
+    },
+    {
+      "address": "1JHdQHkBZiim1cb4hyUh2PbzEbbg6z2TrF",
+      "date_listed": "2023-11-29",
+      "entity_id": 44437,
+      "entity_name": "Sinbad",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        64253
+      ]
+    },
+    {
+      "address": "1JPfVv5cWRLx1js9NWxg46dG2CGbeRz4th",
+      "date_listed": "2021-12-15",
+      "entity_id": 32313,
+      "entity_name": "HEBEI ATUN TRADING CO., LTD.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        58420
+      ]
+    },
+    {
+      "address": "1JPqJ8sxLBvdHBqMqSFBmUkoh2vAuCUNvs",
+      "date_listed": "2025-11-19",
+      "entity_id": 56360,
+      "entity_name": "Sokolovski Rolan",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        94573
+      ]
+    },
+    {
+      "address": "1JREJdZupiFhE7ZzQPtASuMCvvpXC7wRsC",
+      "date_listed": "2019-08-21",
+      "entity_id": 25308,
+      "entity_name": "YAN Xiaobing",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDNTK"
+      ],
+      "source_feature_ids": [
+        31728
+      ]
+    },
+    {
+      "address": "1Js6goCey2NaqPQptiLANLQGuk4d6mowjP",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56422
+      ]
+    },
+    {
+      "address": "1Juv2Ks3jJFUes8jEGxwgt6T6csBRQmmRw",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56527
+      ]
+    },
+    {
+      "address": "1K2fmE9hfhbRNSZoBvCBWZAvsS5idTUxBG",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49794
+      ]
+    },
+    {
+      "address": "1KSAbh5trMCTZwhiNsuUQvfTtSSTT8zqRk",
+      "date_listed": "2021-04-15",
+      "entity_id": 30520,
+      "entity_name": "RAZA Mujtaba Ali",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38285
+      ]
+    },
+    {
+      "address": "1KUUJPkyDhamZXgpsyXqNGc3x1QPXtdhgz",
+      "date_listed": "2021-09-21",
+      "entity_id": 33151,
+      "entity_name": "SUEX OTC, S.R.O.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT",
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        43046,
+        43102
+      ]
+    },
+    {
+      "address": "1Kc6egXevyLEaeTxLFA1Zyw7GuhCN8jQtt",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61069
+      ]
+    },
+    {
+      "address": "1KctQENEX5QkQMpnMC3Zh9yRAzkMBLpPcr",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56419
+      ]
+    },
+    {
+      "address": "1KgudqxMfYaGzqAA7MS4DcsqejtMteqhix",
+      "date_listed": "2020-09-10",
+      "entity_id": 29703,
+      "entity_name": "Andreyev Anton Nikolaeyvich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        36642
+      ]
+    },
+    {
+      "address": "1KkaKujnqwJf7Cbm7JKAZGF3X9d4685m8n",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49732
+      ]
+    },
+    {
+      "address": "1Kuf2Rd8mDyAViwBozGTNYnvWL8uYFrkVo",
+      "date_listed": "2019-08-21",
+      "entity_id": 25308,
+      "entity_name": "YAN Xiaobing",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDNTK"
+      ],
+      "source_feature_ids": [
+        31724
+      ]
+    },
+    {
+      "address": "1Kys8fqDen8NGFUJ6AFcXfFW5qquuTH4eh",
+      "date_listed": "2020-09-16",
+      "entity_id": 29584,
+      "entity_name": "Potekhin Danil",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        36446
+      ]
+    },
+    {
+      "address": "1L4ncif9hh9TnUveqWq77HfWWt6CJWtrnb",
+      "date_listed": "2021-09-21",
+      "entity_id": 33151,
+      "entity_name": "SUEX OTC, S.R.O.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        43000
+      ]
+    },
+    {
+      "address": "1LAh7PQwpd1uGiLHae5C5Xz9QXse3y2phq",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56482
+      ]
+    },
+    {
+      "address": "1LBQd4ZxtQYYsDWrCzK4uMxHBJVxmyzs3M",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56512
+      ]
+    },
+    {
+      "address": "1LKE3XA9bf5JFqtGtCHzWj5QGxKGwMfXZw",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49730
+      ]
+    },
+    {
+      "address": "1LQV6yUBcfTjAWvFu3XPhdTgjqihss7i1z",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56514
+      ]
+    },
+    {
+      "address": "1LiNmTUPSJEd92ZgVJjAV3RT9BzUjvUCkx",
+      "date_listed": "2021-09-21",
+      "entity_id": 33151,
+      "entity_name": "SUEX OTC, S.R.O.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        43007
+      ]
+    },
+    {
+      "address": "1Licqjca74n8pmNaoARXLLqcTUTHFpxbXH",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49715
+      ]
+    },
+    {
+      "address": "1Ljk8RNNabkZ9bfDYQBn98XfFozJhTjqcZ",
+      "date_listed": "2023-11-03",
+      "entity_id": 45188,
+      "entity_name": "Zhdanova Ekaterina Valeryevna",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        65597
+      ]
+    },
+    {
+      "address": "1LpYKb3SXZPve9hsH2QEJZFX279wJVGowi",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56475
+      ]
+    },
+    {
+      "address": "1LrxsRd7zNuxPJcL5rttnoeJFy1y4AffYY",
+      "date_listed": "2021-09-21",
+      "entity_id": 33151,
+      "entity_name": "SUEX OTC, S.R.O.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT",
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        43008,
+        43104
+      ]
+    },
+    {
+      "address": "1LuDiMd95Df4i2bcvrfw47t2GKpLLXAQMZ",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56504
+      ]
+    },
+    {
+      "address": "1M5N4sJ1NHb4fviLVZA5MZLKhLZqU4CPZz",
+      "date_listed": "2025-02-11",
+      "entity_id": 52830,
+      "entity_name": "Zservers",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER3"
+      ],
+      "source_feature_ids": [
+        84791
+      ]
+    },
+    {
+      "address": "1MLPqwaFFUBZePTjpR3nxRoK19Cv9mPCc7",
+      "date_listed": "2023-10-03",
+      "entity_id": 45404,
+      "entity_name": "Wang Mingming",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        65920
+      ]
+    },
+    {
+      "address": "1MQBDeRWsiJBf7K1VGjJ7PWEL6GJXMfmLg",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49750
+      ]
+    },
+    {
+      "address": "1MbtT2ZsTtLp7EKZUV9r74cTyqvsMtTP2M",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49751
+      ]
+    },
+    {
+      "address": "1MiQRekg4BatJ12qbiSGnNakLLd8xbLMCG",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56519
+      ]
+    },
+    {
+      "address": "1MkCnCa9agS5t6V1B15bzusBgYECB4LfWp",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61076
+      ]
+    },
+    {
+      "address": "1MnbhWe5wr7Ut45ReyQsm96PwnM9jD7KaH",
+      "date_listed": "2020-09-10",
+      "entity_id": 29703,
+      "entity_name": "Andreyev Anton Nikolaeyvich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        36635
+      ]
+    },
+    {
+      "address": "1MtsQsw6n2jvJCWhpCw7jifTfD9Q3rBBVg",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49731
+      ]
+    },
+    {
+      "address": "1N6XqSf3ULpNjko9LrJmHudRoLitjwkETN",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56426
+      ]
+    },
+    {
+      "address": "1NE2NiGhhbkFPSEyNWwj7hKGhGDedBtSrQ",
+      "date_listed": "2021-04-15",
+      "entity_id": 30518,
+      "entity_name": "Secondeye Solution",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38213
+      ]
+    },
+    {
+      "address": "1NaRX1GZgtZ7E8iXo8YUdTtnb8rAK5QFJa",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62896
+      ]
+    },
+    {
+      "address": "1NayLEVF3bEEbDtdF2Cwso1VdEtvVNh2qX",
+      "date_listed": "2021-04-15",
+      "entity_id": 30518,
+      "entity_name": "Secondeye Solution",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38218
+      ]
+    },
+    {
+      "address": "1NbGwQwt4uEhg2srAKppLf8QaF6fbp3PZG",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49709
+      ]
+    },
+    {
+      "address": "1NpHuti9NSM9fVTXLkvSDU4AnhqGQ5N53d",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56435
+      ]
+    },
+    {
+      "address": "1NuBZQXJPyYQGfoBib8wWBDpZmbtkJa5Ba",
+      "date_listed": "2023-04-24",
+      "entity_id": 42496,
+      "entity_name": "Wu Huihui",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        61077
+      ]
+    },
+    {
+      "address": "1NvJm3jfZxENNyqws5BKQvhkLxg9chLJdo",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49714
+      ]
+    },
+    {
+      "address": "1P3ZfGFLezzYGg9k5SVzQmnjyh7nrUmF2y",
+      "date_listed": "2019-08-21",
+      "entity_id": 25308,
+      "entity_name": "YAN Xiaobing",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDNTK"
+      ],
+      "source_feature_ids": [
+        31726
+      ]
+    },
+    {
+      "address": "1PJp8diNa89cVHpiT1VPu7EQ8LxYM5HX6v",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49692
+      ]
+    },
+    {
+      "address": "1PWRKxkR5AU7Tc9zPqjdhtu1eGW1QZzs4y",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49727
+      ]
+    },
+    {
+      "address": "1PXxwPVtYxZiCRp9LKq7aKMDFrhAQztvUE",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49739
+      ]
+    },
+    {
+      "address": "1PYtgFS2t6i57WdDvbRa7kPcsagGMBxzfg",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49741
+      ]
+    },
+    {
+      "address": "1PfwHNxUnkpfkK9MKjMqzR3Xq3KCtq9u17",
+      "date_listed": "2020-03-02",
+      "entity_id": 28263,
+      "entity_name": "Tian Yinyin",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33691
+      ]
+    },
+    {
+      "address": "1PhqQpaGCrqSxQ6QDXcv14QCd1U98Zp34E",
+      "date_listed": "2020-09-10",
+      "entity_id": 29703,
+      "entity_name": "Andreyev Anton Nikolaeyvich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        36638
+      ]
+    },
+    {
+      "address": "1Pu1nAW7kCoSMThMs8QcpM8JxuByQDZgH",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49770
+      ]
+    },
+    {
+      "address": "1Q4tJjH2aBr3AJrzxqa4Z3jPpf5SDgF4jK",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49740
+      ]
+    },
+    {
+      "address": "1Q6saNmqKkyFB9mFR68Ck8F7Dp7dTopF2W",
+      "date_listed": "2020-09-16",
+      "entity_id": 29585,
+      "entity_name": "KARASAVIDI Dmitrii",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        36450
+      ]
+    },
+    {
+      "address": "1Q9UAQbcDezmyouFrzt94t4dSMxgsUfW1X",
+      "date_listed": "2020-09-16",
+      "entity_id": 29584,
+      "entity_name": "Potekhin Danil",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        36445
+      ]
+    },
+    {
+      "address": "1QHxyuLGRMHfbNPJikV4Dwhfx45HWfUMWB",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49720
+      ]
+    },
+    {
+      "address": "1QJUiNsNfji6mR1FjAwf6Eg9NxxHPoxpWL",
+      "date_listed": "2021-04-15",
+      "entity_id": 30518,
+      "entity_name": "Secondeye Solution",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38222
+      ]
+    },
+    {
+      "address": "1Sf6e4xQv8muMZqYPTdRFf3e5o5eWcg9F",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49781
+      ]
+    },
+    {
+      "address": "1r6S9vpUZPS5rb6gSdwV2bvSFcN3uSq4q",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56509
+      ]
+    },
+    {
+      "address": "31nadacWrgPeAQxKRMabhn3fPhnhi3hjKa",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56544
+      ]
+    },
+    {
+      "address": "31p6woV4e55HUfC2aGynFhzQnGoJFW26cD",
+      "date_listed": "2021-11-08",
+      "entity_id": 33858,
+      "entity_name": "Polyanin Yevgeniy Igorevich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44752
+      ]
+    },
+    {
+      "address": "31t4nEpcwyQJT1VuXdAoQZTT5givRDPsNP",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51588
+      ]
+    },
+    {
+      "address": "32DaxSzUhLBHY2WGSWQYiBSHnRsfQZrrRp",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51503
+      ]
+    },
+    {
+      "address": "32PsiT8itBrEF84ebdaF82yBUEcz5Wc6uY",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51603
+      ]
+    },
+    {
+      "address": "32VgTk8kGvBsqkHhkvtNooGdtqZm46jTVo",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44737
+      ]
+    },
+    {
+      "address": "32fbAZMTaQxNd2fAue1PgsiPgWfcsHBQQt",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51593
+      ]
+    },
+    {
+      "address": "32jgFkZsTEjMFaBvxJnYvJEeTNKTmq5b32",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56492
+      ]
+    },
+    {
+      "address": "32pCmCWEjwhkLwh5BgLNAeBQFp5Gi1hv81",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49764
+      ]
+    },
+    {
+      "address": "32pTjxTNi7snk8sodrgfmdKao3DEn1nVJM",
+      "date_listed": "2024-02-20",
+      "entity_id": 47682,
+      "entity_name": "Kondratiev Ivan Gennadievich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        69174
+      ]
+    },
+    {
+      "address": "32wdqwX3zCEX3DhAVEcKwXCEGdzgBnx1R9",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44729
+      ]
+    },
+    {
+      "address": "331TS6DyASY7iU5CRA8UryBnkPS78fP2B1",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49713
+      ]
+    },
+    {
+      "address": "33KKjn4exdBJQkTtdWxqpdVsWxrw3LareG",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51514
+      ]
+    },
+    {
+      "address": "33Kja69SQVc8kozpoP7Qw6HFtGxHkiWzTz",
+      "date_listed": "2019-08-21",
+      "entity_id": 26323,
+      "entity_name": "Zheng Guanghua",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDNTK"
+      ],
+      "source_feature_ids": [
+        31736
+      ]
+    },
+    {
+      "address": "33fWcMdmsB2Ey4CEbVWbjGFkuevBSyP9nG",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49802
+      ]
+    },
+    {
+      "address": "33xWfziVZesgo83U5izdNCBVTnrtBpSwK7",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44728
+      ]
+    },
+    {
+      "address": "343w3Xh64q5UpgpvAPqmsUzxrknde8PQHb",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56547
+      ]
+    },
+    {
+      "address": "347QFbejDBdMZFTxpmn6evvvqyXiqZTCd7",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44726
+      ]
+    },
+    {
+      "address": "34ETiHfQWEYFCCaXmEeQWVmhFH5vz2JMvd",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51605
+      ]
+    },
+    {
+      "address": "34WWXwFKAsXL9zYxbeNPaPV6vDamkjQLUo",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49788
+      ]
+    },
+    {
+      "address": "34dxZvijpBM1YkPybczbQ7DuGuKAnULdfS",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49778
+      ]
+    },
+    {
+      "address": "34kEYgpijvCmjvahRXXQEnBH76UGJVx2wg",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51595
+      ]
+    },
+    {
+      "address": "34kWCKF2wCbe6uinit2uL4ND6d8yxsuxKM",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44735
+      ]
+    },
+    {
+      "address": "34pFGsSYbWEritXncW9unZtQQE9dKSvKku",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51505
+      ]
+    },
+    {
+      "address": "35KAdTa2vqnJzitF2xiUzZn1Gmcas2Y465",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49690
+      ]
+    },
+    {
+      "address": "35LScRJ8hzDvvWh9t9UA8bHGnGNVz3YEfa",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49691
+      ]
+    },
+    {
+      "address": "35QpLWYkvD3ALhjbge5bK2kd7HfHYcDMu3",
+      "date_listed": "2021-11-08",
+      "entity_id": 33859,
+      "entity_name": "Vasinskyi Yaroslav",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44761
+      ]
+    },
+    {
+      "address": "35SwVFxosV3AsvnrBfzdXarqavRbvDyyxv",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49763
+      ]
+    },
+    {
+      "address": "35aTjkBh4yeTypJsi9nuTdoMKHTsawKVgX",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49803
+      ]
+    },
+    {
+      "address": "35eanEz5iYg2eYaxCtMrR4SCoypFqrBWUH",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49757
+      ]
+    },
+    {
+      "address": "35hh9dg3wSvUJz9vFk1FsezLE5Fx3Hudk2",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51582
+      ]
+    },
+    {
+      "address": "35irs2AU6pVgenYbWvMRz22avDBLC9XMkd",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94234
+      ]
+    },
+    {
+      "address": "35qwVtMEohWDdBWRiCSR7azoP5cbY8SG1Q",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49689
+      ]
+    },
+    {
+      "address": "35vypiSvQsxRiT3YZzGRGVaduUSx67ysZb",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56528
+      ]
+    },
+    {
+      "address": "361AkMKNNWYwZRsCE8pPNmoh5aQf4V7g4p",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49801
+      ]
+    },
+    {
+      "address": "361NP7YcBPQ4KkLT3Y2QZeDEV4M3yi65Ar",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56501
+      ]
+    },
+    {
+      "address": "3685sEusmTwZBiKJ4cgV73EAhpVD1nbgbe",
+      "date_listed": "2023-11-03",
+      "entity_id": 45188,
+      "entity_name": "Zhdanova Ekaterina Valeryevna",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        65598
+      ]
+    },
+    {
+      "address": "36XqYWGvUQwBrYLRVuegN4pJJJSPWL1WEu",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51600
+      ]
+    },
+    {
+      "address": "36YGN5dGzqrxMomTHdkT6cYVMnWBw8S7hD",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44740
+      ]
+    },
+    {
+      "address": "36ia8qAE1k1PKQePdXENCm1YKLXxZyVnnc",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94235
+      ]
+    },
+    {
+      "address": "36yS87PLuW7sErLg1TY26WzaVarTim7AcC",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49752
+      ]
+    },
+    {
+      "address": "372Wk9NLrMkJzKgqJdatWJy4bYRfxFjgat",
+      "date_listed": "2021-11-08",
+      "entity_id": 33859,
+      "entity_name": "Vasinskyi Yaroslav",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44764
+      ]
+    },
+    {
+      "address": "374RguZDMNW5Zh5ouW3KhKDcrerKusmsuk",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94236
+      ]
+    },
+    {
+      "address": "37KHumAdzFcg1fXMv36UGg91MHPqhJUv19",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85108
+      ]
+    },
+    {
+      "address": "37dDBCexFPraKW4jGSqkE3NyG52YeZQbJx",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49774
+      ]
+    },
+    {
+      "address": "37fKFZQGMqdBkjSUub1jCDWGgSHwv9VxfZ",
+      "date_listed": "2025-11-19",
+      "entity_id": 56360,
+      "entity_name": "Sokolovski Rolan",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        94572
+      ]
+    },
+    {
+      "address": "37g6WgqedzZx6nx51tYgssNG8Hnknyj5nL",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51601
+      ]
+    },
+    {
+      "address": "386sPhHBbLidzPnoxUH74jiiYkHYtobefQ",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94233
+      ]
+    },
+    {
+      "address": "386wa1UM6nA798AWNh64jdrejZyedeXgUN",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56428
+      ]
+    },
+    {
+      "address": "389Sft4nJFkPGhbagk9FN4jXncA9piYTuU",
+      "date_listed": "2021-11-08",
+      "entity_id": 33858,
+      "entity_name": "Polyanin Yevgeniy Igorevich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44750
+      ]
+    },
+    {
+      "address": "38LjCapRrJEW7w2zwbyS15P9D9UGPjWS44",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51599
+      ]
+    },
+    {
+      "address": "38TftW1heYPqvKbiAhT4ttNBqkUPpooXad",
+      "date_listed": "2023-10-03",
+      "entity_id": 45350,
+      "entity_name": "Xia Fengbing",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        65810
+      ]
+    },
+    {
+      "address": "38ncxqt932N9CcfNfYuHGZgCyR85hDkWBW",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51506
+      ]
+    },
+    {
+      "address": "39AALn7eTjdPzLb99hHhD6F7J8QWB3R2Rd",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51589
+      ]
+    },
+    {
+      "address": "39HJB4x6W5QuKFEuV1tfcfNveLRJTzcC12",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94239
+      ]
+    },
+    {
+      "address": "39KQvziHwUe2vddbpfC5WkQEV72qbQhxuh",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44743
+      ]
+    },
+    {
+      "address": "39NG2LcGRHXxSr1irpEVnJMw4ydL231sEn",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56487
+      ]
+    },
+    {
+      "address": "39Te8MbphSgs7npDJPj2hbNzhke61NTcnB",
+      "date_listed": "2021-11-08",
+      "entity_id": 33858,
+      "entity_name": "Polyanin Yevgeniy Igorevich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44751
+      ]
+    },
+    {
+      "address": "39eboeqYNFe2VoLC3mUGx4dh6GNhLB3D2q",
+      "date_listed": "2020-03-02",
+      "entity_id": 28264,
+      "entity_name": "Li Jiadong",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33701
+      ]
+    },
+    {
+      "address": "39fhoB2DohisGBbHvvfmkdPdShT75CNHdX",
+      "date_listed": "2020-03-02",
+      "entity_id": 28264,
+      "entity_name": "Li Jiadong",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33702
+      ]
+    },
+    {
+      "address": "39p8qWp1bkBNhi4vPpFTetKPtH7goqNDZf",
+      "date_listed": "2023-11-03",
+      "entity_id": 45188,
+      "entity_name": "Zhdanova Ekaterina Valeryevna",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        65599
+      ]
+    },
+    {
+      "address": "3A1HH3PseYMkh2nSrBb4kkVt3815kUNVVC",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56506
+      ]
+    },
+    {
+      "address": "3AFcE2mbSSndcpYFgHoExSmjUc26ef2gQh",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49790
+      ]
+    },
+    {
+      "address": "3ANWhUnHujdwbw2jEuGSRH6bvFsD9BqEy9",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51592
+      ]
+    },
+    {
+      "address": "3AQSmMk5n3c6TKEg9B2WyzYAPm33gJJAA4",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56415
+      ]
+    },
+    {
+      "address": "3AYU365Tcjef7j9pdKF9Xe8rWpEpsH196t",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49753
+      ]
+    },
+    {
+      "address": "3AjiWiUdKB5mcGUSS9mBeoHCeYJw3Zo8r6",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49747
+      ]
+    },
+    {
+      "address": "3AjyprBY5yhijiCjUC5NUJutGbwhd3AQdE",
+      "date_listed": "2021-11-08",
+      "entity_id": 33858,
+      "entity_name": "Polyanin Yevgeniy Igorevich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44754
+      ]
+    },
+    {
+      "address": "3B3vmabBbeDRnVrjvvq3hm85zVB4v5bWFC",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56540
+      ]
+    },
+    {
+      "address": "3B4G1M8eF3cThbeMwhEWkKzczw9QoNTGak",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51604
+      ]
+    },
+    {
+      "address": "3B7S6zrgxQVQUHTU8wstM23tB9afE7ojuX",
+      "date_listed": "2023-10-03",
+      "entity_id": 45312,
+      "entity_name": "Shen Xingbiao",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        65742
+      ]
+    },
+    {
+      "address": "3BCN3WgMRJwULTz1vsEQ7NZrBjwaUBf5Ca",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49762
+      ]
+    },
+    {
+      "address": "3BQACtiMXYB9JpUMpkEWt9m8BzswpGHq4X",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49701
+      ]
+    },
+    {
+      "address": "3BWP6ZQAhc4j5wR1b95zJAthJEFvhdees7",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49798
+      ]
+    },
+    {
+      "address": "3BazbaTP8ELJUEfPBV9z5HXEdgBziV9p7W",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51597
+      ]
+    },
+    {
+      "address": "3BsyZ7qRFSi3NsaoV1Ff724qAgrEpjVUHm",
+      "date_listed": "2021-11-08",
+      "entity_id": 33859,
+      "entity_name": "Vasinskyi Yaroslav",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44763
+      ]
+    },
+    {
+      "address": "3CCmt5LjQ5yKkaFY1DWC2SbERVEtWRnSRD",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49749
+      ]
+    },
+    {
+      "address": "3CuqLrZWn5oCe6DRScdRwiFv8txcahrsG3",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94237
+      ]
+    },
+    {
+      "address": "3Czhm6xqn8odwz6jgTcjRrUjog28v6aVS8",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49759
+      ]
+    },
+    {
+      "address": "3D44E2Z3PcLa868GeBNiP5E2GPTfVLULUJ",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94241
+      ]
+    },
+    {
+      "address": "3DCCgmyKozcZkFBzYb1A2x8abZCpAUTPPk",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51584
+      ]
+    },
+    {
+      "address": "3DLGfN7hgsWXXSp9euXcnmWXLpFQuswW2t",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49738
+      ]
+    },
+    {
+      "address": "3DNsaQnaUz7wkQny1ZDSmtz6QfbEShxoDD",
+      "date_listed": "2021-11-08",
+      "entity_id": 33858,
+      "entity_name": "Polyanin Yevgeniy Igorevich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44753
+      ]
+    },
+    {
+      "address": "3E6ZCKRrsdPc35chA9Eftp1h3DLW18NFNV",
+      "date_listed": "2022-04-05",
+      "entity_id": 36025,
+      "entity_name": "GARANTEX EUROPE OU",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "CYBER4",
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        49350
+      ]
+    },
+    {
+      "address": "3E6rY4dSCDW6y2bzJNwrjvTtdmMQjB6yeh",
+      "date_listed": "2020-03-02",
+      "entity_id": 28264,
+      "entity_name": "Li Jiadong",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33703
+      ]
+    },
+    {
+      "address": "3E7YbpXuhh3CWFks1jmvWoV8y5DvsfzE6n",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44716
+      ]
+    },
+    {
+      "address": "3EL5vcYeu1cnivLtR7tnAX3bBirr9ATNAL",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56511
+      ]
+    },
+    {
+      "address": "3EPqGUw2q89pwPZ1UF8FJspE2AyojSTjdu",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51499
+      ]
+    },
+    {
+      "address": "3EQoMXw6Xi8zNzY8tLfJbkWjV5EXsQP4Es",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85107
+      ]
+    },
+    {
+      "address": "3ES6pqCueDPCnC4hCqhhYuey6gyiRJZw6E",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49795
+      ]
+    },
+    {
+      "address": "3EUjqe9UpmyXCFd6jeu69hoTzndMRfxw9M",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51510
+      ]
+    },
+    {
+      "address": "3EeR8FbcPbkcGj77D6ttneJxmsr3Nu7KGV",
+      "date_listed": "2020-03-02",
+      "entity_id": 28264,
+      "entity_name": "Li Jiadong",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33704
+      ]
+    },
+    {
+      "address": "3EynPFpoGTPxU9m5bPaEDEUxUanzh7vgQP",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94230
+      ]
+    },
+    {
+      "address": "3F2sZ4jbhvDKQdGbHYPC6ZxFXEau2m5Lqj",
+      "date_listed": "2020-03-02",
+      "entity_id": 28263,
+      "entity_name": "Tian Yinyin",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33694
+      ]
+    },
+    {
+      "address": "3F6bbvS1krsc1qR8FsbTDfYQyvkMm3QvmR",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51501,
+        51507
+      ]
+    },
+    {
+      "address": "3FBgeJdhiBe22UoSpp51Vd8dPHVa2A4wZX",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51586
+      ]
+    },
+    {
+      "address": "3FfRvC3kSo2SxiQe5e7SSuNdegwgq8iusL",
+      "date_listed": "2025-02-11",
+      "entity_id": 52832,
+      "entity_name": "Mishin Alexander Igorevich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER3"
+      ],
+      "source_feature_ids": [
+        84901
+      ]
+    },
+    {
+      "address": "3FgaJMgxCfU3qqQ3Yiqv3Xw8rmLDDkByeo",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85106
+      ]
+    },
+    {
+      "address": "3FoD1f6Tfnq3s8MYHgJqFPWv9cUrtUdBSv",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94231
+      ]
+    },
+    {
+      "address": "3GAUBtrTtWp1D9yeXgr3wMg8B599QHa5m5",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49767
+      ]
+    },
+    {
+      "address": "3GBGnqDqdiskCmfq2Rchk1LcBoSo4P3DZQ",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85109
+      ]
+    },
+    {
+      "address": "3GMfGEDYMTq9G8dEHet1zLtUFJwYwSNa3Y",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51598
+      ]
+    },
+    {
+      "address": "3GSXNXzyCDoQ1Rhsc7F1jjjFe7DGcHHdcM",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51515
+      ]
+    },
+    {
+      "address": "3GXdtA6kbb4M5aqzZm5qqxcFDFRMW8LqdJ",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49697
+      ]
+    },
+    {
+      "address": "3GYbbYkvqvjF5oYhaKCgQYCvcVE1JENk6J",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51596
+      ]
+    },
+    {
+      "address": "3Gbs4rjcVUtQd8p3CiFUCxPLZwRqurezRZ",
+      "date_listed": "2021-04-15",
+      "entity_id": 31212,
+      "entity_name": "SOUTHFRONT",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848",
+        "NPWMD"
+      ],
+      "source_feature_ids": [
+        39645
+      ]
+    },
+    {
+      "address": "3GuQjr7kkrR5EjpanMgyAuxuLgrjEUwe21",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49756
+      ]
+    },
+    {
+      "address": "3H3rh85qPaGLy2w6618yZNaH7i8asHv46B",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44723
+      ]
+    },
+    {
+      "address": "3H4qaWi5DS6FMwyZrG9xRRud3Qc5dUVn2U",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56525
+      ]
+    },
+    {
+      "address": "3HJN4jRa4mdfkey9JR9jUhr86yPwL86A3C",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49768
+      ]
+    },
+    {
+      "address": "3HQDRyzwm82MFmLWtmyikDM9JQEtVT6vAp",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51587
+      ]
+    },
+    {
+      "address": "3HQRveQzPifZorZLDXHernc5zjoZax8U9f",
+      "date_listed": "2020-03-02",
+      "entity_id": 28264,
+      "entity_name": "Li Jiadong",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33705
+      ]
+    },
+    {
+      "address": "3HRExd8GKFskZC5inmVcpiyy9UWG7FVa6o",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49792
+      ]
+    },
+    {
+      "address": "3HSZc4BLnQBznjSq7JvXgqNCZUUs3M9fZz",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49773
+      ]
+    },
+    {
+      "address": "3HWjh69cVQvcPeLWVCyVmXEq72nyDSj5zP",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56508
+      ]
+    },
+    {
+      "address": "3He6EyDaCUgmdr4GXqhxbeTQukaGLCByU2",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56489
+      ]
+    },
+    {
+      "address": "3HePkztPU6UsdENxnyQHFrdZA6eVKeMtvz",
+      "date_listed": "2023-10-03",
+      "entity_id": 45404,
+      "entity_name": "Wang Mingming",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        65923
+      ]
+    },
+    {
+      "address": "3HqA7i3ttECLvgqvq69HNxxUP5BL7Z5YgA",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56420
+      ]
+    },
+    {
+      "address": "3HupEUfKmMhvhXqf8TMoPAyqDcRC1kpe65",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51594
+      ]
+    },
+    {
+      "address": "3J19qffPT6mxQUcV6k5yVURGZtdhpdGr4y",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51513
+      ]
+    },
+    {
+      "address": "3JHMz3mTna1gVCZSPp8NgRFiY7phkv5mA8",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51502
+      ]
+    },
+    {
+      "address": "3JLyyLbwciWAC6re87D7mRknXakR4YbnUd",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51591
+      ]
+    },
+    {
+      "address": "3JUwAS7seL3fh5hxWh9fu3HCiEzjuQLTfg",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51509
+      ]
+    },
+    {
+      "address": "3JXKQ81JzBqVbB8VHdV9Jtd7auWokkdPgY",
+      "date_listed": "2020-03-02",
+      "entity_id": 28264,
+      "entity_name": "Li Jiadong",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33706
+      ]
+    },
+    {
+      "address": "3JhPsVV3KnL9dBYGSZALS9EbrLr97R865a",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49784
+      ]
+    },
+    {
+      "address": "3Jpf9B5P8cvEKSSGp9cES3Upbms8VRnXUb",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56510
+      ]
+    },
+    {
+      "address": "3JuSgFrwnrNfuhvR4GpWAPmeJVot4xrEae",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49799
+      ]
+    },
+    {
+      "address": "3K26aMKmnrv97Pj6YiFcqiXk2LxeHfhnG3",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49797
+      ]
+    },
+    {
+      "address": "3K35dyL85fR9ht7UgzPfd1gLRRXQtNTqE3",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51497
+      ]
+    },
+    {
+      "address": "3K4rjdh8A5yi6LWvft2rbmyZvqEbPSSSX4",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49687
+      ]
+    },
+    {
+      "address": "3K7PMJyMNVnxqsfpmK9r9nJDtzDw9wNwNV",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44722
+      ]
+    },
+    {
+      "address": "3KGQ3hX6eFYtBjTBFSdvdkzHmwZyYWLRQh",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49729
+      ]
+    },
+    {
+      "address": "3KHfXU24Bt3YD5Ef4J7uNp2buCuhrxfGen",
+      "date_listed": "2020-03-02",
+      "entity_id": 28264,
+      "entity_name": "Li Jiadong",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33707
+      ]
+    },
+    {
+      "address": "3Kp8Qc5z7yevDeoQxhS5RSSKnEi5x7AQ43",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49712
+      ]
+    },
+    {
+      "address": "3KvBX3jo69Qn8jHy44M33RYoeYcf8DdRBD",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49796
+      ]
+    },
+    {
+      "address": "3L1PSCgfPKJAfQCZcoKfbvWf1fBmWM1Bbs",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94240
+      ]
+    },
+    {
+      "address": "3LDbNuDkKmLae5r3a5icPA5CQg2Y8F7ogW",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51590
+      ]
+    },
+    {
+      "address": "3LLUnf3ezw6mCbQ2zCZmGu5rZULzkhxQi7",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56531
+      ]
+    },
+    {
+      "address": "3LbDu1rUXHNyiz4i8eb3KwkSSBMf7C583D",
+      "date_listed": "2020-03-02",
+      "entity_id": 28264,
+      "entity_name": "Li Jiadong",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33708
+      ]
+    },
+    {
+      "address": "3LhnVMcBq4gsR7aDaRr9XmUo17CuYBV4FN",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51500
+      ]
+    },
+    {
+      "address": "3Lpoy53K625zVeE47ZasiG5jGkAxJ27kh1",
+      "date_listed": "2022-04-05",
+      "entity_id": 36025,
+      "entity_name": "GARANTEX EUROPE OU",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER4",
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        49348
+      ]
+    },
+    {
+      "address": "3LtcaPbCj87CwJHnRX3vh7c2y9RZQqeSy8",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44718
+      ]
+    },
+    {
+      "address": "3M7CGBPUJwXXSroWuZ6H5jiprdKCyf7V5M",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44734
+      ]
+    },
+    {
+      "address": "3MD3riFB6U8PykypF6qkvSj8R2SGdUDPn3",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51508
+      ]
+    },
+    {
+      "address": "3MKXKqPXf6VxTLkVSXuDKzaTiZZaz5AmiK",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94232
+      ]
+    },
+    {
+      "address": "3MN8nYo1tt5hLxMwMbxDkXWd7Xu522hb9P",
+      "date_listed": "2020-03-02",
+      "entity_id": 28264,
+      "entity_name": "Li Jiadong",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33709
+      ]
+    },
+    {
+      "address": "3MNWiGeoKAhtTrbJuUXpvSRYJSNvmyJSWE",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94238
+      ]
+    },
+    {
+      "address": "3MP7yBGSW2gkXVRE8S84T2j4KVgPh3rEzv",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49793
+      ]
+    },
+    {
+      "address": "3MTRvM5QrYZHKo8gh5qKcrPK3RLjxcDCZE",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51504
+      ]
+    },
+    {
+      "address": "3MTrJTFhYK9v1C6pjHtuweZSopfZa4b1wb",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44724
+      ]
+    },
+    {
+      "address": "3MkUNScqf21EcfWq6T4x2MFgBeSTqhB5t6",
+      "date_listed": "2019-08-21",
+      "entity_id": 26323,
+      "entity_name": "Zheng Guanghua",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDNTK"
+      ],
+      "source_feature_ids": [
+        31737
+      ]
+    },
+    {
+      "address": "3MvQ4gThF4mmuo49p4dBNchcmFHBRZnYfx",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51585
+      ]
+    },
+    {
+      "address": "3MzLtBQ4Lz9J6w4Qu55TktgxFKZwxYWrP6",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44739
+      ]
+    },
+    {
+      "address": "3N3YSDvp4cbhEgNGabQxTN39kEzJmwG8Ah",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51512
+      ]
+    },
+    {
+      "address": "3N6WeZ6i34taX8Ditser6LKWBcXmt2XXL4",
+      "date_listed": "2020-03-02",
+      "entity_id": 28264,
+      "entity_name": "Li Jiadong",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        33710
+      ]
+    },
+    {
+      "address": "3N9YcPBDky9UsMx1RTk33tL4jDkZfSnsPk",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44730
+      ]
+    },
+    {
+      "address": "3NDzzVxiLBUs1WPvVGRfCYDTAD2Ua2PvW4",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51583
+      ]
+    },
+    {
+      "address": "3NEcQKZ8RwL2eDNhmMPpZ4td9vPsQh9JwM",
+      "date_listed": "2025-09-03",
+      "entity_id": 50867,
+      "entity_name": "Huang Xiaojun",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        79616
+      ]
+    },
+    {
+      "address": "3NNcbBcMZokPB2JC2dxYuZrpgcetvyGeJn",
+      "date_listed": "2023-10-03",
+      "entity_id": 45349,
+      "entity_name": "Wang Jiantong",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        65805
+      ]
+    },
+    {
+      "address": "3NPognMSbzyA2JYW2fpkVKWyBMi2XTq2Zt",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44738
+      ]
+    },
+    {
+      "address": "3NQ1aa9ceirMJ1JvRq3eXefvXj1L639fzX",
+      "date_listed": "2021-11-08",
+      "entity_id": 33859,
+      "entity_name": "Vasinskyi Yaroslav",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44762
+      ]
+    },
+    {
+      "address": "3NRJ8aXdUiZdHaiFX9ePX3DhGHzcEi14Fq",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44720
+      ]
+    },
+    {
+      "address": "3NU9zkD8CCVGVmYnNNSN7PbU9sSFQBm5UV",
+      "date_listed": "2023-10-03",
+      "entity_id": 45391,
+      "entity_name": "Zhang Wei",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        65867
+      ]
+    },
+    {
+      "address": "3P6PzdfETr4275Gn3veLkCyDxA1jV8fHKm",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49791
+      ]
+    },
+    {
+      "address": "3PDmRwotTkRAFRLGTUrucCERp2JdM1q4ar",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49789
+      ]
+    },
+    {
+      "address": "3PKiHs4GY4rFg8dpppNVPXGPqMX6K2cBML",
+      "date_listed": "2023-04-14",
+      "entity_id": 41297,
+      "entity_name": "Wang Hongfei",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        59339
+      ]
+    },
+    {
+      "address": "3PUmTuVAW3LkKg53FZ7F97VDBitW4ugwnM",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56524
+      ]
+    },
+    {
+      "address": "3PiCnZrBvGfWAKQ9hr4cCpfaDjy64yNSpE",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49694
+      ]
+    },
+    {
+      "address": "3PyzSbFj3hbQQjTzDzyLSgvFVDjB7yw4Cj",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51606
+      ]
+    },
+    {
+      "address": "3Q5dGfLKkWqWSwYtbMUyc8xGjN5LrRviK4",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51498
+      ]
+    },
+    {
+      "address": "3Q8H2ZWMtc4R1M3mkmhnTjCoYKTeCFigDP",
+      "date_listed": "2024-03-27",
+      "entity_id": 47635,
+      "entity_name": "Gaza Now",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        70192
+      ]
+    },
+    {
+      "address": "3QAdoc1rDCt8dii1GVPJXvvK6CEJLzCRZw",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51602
+      ]
+    },
+    {
+      "address": "3QEjBiPzw6WZUL4MYMmMU6DY1Y25aVbpQu",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51511
+      ]
+    },
+    {
+      "address": "3QJyT8nThEQakbfqgX86YjCK1Sp9hfNCUW",
+      "date_listed": "2022-05-06",
+      "entity_id": 37070,
+      "entity_name": "Blender.io",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        51516
+      ]
+    },
+    {
+      "address": "3QVyoH4u3qT88uChAeJVhfB3r6maZt431y",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49744
+      ]
+    },
+    {
+      "address": "3QWUdP5taP4GrRuueVDud1eWetb7hc3wDH",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49758
+      ]
+    },
+    {
+      "address": "3QnWE5GVfQu3wVav91RuFkqip4Ti4NWqAY",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49771
+      ]
+    },
+    {
+      "address": "3QrukkUiBrn23rFUKUgasNd1wYWNk7WdSV",
+      "date_listed": "2022-11-09",
+      "entity_id": 39593,
+      "entity_name": "Grimm Matthew Simon",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56536
+      ]
+    },
+    {
+      "address": "3Qw9Fn19gCnga9LfHfpM99aGzuqxBNjR2i",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44744
+      ]
+    },
+    {
+      "address": "TUCsTq7TofTCJRRoHk6RvhMoS2mJLm5Yzq",
+      "date_listed": "2023-10-03",
+      "entity_id": 45404,
+      "entity_name": "Wang Mingming",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        65924
+      ]
+    },
+    {
+      "address": "bc1q05aktddf9ce4p7hh3stgsf253m4vweu7nkhtmw",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62877
+      ]
+    },
+    {
+      "address": "bc1q202ajnhxgg9d9jjczmg0g4usp6haqldyy2eakl",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49708
+      ]
+    },
+    {
+      "address": "bc1q237mvl0heyw0r38wd3xz8h5mar96rrwpams8pp",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49777
+      ]
+    },
+    {
+      "address": "bc1q2c3vwu7wxq308lsun24rjlsh6ff0x8whx55v4q",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85077
+      ]
+    },
+    {
+      "address": "bc1q2jys00x2rgdkm3xnewuucqacytu0a7echupu8y",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62876
+      ]
+    },
+    {
+      "address": "bc1q2lpgjntr348pfvxhfy33ehmdzy3gmx8w4052z6",
+      "date_listed": "2022-09-15",
+      "entity_id": 38665,
+      "entity_name": "Task Force Rusich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        55028
+      ]
+    },
+    {
+      "address": "bc1q2q8uxjznmurg363dvd98xjg54mrr7z6mw9t825",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62888
+      ]
+    },
+    {
+      "address": "bc1q2we5eqjj8je6lz9xwjattpc3pn4jejc5h0s70f",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        92995
+      ]
+    },
+    {
+      "address": "bc1q362njxy39gnwrvj7zytn84ax39fwnhvk7n2999",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62875
+      ]
+    },
+    {
+      "address": "bc1q3ael5my37nklgnqcrkwmnndfx9qdnp67j0739c",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62874
+      ]
+    },
+    {
+      "address": "bc1q3q2lz3cmt4u2f49ugxz5q34xrs0m2z4w2gmkp5",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85066
+      ]
+    },
+    {
+      "address": "bc1q3tan207evu5skk2wj80ycyw242g0kdnn3hs3x0",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85098
+      ]
+    },
+    {
+      "address": "bc1q3y5v2khlyvemcz042wl98dzflywr8ghglqws6s",
+      "date_listed": "2022-09-14",
+      "entity_id": 38419,
+      "entity_name": "Khatibi Aghada Ahmad",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "IFSR",
+        "IRGC"
+      ],
+      "source_feature_ids": [
+        53724
+      ]
+    },
+    {
+      "address": "bc1q45cxufu7x6s5v9adzm9t38k80gwawse75xffwe",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85072
+      ]
+    },
+    {
+      "address": "bc1q49ax787wv0mnn8wjgp3sx772qz7eun822rkv5k",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62873
+      ]
+    },
+    {
+      "address": "bc1q4namcagg5wljs0u20z6h2sqgsq4q5lts8rt2rr",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62845
+      ]
+    },
+    {
+      "address": "bc1q4qjvgw475a39d8cpcyv5keq39jlmlrq870sn30",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85101
+      ]
+    },
+    {
+      "address": "bc1q4rzdtlt0uslyw86cp29sctl6ct29g9a95cuup7pn5md9ddj7xgmqpp5m73",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44742
+      ]
+    },
+    {
+      "address": "bc1q4sqmmyv63g6ma5cmswzap3d8k995h0str69v3t",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85099
+      ]
+    },
+    {
+      "address": "bc1q4yzd2rjmshm8ucrwy6dzj5rna20j0zlf8hf8vz",
+      "date_listed": "2025-02-11",
+      "entity_id": 52830,
+      "entity_name": "Zservers",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER3"
+      ],
+      "source_feature_ids": [
+        84871
+      ]
+    },
+    {
+      "address": "bc1q5jqgm7nvrhaw2rh2vk0dk8e4gg5g373g0vz07r",
+      "date_listed": "2024-02-20",
+      "entity_id": 47682,
+      "entity_name": "Kondratiev Ivan Gennadievich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        69173
+      ]
+    },
+    {
+      "address": "bc1q5zd0cwzd09k9r8xfk68sn5ytqp8f5aae80yfsm",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62872
+      ]
+    },
+    {
+      "address": "bc1q66y45cq78ke25kz7rpe94l84avt7zetglzeeqg",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94244
+      ]
+    },
+    {
+      "address": "bc1q68uswkjvu7nj7mhrvfzkx7cm6u5s9puvpm5dc2",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62871
+      ]
+    },
+    {
+      "address": "bc1q6qze6uj6jncgnva4eghxn3tr4pm2frh77ad3k9",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94293
+      ]
+    },
+    {
+      "address": "bc1q6rzzf4erht8v7kgh5mfnwcrvzxchxt5glpsuls",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85075
+      ]
+    },
+    {
+      "address": "bc1q6w463k7mhsgguwgqtcratm4vm42rncwhvvkeck",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62870
+      ]
+    },
+    {
+      "address": "bc1q6yz2q723helcd7rz7xltw5nu77vn649zczklc3",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85091
+      ]
+    },
+    {
+      "address": "bc1q7d46dvuv56kn4mm0jz3yep6xj74kxcpydt5te4",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85086
+      ]
+    },
+    {
+      "address": "bc1q7des766x6c0zkycz6dz6rfv066n3fcg4kggtrt",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94247
+      ]
+    },
+    {
+      "address": "bc1q7hhdygx05kyfyzjku2u7lywvx5pgyng6a0nefp",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62869
+      ]
+    },
+    {
+      "address": "bc1q7qsruzjsed9sy6taqz2m5rvljsmleg2xl7dz5r",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85097
+      ]
+    },
+    {
+      "address": "bc1q7xfqqw9htr88t7vafg80p4qrlpjfyaps452x5g",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62868
+      ]
+    },
+    {
+      "address": "bc1q86tl9255vg5wldamfymaaz36uqxzm30gs7fhkljvzdlt9t38s3lqgdwdfq",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44733
+      ]
+    },
+    {
+      "address": "bc1q8ew45w2agdffrnwp6adt2gqrc9n4mkev9ns29c",
+      "date_listed": "2024-02-20",
+      "entity_id": 47682,
+      "entity_name": "Kondratiev Ivan Gennadievich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        69177
+      ]
+    },
+    {
+      "address": "bc1q8p5r6wdx7leuekulnlglapy2wlwxgukpe76mys",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85096
+      ]
+    },
+    {
+      "address": "bc1q8pw85s83mdx2f3rfu64mmfd9wexqu2y856arwp",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62867
+      ]
+    },
+    {
+      "address": "bc1q8q7z3kt37z6jalv5ujung5lem6pzlk9r3kt66k",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62866
+      ]
+    },
+    {
+      "address": "bc1q90zrdysy4flyacw7hsury3ajs9yzwtwp6guqpypx94w0d3p58hysvz6pde",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44731
+      ]
+    },
+    {
+      "address": "bc1q97eg4k2juepa3smpac4pnfjsnyws696c290cxq",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85082
+      ]
+    },
+    {
+      "address": "bc1q9kja7t2zxz0ze4lcgxf0l07pygpc69ws528lj9",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94251
+      ]
+    },
+    {
+      "address": "bc1q9lvynkfpaw330uhqmunzdz6gmafsvapv7y3zty",
+      "date_listed": "2022-09-14",
+      "entity_id": 38420,
+      "entity_name": "Nikaeen Ravari Amir Hossein",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "IFSR",
+        "IRGC"
+      ],
+      "source_feature_ids": [
+        53733
+      ]
+    },
+    {
+      "address": "bc1q9ua9ypl4dhj0zut5kzasj5c2kxclhh8v2k9djd",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62865
+      ]
+    },
+    {
+      "address": "bc1q9ws2gcq7uumm4mk3l9xezwve7w5tmcs5js5cup",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62884
+      ]
+    },
+    {
+      "address": "bc1qa2xr7dmz5lztplp9yfp7k382nf4ma8gwrl7zgg",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62894
+      ]
+    },
+    {
+      "address": "bc1qa4jp7udkn2ycecz8289jfs3vpnqdwf4483d3qe",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85084
+      ]
+    },
+    {
+      "address": "bc1qagp0gy58v8hqvw4p2wsphcxg067rrppp45hexr",
+      "date_listed": "2024-02-20",
+      "entity_id": 47682,
+      "entity_name": "Kondratiev Ivan Gennadievich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        69178
+      ]
+    },
+    {
+      "address": "bc1qakycg2zp8hydg95lc9cheumpa9yfpdeyrqqh5f",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62864
+      ]
+    },
+    {
+      "address": "bc1qardcxz845jw83vgfvcmewhuxa0ag9gchjwmcfd",
+      "date_listed": "2023-10-03",
+      "entity_id": 45314,
+      "entity_name": "Valerian Labs, Inc.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        65750
+      ]
+    },
+    {
+      "address": "bc1qau9pmgc8l6rxpdwwap3fd6zprh5yp9mpe9jl0h",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62863
+      ]
+    },
+    {
+      "address": "bc1qavwamr74qlzj8txy6jaxqnpym9062h090x6kz4",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62890
+      ]
+    },
+    {
+      "address": "bc1qcjh0phl2yy3rxcztfthz9psuvk8trv2qe06p0k",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85105
+      ]
+    },
+    {
+      "address": "bc1qcp6fr7gtyukympl6unr7uv78h3vprycwj455zx",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85095
+      ]
+    },
+    {
+      "address": "bc1qcx8vxxrld2s7qvz64qp75s3508rkzaxj65l60q",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94294
+      ]
+    },
+    {
+      "address": "bc1qdd2mumk4rxnygxyn5qhrq6pah6yjmnl3s9mef5",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85104
+      ]
+    },
+    {
+      "address": "bc1qdpazd6smrkq5hmw6lupq98za2fqtgmq3azv3av",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62846
+      ]
+    },
+    {
+      "address": "bc1qdt3gml5z5n50y5hm04u2yjdphefkm0fl2zdj68",
+      "date_listed": "2021-09-21",
+      "entity_id": 33151,
+      "entity_name": "SUEX OTC, S.R.O.",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        43060
+      ]
+    },
+    {
+      "address": "bc1qdzgee6h4zjwvn8lyzjxgd467zxnshelqkudh7z",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85081
+      ]
+    },
+    {
+      "address": "bc1qe8wclszdtshkjk7gph57crc72vpp9rylujgwa5",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62886
+      ]
+    },
+    {
+      "address": "bc1qe95l438kzjcvnsm3kn8n5augf9gpctdlhsq7f7hpnkyvlr7rc7cqupapf7",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44736
+      ]
+    },
+    {
+      "address": "bc1qe9lz50jq0a5pmtry0h3ekng3kjdg09vejg7355",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62891
+      ]
+    },
+    {
+      "address": "bc1qea942uw640l7nvtf3vplv6jd6wvuy06c58cd4k",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94252
+      ]
+    },
+    {
+      "address": "bc1qeaxuj8vamvnxqveleaqgmae33x904xuzj836p3",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94243
+      ]
+    },
+    {
+      "address": "bc1qec85gd576z0phflq2jm8jxlh22tckqj3yru7xs",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85100
+      ]
+    },
+    {
+      "address": "bc1qedvcgh32dud85yt7fu6s7qavthlh38gtwa7rhx",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62862
+      ]
+    },
+    {
+      "address": "bc1qeth6n6ryxexvkx34wnx3nuynun4474h3j0gkhw",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        92994
+      ]
+    },
+    {
+      "address": "bc1qetqqlgvlnzdh4eshz9q6twlpdtmvy5rfkn3lza",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85087
+      ]
+    },
+    {
+      "address": "bc1qfg4gfg0y6t6xjnpmlhuwx5k0wlw6nmfzxn2psc",
+      "date_listed": "2023-02-01",
+      "entity_id": 40488,
+      "entity_name": "Zimenkov Jonatan",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        57928
+      ]
+    },
+    {
+      "address": "bc1qfpdycqpkl5hvxg4feuk3nhde5h8t2zd89svsg9",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85092
+      ]
+    },
+    {
+      "address": "bc1qgffxa65gr579tsz55n87pal2a777ygzg69d2yz",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62861
+      ]
+    },
+    {
+      "address": "bc1qh33xtpjqhgysq5xlmjzkm28uewj08885n95drr",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62885
+      ]
+    },
+    {
+      "address": "bc1qh3lw22uqwrywr8lpun20q2ma528a4yqmgf3uqp",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62860
+      ]
+    },
+    {
+      "address": "bc1qhe6zy9x6ar42zkec3lhkms5m7hh3svtc88qhf6",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85093
+      ]
+    },
+    {
+      "address": "bc1qhsp4kffl5pmsae43st9jufagu6uy7lsa6mslla",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85079
+      ]
+    },
+    {
+      "address": "bc1qhvzl5w99m458nm7sc6hwf5qfhxndw28sgtatk8",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62889
+      ]
+    },
+    {
+      "address": "bc1qj2ffj6pepc80sfqpx2k2pd3q278q72dpqv2ens",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85067
+      ]
+    },
+    {
+      "address": "bc1qj6j6p0jdefl6pvdzx3kx8245yy5mz6q4luhzes",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49782
+      ]
+    },
+    {
+      "address": "bc1qjwr3rgww7a8ut7a4x8jqh3vswcue3xvp6dm7qe",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85068
+      ]
+    },
+    {
+      "address": "bc1qkfqh5p2qsakseg5gnwen6zh5xf3elmku2xaup29mw3l0wnncy3es880dss",
+      "date_listed": "2023-10-03",
+      "entity_id": 45350,
+      "entity_name": "Xia Fengbing",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        65811
+      ]
+    },
+    {
+      "address": "bc1ql526s72gycmvq7hek6j3tuwwmcpv4rgs0auxu7",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62859
+      ]
+    },
+    {
+      "address": "bc1ql7dlyh8xz6tpqk92vztrhqh88dmjvcwrmsemrm",
+      "date_listed": "2022-09-15",
+      "entity_id": 38665,
+      "entity_name": "Task Force Rusich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        54510
+      ]
+    },
+    {
+      "address": "bc1ql7rnd70aejdxt3f9fzdlfazjlc9hvdmut8ad8s",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62858
+      ]
+    },
+    {
+      "address": "bc1qlfpg2xn39u580cmwq6rymt8jdhcmj8520jhgh0",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62857
+      ]
+    },
+    {
+      "address": "bc1qlhh94040d8nxkstf4l7720q72f2vntxxl96m4d",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85080
+      ]
+    },
+    {
+      "address": "bc1qllmlvy5u038yvwywu803p53g8udcm8w7k4qxu9",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62856
+      ]
+    },
+    {
+      "address": "bc1qlwtksgusw8pp3k3a39mkmwvswujhhgn0ulp3uj",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94248
+      ]
+    },
+    {
+      "address": "bc1qmwznjzlhrj3fney3elxkwdpwa72u7eq0ge76dt",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85102
+      ]
+    },
+    {
+      "address": "bc1qmzmx8res2fgzd2wttyvf2ajqqqtcnxxrgkqc2t",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85073
+      ]
+    },
+    {
+      "address": "bc1qn6segn8km4nfdp9vueu6msfjsaxaqgun9h60n9",
+      "date_listed": "2024-02-20",
+      "entity_id": 47682,
+      "entity_name": "Kondratiev Ivan Gennadievich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        69179
+      ]
+    },
+    {
+      "address": "bc1qnq3pzsw3elkecrw8pqrz70r7zuse6cwyxa6dhc",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94242
+      ]
+    },
+    {
+      "address": "bc1qnujzvts45qka3cr2eqqw8ur3q6g6s0ze2wlk5m",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        92996
+      ]
+    },
+    {
+      "address": "bc1qnykkrlk67f9kdqvzyw2ndu3xmef5z2e52886yl",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62855
+      ]
+    },
+    {
+      "address": "bc1qpaly5nm7pfka9v92d6qvl4fc2l9xzee8a6ys3s",
+      "date_listed": "2022-09-14",
+      "entity_id": 38420,
+      "entity_name": "Nikaeen Ravari Amir Hossein",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "IFSR",
+        "IRGC"
+      ],
+      "source_feature_ids": [
+        53734
+      ]
+    },
+    {
+      "address": "bc1qptrvdk8uv8shd734tyhyzatrvmlq9l0v6r0dc2",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85094
+      ]
+    },
+    {
+      "address": "bc1qq7p0es3dv5hcynjjf40f2xjjr6qp5py47d2f6n847vduuq9gvnyq7y9ecd",
+      "date_listed": "2023-11-29",
+      "entity_id": 44437,
+      "entity_name": "Sinbad",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "DPRK3"
+      ],
+      "source_feature_ids": [
+        64252
+      ]
+    },
+    {
+      "address": "bc1qqf8kcc9m57xjqcvsvuf989nnl48ve6d2s24cx3",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49785
+      ]
+    },
+    {
+      "address": "bc1qr2tgu4almsw9ajqfwz93qw0xc8w2g72xpyzqvn",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85089
+      ]
+    },
+    {
+      "address": "bc1qr4fd3glpnthkefcylhnxk4gp47jsd0523ue7qj",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85076
+      ]
+    },
+    {
+      "address": "bc1qrc2gchg2fmxua5u7twu4luv5p9twmny4jjmg9x",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62881
+      ]
+    },
+    {
+      "address": "bc1qrskwdw9unhlkt87ltcqq2d5pn9s6w2f35gz3z6",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62895
+      ]
+    },
+    {
+      "address": "bc1qs9u6j78e3utj08mwvqkkmqm9de5xk3g4yh8qtq",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49706
+      ]
+    },
+    {
+      "address": "bc1qsmqpalp3gtgkltag4x3ygevmhh9y2hzk73t2ug",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49734
+      ]
+    },
+    {
+      "address": "bc1qsmv6lkrw65l30yazdqpdjjtwzpvk9f8gfh0cy7",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49705
+      ]
+    },
+    {
+      "address": "bc1qsxf77cvwcd6jv6j8d8j3uhh4g0xqw4meswmwuc",
+      "date_listed": "2022-09-14",
+      "entity_id": 38420,
+      "entity_name": "Nikaeen Ravari Amir Hossein",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "IFSR",
+        "IRGC"
+      ],
+      "source_feature_ids": [
+        53732
+      ]
+    },
+    {
+      "address": "bc1qtdupwe722vcc5e0vh94cgwfs0ep4gzwyfsf75q",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62854
+      ]
+    },
+    {
+      "address": "bc1qte9ret332gwrk6e7vqc87d807npzvdj5savg4h",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62853
+      ]
+    },
+    {
+      "address": "bc1qtnr3t28ltzgsuvr9j6ruqaat6fz773mm8wr02l",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85074
+      ]
+    },
+    {
+      "address": "bc1qtrh9z4ls2s2mflyhc5y0mtxt0y30n87c97z4qp",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85088
+      ]
+    },
+    {
+      "address": "bc1qtrrfhr0f3ufsrjxfv8a7p3yuqj0spe4cm6vaws",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62852
+      ]
+    },
+    {
+      "address": "bc1qtsl3ufenrv3zgrgm9z8xarcx22x8mfztuartyn",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62851
+      ]
+    },
+    {
+      "address": "bc1qtywfzxx6snut2mdrum8dyr5nnd5qhqd29wmvqt",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62878
+      ]
+    },
+    {
+      "address": "bc1qu3e9sq8cem759umc3pywlsly3rr2qvjlxfnn9l",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85083
+      ]
+    },
+    {
+      "address": "bc1qu4p4eynzu8vwwcv0yxq74gth00exjyech05uf0",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94249
+      ]
+    },
+    {
+      "address": "bc1qu5vngdtcx8nc9d68pq8nv7pzcjrswsy87s66gk",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62850
+      ]
+    },
+    {
+      "address": "bc1qu8mcqffx3jpdwnap88h85u5l5l0xq97438tz2x",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94245
+      ]
+    },
+    {
+      "address": "bc1qup656lpfqfckhl580kwf62thmn5azmj2pal0sz",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62893
+      ]
+    },
+    {
+      "address": "bc1quyc6j8ca84q9gjej5jjd2n8hra0vfu0j60fefs57p6e5rerkq07q0l5u3w",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49722
+      ]
+    },
+    {
+      "address": "bc1qv4krhj2qmpd9qz9xj9nhvj99fq8s9xsw05d485",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62849
+      ]
+    },
+    {
+      "address": "bc1qv7k70u2zynvem59u88ctdlaw7hc735d8xep9rq",
+      "date_listed": "2021-04-15",
+      "entity_id": 31212,
+      "entity_name": "SOUTHFRONT",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848",
+        "NPWMD"
+      ],
+      "source_feature_ids": [
+        44776
+      ]
+    },
+    {
+      "address": "bc1qvhnfknw852ephxyc5hm4q520zmvf9maphetc9z",
+      "date_listed": "2024-05-07",
+      "entity_id": 48603,
+      "entity_name": "Khoroshev Dmitry Yuryevich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        70896
+      ]
+    },
+    {
+      "address": "bc1qvlzfn6kmezv44d8kw0p5jsmxe6wchv3zc7gsxs",
+      "date_listed": "2022-04-05",
+      "entity_id": 36216,
+      "entity_name": "Hydra Market",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        49743
+      ]
+    },
+    {
+      "address": "bc1qvxlwpgcw260sc97a0u6dm0cjxv027clhd67fvx",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85069
+      ]
+    },
+    {
+      "address": "bc1qw0pswznckx7s6tjmd2f5hrx4q6kc5nyrdxku50",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94250
+      ]
+    },
+    {
+      "address": "bc1qw4cxpe6sxa5dg6sdwxjph959cw6yztrzl4r54s",
+      "date_listed": "2021-04-15",
+      "entity_id": 31212,
+      "entity_name": "SOUTHFRONT",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848",
+        "NPWMD"
+      ],
+      "source_feature_ids": [
+        44777
+      ]
+    },
+    {
+      "address": "bc1qw4fxztd5u3sl7vrcqwk2a8v5zh5dllvckx3tlt",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        92997
+      ]
+    },
+    {
+      "address": "bc1qw75cxmxz4e2v265mue9wmqgq2m0qdyr25l2ufl",
+      "date_listed": "2025-10-14",
+      "entity_id": 55505,
+      "entity_name": "Chen Zhi",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "TCO"
+      ],
+      "source_feature_ids": [
+        94246
+      ]
+    },
+    {
+      "address": "bc1qw7vfgv3r5vnehafl0y95sclg3uqsj87wxs9ad628yjjcq33cwessr6ndyw",
+      "date_listed": "2021-11-08",
+      "entity_id": 33854,
+      "entity_name": "CHATEX",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        44732
+      ]
+    },
+    {
+      "address": "bc1qw8evftpgc8wsmkemd8yl5fg2husza5z802xaym",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62848
+      ]
+    },
+    {
+      "address": "bc1qwa6zu6qhl6wqnlxp642vcf89nptsassle25ulf",
+      "date_listed": "2022-11-09",
+      "entity_id": 39585,
+      "entity_name": "Peijnenburg Alex Adrianus Martinus",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        56427
+      ]
+    },
+    {
+      "address": "bc1qwtswqzvaxl6lyw3keqqzwt8z937psta3wg9sjy",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85070
+      ]
+    },
+    {
+      "address": "bc1qwyye7frjufeth0pecvaf3hz67lakt028dezv3p",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85078
+      ]
+    },
+    {
+      "address": "bc1qwz0l2ceddckwdy5rh6zyrm3x4ha6gn5f2da5zg",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        62847
+      ]
+    },
+    {
+      "address": "bc1qx3e2axj3wsfn0ndtvlwmkghmmgm4583nqg8ngk",
+      "date_listed": "2022-09-14",
+      "entity_id": 38419,
+      "entity_name": "Khatibi Aghada Ahmad",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "IFSR",
+        "IRGC"
+      ],
+      "source_feature_ids": [
+        53725
+      ]
+    },
+    {
+      "address": "bc1qx9upga7f09tsetqf78wa3qrmcjar58mkwz6ng6",
+      "date_listed": "2024-02-20",
+      "entity_id": 47682,
+      "entity_name": "Kondratiev Ivan Gennadievich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        69181
+      ]
+    },
+    {
+      "address": "bc1qxp3sxw4q2rw3u9pd2k7udhp4eagc77jqcezv4q",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85085
+      ]
+    },
+    {
+      "address": "bc1qyqvyupkpl6tm60zdecef925y220ssjuagpxsm0",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85071
+      ]
+    },
+    {
+      "address": "bc1qyy5pt5cx3zth8xlj92lq5y87dh8xv3nwgs4ncq",
+      "date_listed": "2026-03-12",
+      "entity_id": 57035,
+      "entity_name": "Hoang Minh Quang",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "DPRK4"
+      ],
+      "source_feature_ids": [
+        96312
+      ]
+    },
+    {
+      "address": "bc1qzcg8y0utezp7zkp2cmqppd3x80l4gpqzew25wy",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85103
+      ]
+    },
+    {
+      "address": "bc1qzqqdvukupr0qr5uckn2zjn40mkflnxu8fuuqdp",
+      "date_listed": "2025-03-04",
+      "entity_id": 53033,
+      "entity_name": "Parsarad Behrouz",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        85090
       ]
     }
   ],
   "chain": "bitcoin",
-  "last_updated": "2026-03-23T20:16:42Z",
+  "last_updated": "2026-03-23T20:46:08Z",
   "source_list": "SDN",
   "source_xml_url": "https://www.treasury.gov/ofac/downloads/sanctions/1.0/sdn_advanced.xml"
 }

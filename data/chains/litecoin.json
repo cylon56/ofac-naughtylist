@@ -1,25 +1,177 @@
 {
-  "address_count": 1,
+  "address_count": 10,
   "addresses": [
     {
-      "address": "LcHKx4Vy5Dxit94JYJ7pGg4dBbZFyv3Lz1",
-      "date_listed": "2023-01-10",
-      "entity_id": 50001,
-      "entity_name": "TEST SANCTIONS ENTITY",
+      "address": "LNf2JDiuunBz7GMDKFYHN4rq5meXWxiwfb",
+      "date_listed": "2024-05-28",
+      "entity_id": 43421,
+      "entity_name": "Wang Yunhe",
       "evm_compatible": false,
       "ofac_tickers": [
         "LTC"
       ],
       "programs": [
-        "SDGT"
+        "CYBER2"
       ],
       "source_feature_ids": [
-        60002
+        62904
+      ]
+    },
+    {
+      "address": "LNwgtMxcKUQ51dw7bQL1yPQjBVZh6QEqsd",
+      "date_listed": "2020-09-16",
+      "entity_id": 29585,
+      "entity_name": "KARASAVIDI Dmitrii",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "LTC"
+      ],
+      "programs": [
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        36453
+      ]
+    },
+    {
+      "address": "LQAhYwwK5AR1JQiQPr7vu8Pu4b6qcxxvNB",
+      "date_listed": "2021-04-15",
+      "entity_id": 30518,
+      "entity_name": "Secondeye Solution",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "LTC"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38269
+      ]
+    },
+    {
+      "address": "LWnbjLYUfqeokfbWM4FcU7uk2FP2DSxuWS",
+      "date_listed": "2020-09-10",
+      "entity_id": 29703,
+      "entity_name": "Andreyev Anton Nikolaeyvich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "LTC"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        36627
+      ]
+    },
+    {
+      "address": "LaYUy1DGfVSuSF5KbPhbLrm8kRotqiwUJn",
+      "date_listed": "2020-09-10",
+      "entity_id": 29703,
+      "entity_name": "Andreyev Anton Nikolaeyvich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "LTC"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        36629
+      ]
+    },
+    {
+      "address": "LaizKtS5DUhPuP1nTQcc83MS7HwK6vk85z",
+      "date_listed": "2019-08-21",
+      "entity_id": 26323,
+      "entity_name": "Zheng Guanghua",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "LTC"
+      ],
+      "programs": [
+        "SDNTK"
+      ],
+      "source_feature_ids": [
+        31739
+      ]
+    },
+    {
+      "address": "LeKvNdNEzgQkzVVnRdV3fAu2DSF1nLsNw6",
+      "date_listed": "2021-04-15",
+      "entity_id": 30518,
+      "entity_name": "Secondeye Solution",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "LTC"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38271,
+        38287
+      ]
+    },
+    {
+      "address": "Leo3j36nn1JcsUQruytQhFUdCdCH5YHMR3",
+      "date_listed": "2020-09-10",
+      "entity_id": 29702,
+      "entity_name": "Lifshits Artem Mikhaylovich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "LTC"
+      ],
+      "programs": [
+        "ELECTION-EO13848",
+        "CYBER2"
+      ],
+      "source_feature_ids": [
+        36617
+      ]
+    },
+    {
+      "address": "LgwmgYnraU2uBWHVFUDgAmFCPYj5Yw8C9L",
+      "date_listed": "2021-04-15",
+      "entity_id": 30518,
+      "entity_name": "Secondeye Solution",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "LTC"
+      ],
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "source_feature_ids": [
+        38270
+      ]
+    },
+    {
+      "address": "M8yFL6SFC6TreATegTyuSYkDfDRbisdpT3",
+      "date_listed": "2024-09-26",
+      "entity_id": 50641,
+      "entity_name": "Cryptex",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "LTC"
+      ],
+      "programs": [
+        "CYBER2",
+        "RUSSIA-EO14024"
+      ],
+      "source_feature_ids": [
+        79081
       ]
     }
   ],
   "chain": "litecoin",
-  "last_updated": "2026-03-23T20:16:42Z",
+  "last_updated": "2026-03-23T20:46:08Z",
   "source_list": "SDN",
   "source_xml_url": "https://www.treasury.gov/ofac/downloads/sanctions/1.0/sdn_advanced.xml"
 }
