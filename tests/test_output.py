@@ -39,7 +39,7 @@ class TestPerChainFiles:
 
         assert data["chain"] == "ethereum"
         assert data["source_list"] == "SDN"
-        assert "last_updated" in data
+        assert "last_updated" not in data
         assert "source_xml_url" in data
         assert data["address_count"] == len(data["addresses"])
         assert data["address_count"] > 0
@@ -79,7 +79,7 @@ class TestAllAddresses:
             data = json.load(f)
 
         assert "source_list" in data
-        assert "last_updated" in data
+        assert "last_updated" not in data
         assert "total_address_count" in data
         assert "addresses" in data
         assert data["total_address_count"] == len(data["addresses"])
@@ -116,6 +116,7 @@ class TestMetadata:
         with open(os.path.join(output_dir, "metadata.json")) as f:
             data = json.load(f)
 
+        assert "last_checked" in data
         assert "last_updated" in data
         assert "source_list" in data
         assert "source_xml_url" in data

@@ -10,6 +10,28 @@ from src.categorize import CategorizedAddress
 logger = logging.getLogger(__name__)
 
 
+def _load_existing_addresses(output_dir: str) -> set[tuple[str, str]]:
+    """Load existing address set from all_addresses.json for change detection."""
+    path = os.path.join(output_dir, "all_addresses.json")
+    try:
+        with open(path) as f:
+            data = json.load(f)
+        return {(a["address"], a["chain"]) for a in data.get("addresses", [])}
+    except (FileNotFoundError, json.JSONDecodeError, KeyError):
+        return set()
+
+
+def _load_existing_last_updated(output_dir: str) -> str | None:
+    """Load the previous last_updated timestamp from metadata.json."""
+    path = os.path.join(output_dir, "metadata.json")
+    try:
+        with open(path) as f:
+            data = json.load(f)
+        return data.get("last_updated")
+    except (FileNotFoundError, json.JSONDecodeError):
+        return None
+
+
 def generate_output(
     categorized: dict[str, list[CategorizedAddress]],
     output_dir: str = "data",
@@ -29,6 +51,10 @@ def generate_output(
     os.makedirs(chains_dir, exist_ok=True)
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    # Load existing data before overwriting, for change detection
+    old_addresses = _load_existing_addresses(output_dir)
+    old_last_updated = _load_existing_last_updated(output_dir)
 
     all_addresses = []
     chain_counts = {}
@@ -71,7 +97,6 @@ def generate_output(
         chain_file = {
             "chain": chain,
             "source_list": source_list,
-            "last_updated": now,
             "source_xml_url": source_xml_url,
             "address_count": len(chain_addresses),
             "addresses": chain_addresses,
@@ -86,16 +111,23 @@ def generate_output(
     all_addresses.sort(key=lambda a: (a["chain"], a["address"]))
     all_file = {
         "source_list": source_list,
-        "last_updated": now,
         "total_address_count": total_count,
         "addresses": all_addresses,
     }
     with open(os.path.join(output_dir, "all_addresses.json"), "w") as f:
         json.dump(all_file, f, indent=2, sort_keys=True)
 
+    # Determine last_updated: only changes when the address list changes
+    new_addresses = {(a["address"], a["chain"]) for a in all_addresses}
+    if new_addresses != old_addresses:
+        last_updated = now
+    else:
+        last_updated = old_last_updated or now
+
     # Write metadata.json
     metadata = {
-        "last_updated": now,
+        "last_checked": now,
+        "last_updated": last_updated,
         "source_list": source_list,
         "source_xml_url": source_xml_url,
         "total_addresses": total_count,

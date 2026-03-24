@@ -20,7 +20,6 @@
     }
   ],
   "chain": "bitcoin_sv",
-  "last_updated": "2026-03-24T14:47:15Z",
   "source_list": "SDN",
   "source_xml_url": "https://www.treasury.gov/ofac/downloads/sanctions/1.0/sdn_advanced.xml"
 }

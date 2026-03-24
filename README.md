@@ -60,7 +60,6 @@ Each per-chain JSON file contains:
 {
   "chain": "ethereum",
   "source_list": "SDN",
-  "last_updated": "2026-03-23T00:00:00Z",
   "source_xml_url": "https://www.treasury.gov/ofac/downloads/sanctions/1.0/sdn_advanced.xml",
   "address_count": 312,
   "addresses": [
@@ -77,6 +76,10 @@ Each per-chain JSON file contains:
   ]
 }
 ```
+
+Timestamps are centralized in `data/metadata.json`:
+- `last_checked`: when the OFAC source was last checked for updates
+- `last_updated`: when addresses were last added or removed from the list
 
 See `data/metadata.json` for aggregate statistics and schema version.
 
