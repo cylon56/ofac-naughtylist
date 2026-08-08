@@ -1,5 +1,5 @@
 {
-  "address_count": 5,
+  "address_count": 6,
   "addresses": [
     {
       "address": "42RLPACwZPx3vYYmxSueqsogfynBDqXK298EDsNoyoHi",
@@ -15,6 +15,22 @@
       ],
       "source_feature_ids": [
         94579
+      ]
+    },
+    {
+      "address": "6wjqWWra8ombzaw6VHrG5xpQ972jCYF6bbHiFCbWmr4U",
+      "date_listed": "2026-08-07",
+      "entity_id": 58287,
+      "entity_name": "SHPS Shelbit",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "SOL"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        100100
       ]
     },
     {

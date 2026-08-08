@@ -1,5 +1,5 @@
 {
-  "address_count": 273,
+  "address_count": 276,
   "addresses": [
     {
       "address": "TA3941uFAvmVibSkQ6fMJXxmaSNovX86mz",
@@ -2817,6 +2817,23 @@
       ]
     },
     {
+      "address": "TPgxjjB6AJeMSQFngbUM6dMMxPHa9GEtYa",
+      "date_listed": "2026-08-07",
+      "entity_id": 58284,
+      "entity_name": "Kayvanpour Siavash",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT",
+        "IRGC"
+      ],
+      "source_feature_ids": [
+        100091
+      ]
+    },
+    {
       "address": "TPkNp2Z5KiA1sLWpPMWsfNErVo2dHxc4iy",
       "date_listed": "2015-09-29",
       "entity_id": 18647,
@@ -3450,6 +3467,22 @@
       ],
       "source_feature_ids": [
         93800
+      ]
+    },
+    {
+      "address": "TTVJuXWCusAURrpNShiypauagEH1N4CrxV",
+      "date_listed": "2026-08-07",
+      "entity_id": 58258,
+      "entity_name": "CRYPTO HOME DMCC",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        99983
       ]
     },
     {
@@ -4304,6 +4337,22 @@
       ],
       "source_feature_ids": [
         99015
+      ]
+    },
+    {
+      "address": "TXN3hVukebhyYR31YPCYd7aJAvmUeXu1ab",
+      "date_listed": "2026-08-07",
+      "entity_id": 58287,
+      "entity_name": "SHPS Shelbit",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        100104
       ]
     },
     {

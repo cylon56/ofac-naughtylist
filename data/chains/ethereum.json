@@ -1,5 +1,5 @@
 {
-  "address_count": 100,
+  "address_count": 104,
   "addresses": [
     {
       "address": "0x0330070FD38Ec3bB94F58FA55D40368271E9e54A",
@@ -740,6 +740,22 @@
       ]
     },
     {
+      "address": "0x6b69e2a7545c166417a80c61a77562052bffa9c5",
+      "date_listed": "2026-08-07",
+      "entity_id": 58287,
+      "entity_name": "SHPS Shelbit",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        100106
+      ]
+    },
+    {
       "address": "0x6be0ae71e6c41f2f9d0d1a3b8d0f75e6f6a0b46e",
       "date_listed": "2023-08-23",
       "entity_id": 44718,
@@ -968,6 +984,23 @@
       ],
       "source_feature_ids": [
         85347
+      ]
+    },
+    {
+      "address": "0x8d79c73daae8630c88de372ba8f57592fa987607",
+      "date_listed": "2026-08-07",
+      "entity_id": 58284,
+      "entity_name": "Kayvanpour Siavash",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "SDGT",
+        "IRGC"
+      ],
+      "source_feature_ids": [
+        100090
       ]
     },
     {
@@ -1321,6 +1354,22 @@
       ]
     },
     {
+      "address": "0xbb69e01921b17cd22080968bcc96ba6115da6062",
+      "date_listed": "2026-08-07",
+      "entity_id": 58258,
+      "entity_name": "CRYPTO HOME DMCC",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        99984
+      ]
+    },
+    {
       "address": "0xc103b7dc095c904b92081eef0c1640081ec01c10",
       "date_listed": "2025-11-19",
       "entity_id": 56360,
@@ -1481,6 +1530,22 @@
       ],
       "source_feature_ids": [
         64882
+      ]
+    },
+    {
+      "address": "0xe05f529f5284d75624eba386cb716928c3b54a2a",
+      "date_listed": "2026-08-07",
+      "entity_id": 58287,
+      "entity_name": "SHPS Shelbit",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        100098
       ]
     },
     {

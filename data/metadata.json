@@ -1,24 +1,26 @@
 {
   "chains": {
-    "bitcoin": 525,
+    "bitcoin": 530,
     "bitcoin_cash": 7,
     "bitcoin_gold": 1,
     "bitcoin_sv": 1,
     "dash": 5,
-    "ethereum": 100,
+    "ethereum": 104,
     "litecoin": 13,
     "monero": 11,
     "ripple": 1,
-    "solana": 5,
-    "tron": 273,
+    "solana": 6,
+    "tron": 276,
+    "unknown": 1,
     "verge": 1,
     "zcash": 4
   },
-  "last_checked": "2026-08-07T03:10:34Z",
-  "last_updated": "2026-07-24T00:04:54Z",
+  "last_checked": "2026-08-08T00:04:11Z",
+  "last_updated": "2026-08-08T00:04:11Z",
   "ofac_tickers_found": [
     "ARB",
     "BCH",
+    "BNB",
     "BSC",
     "BSV",
     "BTG",
@@ -40,6 +42,6 @@
   "schema_version": "1.0.0",
   "source_list": "SDN",
   "source_xml_url": "https://www.treasury.gov/ofac/downloads/sanctions/1.0/sdn_advanced.xml",
-  "total_addresses": 947,
-  "total_unique_entities": 91
+  "total_addresses": 961,
+  "total_unique_entities": 94
 }

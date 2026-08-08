@@ -30,22 +30,23 @@ curl https://raw.githubusercontent.com/cylon56/ofac-naughtylist/main/data/all_ad
 
 ## Current sanctions snapshot
 
-> Last updated: **2026-07-24** | **947 addresses** across **91 sanctioned entities**
+> Last updated: **2026-08-08** | **961 addresses** across **94 sanctioned entities**
 
 | Chain | Addresses | Last Added | File |
 | ----- | --------: | ---------- | ---- |
-| Bitcoin | 525 | 2026-07-13 | `data/chains/bitcoin.json` |
-| Tron | 273 | 2026-07-23 | `data/chains/tron.json` |
-| Ethereum | 100 | 2026-07-13 | `data/chains/ethereum.json` |
+| Bitcoin | 530 | 2026-08-07 | `data/chains/bitcoin.json` |
+| Tron | 276 | 2026-08-07 | `data/chains/tron.json` |
+| Ethereum | 104 | 2026-08-07 | `data/chains/ethereum.json` |
 | Litecoin | 13 | 2026-07-13 | `data/chains/litecoin.json` |
 | Monero | 11 | 2025-03-04 | `data/chains/monero.json` |
 | Bitcoin Cash | 7 | 2022-11-09 | `data/chains/bitcoin_cash.json` |
+| Solana | 6 | 2026-08-07 | `data/chains/solana.json` |
 | Dash | 5 | 2026-07-13 | `data/chains/dash.json` |
-| Solana | 5 | 2026-07-13 | `data/chains/solana.json` |
 | Zcash | 4 | 2026-07-13 | `data/chains/zcash.json` |
 | Bitcoin Gold | 1 | 2020-09-16 | `data/chains/bitcoin_gold.json` |
 | Bitcoin SV | 1 | 2020-09-10 | `data/chains/bitcoin_sv.json` |
 | Ripple | 1 | 2021-11-08 | `data/chains/ripple.json` |
+| Unknown | 1 | 2026-08-07 | `data/chains/unknown.json` |
 | Verge | 1 | 2021-04-15 | `data/chains/verge.json` |
 
 Additional supported chains (no explicit sanctions): Arbitrum, BSC, Ethereum Classic. Note that EVM addresses sanctioned on Ethereum are valid on all EVM-compatible chains — an address flagged on Ethereum should be treated as sanctioned on Arbitrum, BSC, etc. as well. Check the `evm_compatible` field in the output to identify these addresses.

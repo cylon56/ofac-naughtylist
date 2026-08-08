@@ -1,5 +1,5 @@
 {
-  "address_count": 525,
+  "address_count": 530,
   "addresses": [
     {
       "address": "123WBUDmSJv4GctdVEz6Qq6z8nXSKrJ4KX",
@@ -550,6 +550,23 @@
       ],
       "source_feature_ids": [
         33690
+      ]
+    },
+    {
+      "address": "15Zt2mKuQ5Qy6DEXfDcbtsEVneoGQQXrS4",
+      "date_listed": "2026-08-07",
+      "entity_id": 58284,
+      "entity_name": "Kayvanpour Siavash",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDGT",
+        "IRGC"
+      ],
+      "source_feature_ids": [
+        100092
       ]
     },
     {
@@ -1299,6 +1316,23 @@
       ]
     },
     {
+      "address": "1BUXxhcwzFukm9CUxnhag85sSXDkMRbXse",
+      "date_listed": "2026-08-07",
+      "entity_id": 58284,
+      "entity_name": "Kayvanpour Siavash",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDGT",
+        "IRGC"
+      ],
+      "source_feature_ids": [
+        100093
+      ]
+    },
+    {
       "address": "1BiUFjzH6wsT73U3tfy4aXHCQsYQHzjk5h",
       "date_listed": "2021-04-15",
       "entity_id": 30520,
@@ -1998,6 +2032,22 @@
       ],
       "source_feature_ids": [
         36626
+      ]
+    },
+    {
+      "address": "1G1V1b9s9uPsFCNL15ibZk44xsVygKsP2u",
+      "date_listed": "2026-08-07",
+      "entity_id": 58258,
+      "entity_name": "CRYPTO HOME DMCC",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        99985
       ]
     },
     {
@@ -7480,6 +7530,22 @@
       ]
     },
     {
+      "address": "bc1qjzk63wwatq2f638psymq3qapn00aqgksyx56l3t8eg7zuuccwasq498khf",
+      "date_listed": "2026-08-07",
+      "entity_id": 58287,
+      "entity_name": "SHPS Shelbit",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        100102
+      ]
+    },
+    {
       "address": "bc1qkfqh5p2qsakseg5gnwen6zh5xf3elmku2xaup29mw3l0wnncy3es880dss",
       "date_listed": "2023-10-03",
       "entity_id": 45350,
@@ -8448,6 +8514,22 @@
       ],
       "source_feature_ids": [
         96312
+      ]
+    },
+    {
+      "address": "bc1qz654h5qcqzalv6ltpxsk4ksdcc3e20wkedqntgnarv3a0t2e2p7scr48pl",
+      "date_listed": "2026-08-07",
+      "entity_id": 58287,
+      "entity_name": "SHPS Shelbit",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        100105
       ]
     },
     {

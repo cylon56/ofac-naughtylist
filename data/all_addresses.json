@@ -450,6 +450,20 @@
       ]
     },
     {
+      "address": "15Zt2mKuQ5Qy6DEXfDcbtsEVneoGQQXrS4",
+      "chain": "bitcoin",
+      "date_listed": "2026-08-07",
+      "entity_id": 58284,
+      "entity_name": "Kayvanpour Siavash",
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDGT",
+        "IRGC"
+      ]
+    },
+    {
       "address": "15cRqR3TXS1JehBGWERuxFE8NhWZzfoeeU",
       "chain": "bitcoin",
       "date_listed": "2024-02-20",
@@ -1058,6 +1072,20 @@
       ]
     },
     {
+      "address": "1BUXxhcwzFukm9CUxnhag85sSXDkMRbXse",
+      "chain": "bitcoin",
+      "date_listed": "2026-08-07",
+      "entity_id": 58284,
+      "entity_name": "Kayvanpour Siavash",
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDGT",
+        "IRGC"
+      ]
+    },
+    {
       "address": "1BiUFjzH6wsT73U3tfy4aXHCQsYQHzjk5h",
       "chain": "bitcoin",
       "date_listed": "2021-04-15",
@@ -1626,6 +1654,19 @@
       "programs": [
         "CYBER2",
         "ELECTION-EO13848"
+      ]
+    },
+    {
+      "address": "1G1V1b9s9uPsFCNL15ibZk44xsVygKsP2u",
+      "chain": "bitcoin",
+      "date_listed": "2026-08-07",
+      "entity_id": 58258,
+      "entity_name": "CRYPTO HOME DMCC",
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDGT"
       ]
     },
     {
@@ -6084,6 +6125,19 @@
       ]
     },
     {
+      "address": "bc1qjzk63wwatq2f638psymq3qapn00aqgksyx56l3t8eg7zuuccwasq498khf",
+      "chain": "bitcoin",
+      "date_listed": "2026-08-07",
+      "entity_id": 58287,
+      "entity_name": "SHPS Shelbit",
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDGT"
+      ]
+    },
+    {
       "address": "bc1qkfqh5p2qsakseg5gnwen6zh5xf3elmku2xaup29mw3l0wnncy3es880dss",
       "chain": "bitcoin",
       "date_listed": "2023-10-03",
@@ -6872,6 +6926,19 @@
       ],
       "programs": [
         "DPRK4"
+      ]
+    },
+    {
+      "address": "bc1qz654h5qcqzalv6ltpxsk4ksdcc3e20wkedqntgnarv3a0t2e2p7scr48pl",
+      "chain": "bitcoin",
+      "date_listed": "2026-08-07",
+      "entity_id": 58287,
+      "entity_name": "SHPS Shelbit",
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "SDGT"
       ]
     },
     {
@@ -7693,6 +7760,19 @@
       ]
     },
     {
+      "address": "0x6b69e2a7545c166417a80c61a77562052bffa9c5",
+      "chain": "ethereum",
+      "date_listed": "2026-08-07",
+      "entity_id": 58287,
+      "entity_name": "SHPS Shelbit",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "SDGT"
+      ]
+    },
+    {
       "address": "0x6be0ae71e6c41f2f9d0d1a3b8d0f75e6f6a0b46e",
       "chain": "ethereum",
       "date_listed": "2023-08-23",
@@ -7879,6 +7959,20 @@
       "programs": [
         "CYBER4",
         "RUSSIA-EO14024"
+      ]
+    },
+    {
+      "address": "0x8d79c73daae8630c88de372ba8f57592fa987607",
+      "chain": "ethereum",
+      "date_listed": "2026-08-07",
+      "entity_id": 58284,
+      "entity_name": "Kayvanpour Siavash",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "SDGT",
+        "IRGC"
       ]
     },
     {
@@ -8165,6 +8259,19 @@
       ]
     },
     {
+      "address": "0xbb69e01921b17cd22080968bcc96ba6115da6062",
+      "chain": "ethereum",
+      "date_listed": "2026-08-07",
+      "entity_id": 58258,
+      "entity_name": "CRYPTO HOME DMCC",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "SDGT"
+      ]
+    },
+    {
       "address": "0xc103b7dc095c904b92081eef0c1640081ec01c10",
       "chain": "ethereum",
       "date_listed": "2025-11-19",
@@ -8294,6 +8401,19 @@
       ],
       "programs": [
         "DPRK3"
+      ]
+    },
+    {
+      "address": "0xe05f529f5284d75624eba386cb716928c3b54a2a",
+      "chain": "ethereum",
+      "date_listed": "2026-08-07",
+      "entity_id": 58287,
+      "entity_name": "SHPS Shelbit",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "SDGT"
       ]
     },
     {
@@ -8779,6 +8899,19 @@
       ],
       "programs": [
         "ILLICIT-DRUGS-EO14059"
+      ]
+    },
+    {
+      "address": "6wjqWWra8ombzaw6VHrG5xpQ972jCYF6bbHiFCbWmr4U",
+      "chain": "solana",
+      "date_listed": "2026-08-07",
+      "entity_id": 58287,
+      "entity_name": "SHPS Shelbit",
+      "ofac_tickers": [
+        "SOL"
+      ],
+      "programs": [
+        "SDGT"
       ]
     },
     {
@@ -11142,6 +11275,20 @@
       ]
     },
     {
+      "address": "TPgxjjB6AJeMSQFngbUM6dMMxPHa9GEtYa",
+      "chain": "tron",
+      "date_listed": "2026-08-07",
+      "entity_id": 58284,
+      "entity_name": "Kayvanpour Siavash",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT",
+        "IRGC"
+      ]
+    },
+    {
       "address": "TPkNp2Z5KiA1sLWpPMWsfNErVo2dHxc4iy",
       "chain": "tron",
       "date_listed": "2015-09-29",
@@ -11661,6 +11808,19 @@
       ],
       "programs": [
         "DPRK4"
+      ]
+    },
+    {
+      "address": "TTVJuXWCusAURrpNShiypauagEH1N4CrxV",
+      "chain": "tron",
+      "date_listed": "2026-08-07",
+      "entity_id": 58258,
+      "entity_name": "CRYPTO HOME DMCC",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT"
       ]
     },
     {
@@ -12365,6 +12525,19 @@
       ]
     },
     {
+      "address": "TXN3hVukebhyYR31YPCYd7aJAvmUeXu1ab",
+      "chain": "tron",
+      "date_listed": "2026-08-07",
+      "entity_id": 58287,
+      "entity_name": "SHPS Shelbit",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT"
+      ]
+    },
+    {
       "address": "TXR1nhqAek4c5Dq9EfjQLarcBWR9Jp6N7m",
       "chain": "tron",
       "date_listed": "2015-09-29",
@@ -12568,6 +12741,19 @@
       ]
     },
     {
+      "address": "bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23",
+      "chain": "unknown",
+      "date_listed": "2026-08-07",
+      "entity_id": 58258,
+      "entity_name": "CRYPTO HOME DMCC",
+      "ofac_tickers": [
+        "BNB"
+      ],
+      "programs": [
+        "SDGT"
+      ]
+    },
+    {
       "address": "DFFJhnQNZf8rf67tYnesPu7MuGUpYtzv7Z",
       "chain": "verge",
       "date_listed": "2021-04-15",
@@ -12638,5 +12824,5 @@
     }
   ],
   "source_list": "SDN",
-  "total_address_count": 947
+  "total_address_count": 961
 }

@@ -1,0 +1,24 @@
+{
+  "address_count": 1,
+  "addresses": [
+    {
+      "address": "bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23",
+      "date_listed": "2026-08-07",
+      "entity_id": 58258,
+      "entity_name": "CRYPTO HOME DMCC",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "BNB"
+      ],
+      "programs": [
+        "SDGT"
+      ],
+      "source_feature_ids": [
+        99986
+      ]
+    }
+  ],
+  "chain": "unknown",
+  "source_list": "SDN",
+  "source_xml_url": "https://www.treasury.gov/ofac/downloads/sanctions/1.0/sdn_advanced.xml"
+}
