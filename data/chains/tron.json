@@ -1,5 +1,5 @@
 {
-  "address_count": 276,
+  "address_count": 281,
   "addresses": [
     {
       "address": "TA3941uFAvmVibSkQ6fMJXxmaSNovX86mz",
@@ -99,6 +99,23 @@
       ],
       "source_feature_ids": [
         91893
+      ]
+    },
+    {
+      "address": "TAbbVaBKgH4VBLXgWqACuwoKF4cH1HinQh",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ],
+      "source_feature_ids": [
+        96556
       ]
     },
     {
@@ -1270,6 +1287,23 @@
       ]
     },
     {
+      "address": "TEsxMcVocweTM82Mdmc5diKC6qyCWqSpPv",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ],
+      "source_feature_ids": [
+        96558
+      ]
+    },
+    {
       "address": "TEtLieZwyjJTth7S5EJqUNjtSbM1ui9toK",
       "date_listed": "2015-09-29",
       "entity_id": 18647,
@@ -1927,6 +1961,22 @@
       ],
       "source_feature_ids": [
         93786
+      ]
+    },
+    {
+      "address": "TJCBpxZ3yC7C7oegSRZMFxBcscmUVeSA36",
+      "date_listed": "2026-08-24",
+      "entity_id": 58409,
+      "entity_name": "Tsoris Almpertos",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "source_feature_ids": [
+        100595
       ]
     },
     {
@@ -2666,6 +2716,22 @@
       ],
       "source_feature_ids": [
         99103
+      ]
+    },
+    {
+      "address": "TP3kVtnFgDSoSqzw178nLJtGWNjrbKNgB6",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        96432
       ]
     },
     {
@@ -4370,6 +4436,22 @@
       ],
       "source_feature_ids": [
         99106
+      ]
+    },
+    {
+      "address": "TXR4FDAZZLDSvuRxveW9aBMybbaS12WWHk",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        100259
       ]
     },
     {

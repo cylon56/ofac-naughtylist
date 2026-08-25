@@ -1,5 +1,5 @@
 {
-  "address_count": 530,
+  "address_count": 535,
   "addresses": [
     {
       "address": "123WBUDmSJv4GctdVEz6Qq6z8nXSKrJ4KX",
@@ -159,6 +159,23 @@
       ],
       "source_feature_ids": [
         56417
+      ]
+    },
+    {
+      "address": "12aNKp2iDKuhEde2YfPdd4DFGenRUTKupL",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ],
+      "source_feature_ids": [
+        96516
       ]
     },
     {
@@ -825,22 +842,6 @@
       ],
       "source_feature_ids": [
         49693
-      ]
-    },
-    {
-      "address": "17a5bpKvEp1j1Trs4qTbcNZrby53JbaS9C",
-      "date_listed": "2021-07-28",
-      "entity_id": 31811,
-      "entity_name": "FAYZIMATOV Farrukh Furkatovitch",
-      "evm_compatible": false,
-      "ofac_tickers": [
-        "XBT"
-      ],
-      "programs": [
-        "SDGT"
-      ],
-      "source_feature_ids": [
-        41945
       ]
     },
     {
@@ -2116,6 +2117,22 @@
       ]
     },
     {
+      "address": "1GXeCkFQq7SYo6B7wdLAPkkri6NFTFB7No",
+      "date_listed": "2026-08-24",
+      "entity_id": 57064,
+      "entity_name": "Ghal'eh-Kuhi Mojtaba",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        96472
+      ]
+    },
+    {
       "address": "1GYuu9d5HPikafbys3k5Q3DRJq6debGsoB",
       "date_listed": "2022-04-05",
       "entity_id": 36216,
@@ -2422,6 +2439,22 @@
       ],
       "source_feature_ids": [
         49787
+      ]
+    },
+    {
+      "address": "1JGPiQGK78xTxAVoxA1MjK3Z15M84Rj6BL",
+      "date_listed": "2026-08-24",
+      "entity_id": 57065,
+      "entity_name": "Kahzadian Arman",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        96484
       ]
     },
     {
@@ -6504,6 +6537,22 @@
       ]
     },
     {
+      "address": "bc1q4ktvxxhhvf8qhs9qkdsm9arcxfmmeex6rl7n50",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        96422
+      ]
+    },
+    {
       "address": "bc1q4namcagg5wljs0u20z6h2sqgsq4q5lts8rt2rr",
       "date_listed": "2024-05-28",
       "entity_id": 43421,
@@ -7354,6 +7403,22 @@
       ]
     },
     {
+      "address": "bc1qf6zxs4lkp9umh6hf087mh70w0ymcyt8cunp58r",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        100159
+      ]
+    },
+    {
       "address": "bc1qfg4gfg0y6t6xjnpmlhuwx5k0wlw6nmfzxn2psc",
       "date_listed": "2023-02-01",
       "entity_id": 40488,
@@ -7834,6 +7899,22 @@
       ],
       "source_feature_ids": [
         49785
+      ]
+    },
+    {
+      "address": "bc1qr2pwmvkpq5tc5um2g9uh34yyu6wepwx89rts70",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        96419
       ]
     },
     {

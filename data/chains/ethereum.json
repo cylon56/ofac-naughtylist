@@ -1,5 +1,5 @@
 {
-  "address_count": 104,
+  "address_count": 124,
   "addresses": [
     {
       "address": "0x0330070FD38Ec3bB94F58FA55D40368271E9e54A",
@@ -247,6 +247,39 @@
       ]
     },
     {
+      "address": "0x1CAb8177ACe78b1B6B1c393371F4f2dCAE40CbEB",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ],
+      "source_feature_ids": [
+        96531
+      ]
+    },
+    {
+      "address": "0x1b8579cf6ab12ea6b74ac5fa41f3829a3cb61e6e",
+      "date_listed": "2026-08-24",
+      "entity_id": 57064,
+      "entity_name": "Ghal'eh-Kuhi Mojtaba",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        96478
+      ]
+    },
+    {
       "address": "0x1d19b52b54e7ef5ea1a4b40b616165e798eac9f8",
       "date_listed": "2026-07-13",
       "entity_id": 57978,
@@ -293,6 +326,23 @@
       ],
       "source_feature_ids": [
         70191
+      ]
+    },
+    {
+      "address": "0x252a8bd2319d8a555b872990601221b3a2053bce",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ],
+      "source_feature_ids": [
+        96530
       ]
     },
     {
@@ -493,6 +543,22 @@
       ]
     },
     {
+      "address": "0x4060cbf80734193f521a3cc6fd4e985df2825279",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        96424
+      ]
+    },
+    {
       "address": "0x43fa21d92141BA9db43052492E0DeEE5aa5f0A93",
       "date_listed": "2023-08-23",
       "entity_id": 44718,
@@ -643,6 +709,22 @@
       ]
     },
     {
+      "address": "0x56de1527136f76a809e5b14ded6103eecd072ba7",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        96426
+      ]
+    },
+    {
       "address": "0x57EC89A0C056163A0314e413320f9B3ABe761259",
       "date_listed": "2022-04-05",
       "entity_id": 36025,
@@ -737,6 +819,40 @@
       ],
       "source_feature_ids": [
         44717
+      ]
+    },
+    {
+      "address": "0x6B0736Fed0634e15E19CC57fBA19cd179c13AbCA",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ],
+      "source_feature_ids": [
+        96546
+      ]
+    },
+    {
+      "address": "0x6Fac4D18c912343BF86fa7049364Dd4E424Ab9C0",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ],
+      "source_feature_ids": [
+        96535
       ]
     },
     {
@@ -887,6 +1003,23 @@
       ]
     },
     {
+      "address": "0x7F03679B56d8772530EFA516b58Bb83d4829E881",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ],
+      "source_feature_ids": [
+        96537
+      ]
+    },
+    {
       "address": "0x7F19720A857F834887FC9A7bC0a0fBe7Fc7f8102",
       "date_listed": "2021-04-15",
       "entity_id": 30518,
@@ -970,6 +1103,22 @@
       ]
     },
     {
+      "address": "0x8694ed130432be2cd3efff2e4d9dc52351dc7423",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        96428
+      ]
+    },
+    {
       "address": "0x8Dce2aAC0dE82bdCAf6b4373B79f94331b8e4995",
       "date_listed": "2022-04-05",
       "entity_id": 36025,
@@ -984,6 +1133,23 @@
       ],
       "source_feature_ids": [
         85347
+      ]
+    },
+    {
+      "address": "0x8ac5381FCD9e7395D14e02986c344aADA84B4bC6",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ],
+      "source_feature_ids": [
+        96540
       ]
     },
     {
@@ -1069,6 +1235,23 @@
       ]
     },
     {
+      "address": "0x9697749A9e8D6C119D8EEb0d6268a1b99C40684c",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ],
+      "source_feature_ids": [
+        96541
+      ]
+    },
+    {
       "address": "0x97b1043abd9e6fc31681635166d430a458d14f9c",
       "date_listed": "2023-05-23",
       "entity_id": 43377,
@@ -1121,6 +1304,23 @@
       ]
     },
     {
+      "address": "0x9DD7fA4B4950154F7e75BdD8A77266B99b94Ec08",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ],
+      "source_feature_ids": [
+        96543
+      ]
+    },
+    {
       "address": "0x9c2bc757b66f24d60f016b6237f8cdd414a879fa",
       "date_listed": "2023-09-26",
       "entity_id": 44029,
@@ -1152,6 +1352,23 @@
       ],
       "source_feature_ids": [
         39647
+      ]
+    },
+    {
+      "address": "0xA40cFBFc8534FFC84E20a7d8bBC3729B26a35F6f",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ],
+      "source_feature_ids": [
+        96536
       ]
     },
     {
@@ -1201,6 +1418,23 @@
       ],
       "source_feature_ids": [
         56444
+      ]
+    },
+    {
+      "address": "0xF45Ecc3a59C7911181C659cE9115854c6175Be91",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ],
+      "source_feature_ids": [
+        96548
       ]
     },
     {
@@ -1318,6 +1552,23 @@
       ]
     },
     {
+      "address": "0xb5A69Da691670F62510793F79a9B36c7db1A7b7c",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ],
+      "source_feature_ids": [
+        96544
+      ]
+    },
+    {
       "address": "0xb637f84b66876ebf609c2a4208905f9ddac9d075",
       "date_listed": "2026-03-12",
       "entity_id": 57034,
@@ -1367,6 +1618,22 @@
       ],
       "source_feature_ids": [
         99984
+      ]
+    },
+    {
+      "address": "0xbd3276f265b83b5e828c05f46cde9d10a1521a24",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        96429
       ]
     },
     {
@@ -1479,6 +1746,23 @@
       ],
       "source_feature_ids": [
         89214
+      ]
+    },
+    {
+      "address": "0xd81414ABc631C6CADAe1C6198b0c2b15a9B4fDe5",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ],
+      "source_feature_ids": [
+        96547
       ]
     },
     {
@@ -1614,6 +1898,22 @@
       ]
     },
     {
+      "address": "0xeb507efa9ee692a4c774ad1de9f3cb26fc459da3",
+      "date_listed": "2026-08-24",
+      "entity_id": 57065,
+      "entity_name": "Kahzadian Arman",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        96491
+      ]
+    },
+    {
       "address": "0xed6e0a7e4ac94d976eebfb82ccf777a3c6bad921",
       "date_listed": "2023-08-23",
       "entity_id": 44718,
@@ -1627,6 +1927,38 @@
       ],
       "source_feature_ids": [
         64885
+      ]
+    },
+    {
+      "address": "0xef85a6fafa5942a964dc618e94e230881d29ce2a",
+      "date_listed": "2026-08-24",
+      "entity_id": 57065,
+      "entity_name": "Kahzadian Arman",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        96492
+      ]
+    },
+    {
+      "address": "0xf1c4c44d2dcbcfa704349e3b57628dbd8404e597",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER4"
+      ],
+      "source_feature_ids": [
+        96430
       ]
     },
     {

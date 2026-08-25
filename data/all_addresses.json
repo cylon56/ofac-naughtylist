@@ -131,6 +131,20 @@
       ]
     },
     {
+      "address": "12aNKp2iDKuhEde2YfPdd4DFGenRUTKupL",
+      "chain": "bitcoin",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ]
+    },
+    {
       "address": "12jVCWW1ZhTLA5yVnroEJswqKwsfiZKsax",
       "chain": "bitcoin",
       "date_listed": "2023-04-24",
@@ -671,19 +685,6 @@
       ],
       "programs": [
         "CYBER2"
-      ]
-    },
-    {
-      "address": "17a5bpKvEp1j1Trs4qTbcNZrby53JbaS9C",
-      "chain": "bitcoin",
-      "date_listed": "2021-07-28",
-      "entity_id": 31811,
-      "entity_name": "FAYZIMATOV Farrukh Furkatovitch",
-      "ofac_tickers": [
-        "XBT"
-      ],
-      "programs": [
-        "SDGT"
       ]
     },
     {
@@ -1723,6 +1724,19 @@
       ]
     },
     {
+      "address": "1GXeCkFQq7SYo6B7wdLAPkkri6NFTFB7No",
+      "chain": "bitcoin",
+      "date_listed": "2026-08-24",
+      "entity_id": 57064,
+      "entity_name": "Ghal'eh-Kuhi Mojtaba",
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER4"
+      ]
+    },
+    {
       "address": "1GYuu9d5HPikafbys3k5Q3DRJq6debGsoB",
       "chain": "bitcoin",
       "date_listed": "2022-04-05",
@@ -1971,6 +1985,19 @@
       ],
       "programs": [
         "CYBER2"
+      ]
+    },
+    {
+      "address": "1JGPiQGK78xTxAVoxA1MjK3Z15M84Rj6BL",
+      "chain": "bitcoin",
+      "date_listed": "2026-08-24",
+      "entity_id": 57065,
+      "entity_name": "Kahzadian Arman",
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER4"
       ]
     },
     {
@@ -5291,6 +5318,19 @@
       ]
     },
     {
+      "address": "bc1q4ktvxxhhvf8qhs9qkdsm9arcxfmmeex6rl7n50",
+      "chain": "bitcoin",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER4"
+      ]
+    },
+    {
       "address": "bc1q4namcagg5wljs0u20z6h2sqgsq4q5lts8rt2rr",
       "chain": "bitcoin",
       "date_listed": "2024-05-28",
@@ -5982,6 +6022,19 @@
       ]
     },
     {
+      "address": "bc1qf6zxs4lkp9umh6hf087mh70w0ymcyt8cunp58r",
+      "chain": "bitcoin",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER4"
+      ]
+    },
+    {
       "address": "bc1qfg4gfg0y6t6xjnpmlhuwx5k0wlw6nmfzxn2psc",
       "chain": "bitcoin",
       "date_listed": "2023-02-01",
@@ -6372,6 +6425,19 @@
       ],
       "programs": [
         "CYBER2"
+      ]
+    },
+    {
+      "address": "bc1qr2pwmvkpq5tc5um2g9uh34yyu6wepwx89rts70",
+      "chain": "bitcoin",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "ofac_tickers": [
+        "XBT"
+      ],
+      "programs": [
+        "CYBER4"
       ]
     },
     {
@@ -7360,6 +7426,33 @@
       ]
     },
     {
+      "address": "0x1CAb8177ACe78b1B6B1c393371F4f2dCAE40CbEB",
+      "chain": "ethereum",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ]
+    },
+    {
+      "address": "0x1b8579cf6ab12ea6b74ac5fa41f3829a3cb61e6e",
+      "chain": "ethereum",
+      "date_listed": "2026-08-24",
+      "entity_id": 57064,
+      "entity_name": "Ghal'eh-Kuhi Mojtaba",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER4"
+      ]
+    },
+    {
       "address": "0x1d19b52b54e7ef5ea1a4b40b616165e798eac9f8",
       "chain": "ethereum",
       "date_listed": "2026-07-13",
@@ -7397,6 +7490,20 @@
       ],
       "programs": [
         "SDGT"
+      ]
+    },
+    {
+      "address": "0x252a8bd2319d8a555b872990601221b3a2053bce",
+      "chain": "ethereum",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
       ]
     },
     {
@@ -7560,6 +7667,19 @@
       ]
     },
     {
+      "address": "0x4060cbf80734193f521a3cc6fd4e985df2825279",
+      "chain": "ethereum",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER4"
+      ]
+    },
+    {
       "address": "0x43fa21d92141BA9db43052492E0DeEE5aa5f0A93",
       "chain": "ethereum",
       "date_listed": "2023-08-23",
@@ -7681,6 +7801,19 @@
       ]
     },
     {
+      "address": "0x56de1527136f76a809e5b14ded6103eecd072ba7",
+      "chain": "ethereum",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER4"
+      ]
+    },
+    {
       "address": "0x57EC89A0C056163A0314e413320f9B3ABe761259",
       "chain": "ethereum",
       "date_listed": "2022-04-05",
@@ -7757,6 +7890,34 @@
       ],
       "programs": [
         "CYBER2"
+      ]
+    },
+    {
+      "address": "0x6B0736Fed0634e15E19CC57fBA19cd179c13AbCA",
+      "chain": "ethereum",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ]
+    },
+    {
+      "address": "0x6Fac4D18c912343BF86fa7049364Dd4E424Ab9C0",
+      "chain": "ethereum",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
       ]
     },
     {
@@ -7880,6 +8041,20 @@
       ]
     },
     {
+      "address": "0x7F03679B56d8772530EFA516b58Bb83d4829E881",
+      "chain": "ethereum",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ]
+    },
+    {
       "address": "0x7F19720A857F834887FC9A7bC0a0fBe7Fc7f8102",
       "chain": "ethereum",
       "date_listed": "2021-04-15",
@@ -7948,6 +8123,19 @@
       ]
     },
     {
+      "address": "0x8694ed130432be2cd3efff2e4d9dc52351dc7423",
+      "chain": "ethereum",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER4"
+      ]
+    },
+    {
       "address": "0x8Dce2aAC0dE82bdCAf6b4373B79f94331b8e4995",
       "chain": "ethereum",
       "date_listed": "2022-04-05",
@@ -7959,6 +8147,20 @@
       "programs": [
         "CYBER4",
         "RUSSIA-EO14024"
+      ]
+    },
+    {
+      "address": "0x8ac5381FCD9e7395D14e02986c344aADA84B4bC6",
+      "chain": "ethereum",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
       ]
     },
     {
@@ -8029,6 +8231,20 @@
       ]
     },
     {
+      "address": "0x9697749A9e8D6C119D8EEb0d6268a1b99C40684c",
+      "chain": "ethereum",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ]
+    },
+    {
       "address": "0x97b1043abd9e6fc31681635166d430a458d14f9c",
       "chain": "ethereum",
       "date_listed": "2023-05-23",
@@ -8070,6 +8286,20 @@
       ]
     },
     {
+      "address": "0x9DD7fA4B4950154F7e75BdD8A77266B99b94Ec08",
+      "chain": "ethereum",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ]
+    },
+    {
       "address": "0x9c2bc757b66f24d60f016b6237f8cdd414a879fa",
       "chain": "ethereum",
       "date_listed": "2023-09-26",
@@ -8095,6 +8325,20 @@
         "CYBER2",
         "ELECTION-EO13848",
         "NPWMD"
+      ]
+    },
+    {
+      "address": "0xA40cFBFc8534FFC84E20a7d8bBC3729B26a35F6f",
+      "chain": "ethereum",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
       ]
     },
     {
@@ -8135,6 +8379,20 @@
       ],
       "programs": [
         "ILLICIT-DRUGS-EO14059"
+      ]
+    },
+    {
+      "address": "0xF45Ecc3a59C7911181C659cE9115854c6175Be91",
+      "chain": "ethereum",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
       ]
     },
     {
@@ -8231,6 +8489,20 @@
       ]
     },
     {
+      "address": "0xb5A69Da691670F62510793F79a9B36c7db1A7b7c",
+      "chain": "ethereum",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ]
+    },
+    {
       "address": "0xb637f84b66876ebf609c2a4208905f9ddac9d075",
       "chain": "ethereum",
       "date_listed": "2026-03-12",
@@ -8269,6 +8541,19 @@
       ],
       "programs": [
         "SDGT"
+      ]
+    },
+    {
+      "address": "0xbd3276f265b83b5e828c05f46cde9d10a1521a24",
+      "chain": "ethereum",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER4"
       ]
     },
     {
@@ -8360,6 +8645,20 @@
       ],
       "programs": [
         "CYBER3"
+      ]
+    },
+    {
+      "address": "0xd81414ABc631C6CADAe1C6198b0c2b15a9B4fDe5",
+      "chain": "ethereum",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
       ]
     },
     {
@@ -8470,6 +8769,19 @@
       ]
     },
     {
+      "address": "0xeb507efa9ee692a4c774ad1de9f3cb26fc459da3",
+      "chain": "ethereum",
+      "date_listed": "2026-08-24",
+      "entity_id": 57065,
+      "entity_name": "Kahzadian Arman",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER4"
+      ]
+    },
+    {
       "address": "0xed6e0a7e4ac94d976eebfb82ccf777a3c6bad921",
       "chain": "ethereum",
       "date_listed": "2023-08-23",
@@ -8480,6 +8792,32 @@
       ],
       "programs": [
         "DPRK3"
+      ]
+    },
+    {
+      "address": "0xef85a6fafa5942a964dc618e94e230881d29ce2a",
+      "chain": "ethereum",
+      "date_listed": "2026-08-24",
+      "entity_id": 57065,
+      "entity_name": "Kahzadian Arman",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER4"
+      ]
+    },
+    {
+      "address": "0xf1c4c44d2dcbcfa704349e3b57628dbd8404e597",
+      "chain": "ethereum",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "CYBER4"
       ]
     },
     {
@@ -9046,6 +9384,20 @@
       ],
       "programs": [
         "CYBER4"
+      ]
+    },
+    {
+      "address": "TAbbVaBKgH4VBLXgWqACuwoKF4cH1HinQh",
+      "chain": "tron",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
       ]
     },
     {
@@ -10007,6 +10359,20 @@
       ]
     },
     {
+      "address": "TEsxMcVocweTM82Mdmc5diKC6qyCWqSpPv",
+      "chain": "tron",
+      "date_listed": "2018-03-23",
+      "entity_id": 24003,
+      "entity_name": "MESRI Behzad",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER2",
+        "HRIT-IR"
+      ]
+    },
+    {
       "address": "TEtLieZwyjJTth7S5EJqUNjtSbM1ui9toK",
       "chain": "tron",
       "date_listed": "2015-09-29",
@@ -10544,6 +10910,19 @@
       ],
       "programs": [
         "DPRK4"
+      ]
+    },
+    {
+      "address": "TJCBpxZ3yC7C7oegSRZMFxBcscmUVeSA36",
+      "chain": "tron",
+      "date_listed": "2026-08-24",
+      "entity_id": 58409,
+      "entity_name": "Tsoris Almpertos",
+      "ofac_tickers": [
+        "USDT"
+      ],
+      "programs": [
+        "IRAN-EO13902"
       ]
     },
     {
@@ -11151,6 +11530,19 @@
       "programs": [
         "FTO",
         "SDGT"
+      ]
+    },
+    {
+      "address": "TP3kVtnFgDSoSqzw178nLJtGWNjrbKNgB6",
+      "chain": "tron",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER4"
       ]
     },
     {
@@ -12552,6 +12944,19 @@
       ]
     },
     {
+      "address": "TXR4FDAZZLDSvuRxveW9aBMybbaS12WWHk",
+      "chain": "tron",
+      "date_listed": "2026-08-24",
+      "entity_id": 57061,
+      "entity_name": "Blagh Keyvan Fayyaz Gareh",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "CYBER4"
+      ]
+    },
+    {
       "address": "TXc4kRiMEcdXRxWpSKkD5qKaARExN4uxPq",
       "chain": "tron",
       "date_listed": "2017-09-26",
@@ -12824,5 +13229,5 @@
     }
   ],
   "source_list": "SDN",
-  "total_address_count": 961
+  "total_address_count": 991
 }
