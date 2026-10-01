@@ -1,5 +1,5 @@
 {
-  "address_count": 333,
+  "address_count": 340,
   "addresses": [
     {
       "address": "TA3941uFAvmVibSkQ6fMJXxmaSNovX86mz",
@@ -300,6 +300,23 @@
       ],
       "source_feature_ids": [
         93762
+      ]
+    },
+    {
+      "address": "TBEmt7kPSwAv6NJTYKNdBVW524bUfPwJpJ",
+      "date_listed": "2026-09-30",
+      "entity_id": 58262,
+      "entity_name": "Hernandez Guerrero Anthony Wuiliam",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "source_feature_ids": [
+        101208
       ]
     },
     {
@@ -782,6 +799,23 @@
       ]
     },
     {
+      "address": "TCUmMCHQEbFFdGvfdg2LeS64QfzUKP2AgW",
+      "date_listed": "2026-09-30",
+      "entity_id": 58257,
+      "entity_name": "Cardenas Arzola Eric Gabriel",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "source_feature_ids": [
+        101206
+      ]
+    },
+    {
       "address": "TCXihiScsAodR942Xq45df9qQAdr5nhkjQ",
       "date_listed": "2015-09-29",
       "entity_id": 18647,
@@ -796,6 +830,23 @@
       ],
       "source_feature_ids": [
         99051
+      ]
+    },
+    {
+      "address": "TCifMAMwst3oEJx8GaNfqZw75dkFUa8vjG",
+      "date_listed": "2026-09-30",
+      "entity_id": 58254,
+      "entity_name": "Martinez Armenta Carlos Javier",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "source_feature_ids": [
+        101201
       ]
     },
     {
@@ -1197,6 +1248,23 @@
       ],
       "source_feature_ids": [
         99019
+      ]
+    },
+    {
+      "address": "TDxZ1XTZCmqkJJW2eJT362z6omRchJyGBX",
+      "date_listed": "2026-09-30",
+      "entity_id": 58260,
+      "entity_name": "Martinez Pirona Oscar Leonardo",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "source_feature_ids": [
+        101207
       ]
     },
     {
@@ -2204,6 +2272,23 @@
       ]
     },
     {
+      "address": "THwbVuBBb26abe5TrAsYUpYz9mhWnBppdz",
+      "date_listed": "2026-09-30",
+      "entity_id": 58256,
+      "entity_name": "Galeano Bazurto Jose Dario",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "source_feature_ids": [
+        101205
+      ]
+    },
+    {
       "address": "TJ6NznpBV5uUpp5uZGDub9zD1999999999",
       "date_listed": "2026-09-09",
       "entity_id": 58361,
@@ -2318,6 +2403,23 @@
       ],
       "source_feature_ids": [
         99671
+      ]
+    },
+    {
+      "address": "TJjRAn9kLiyh8h6gjBjaYjkfDkskgZfyW9",
+      "date_listed": "2026-09-30",
+      "entity_id": 58161,
+      "entity_name": "CANELON AGUIRRE Anibal Alexander",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "source_feature_ids": [
+        101200
       ]
     },
     {
@@ -4841,6 +4943,23 @@
       ],
       "source_feature_ids": [
         101080
+      ]
+    },
+    {
+      "address": "TWJmTGhquvdp1jhBmgeGxBBwefteGZUQYW",
+      "date_listed": "2026-09-30",
+      "entity_id": 58255,
+      "entity_name": "Mejia Castillo Alejandro",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "source_feature_ids": [
+        101204
       ]
     },
     {

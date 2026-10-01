@@ -9552,6 +9552,20 @@
       ]
     },
     {
+      "address": "TBEmt7kPSwAv6NJTYKNdBVW524bUfPwJpJ",
+      "chain": "tron",
+      "date_listed": "2026-09-30",
+      "entity_id": 58262,
+      "entity_name": "Hernandez Guerrero Anthony Wuiliam",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT",
+        "TCO"
+      ]
+    },
+    {
       "address": "TBEqQGTxXRWXXeqe7ZwmSB6hc5MMMMMMMM",
       "chain": "tron",
       "date_listed": "2026-09-09",
@@ -9944,6 +9958,20 @@
       ]
     },
     {
+      "address": "TCUmMCHQEbFFdGvfdg2LeS64QfzUKP2AgW",
+      "chain": "tron",
+      "date_listed": "2026-09-30",
+      "entity_id": 58257,
+      "entity_name": "Cardenas Arzola Eric Gabriel",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT",
+        "TCO"
+      ]
+    },
+    {
       "address": "TCXihiScsAodR942Xq45df9qQAdr5nhkjQ",
       "chain": "tron",
       "date_listed": "2015-09-29",
@@ -9955,6 +9983,20 @@
       "programs": [
         "FTO",
         "SDGT"
+      ]
+    },
+    {
+      "address": "TCifMAMwst3oEJx8GaNfqZw75dkFUa8vjG",
+      "chain": "tron",
+      "date_listed": "2026-09-30",
+      "entity_id": 58254,
+      "entity_name": "Martinez Armenta Carlos Javier",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT",
+        "TCO"
       ]
     },
     {
@@ -10284,6 +10326,20 @@
       "programs": [
         "FTO",
         "SDGT"
+      ]
+    },
+    {
+      "address": "TDxZ1XTZCmqkJJW2eJT362z6omRchJyGBX",
+      "chain": "tron",
+      "date_listed": "2026-09-30",
+      "entity_id": 58260,
+      "entity_name": "Martinez Pirona Oscar Leonardo",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT",
+        "TCO"
       ]
     },
     {
@@ -11108,6 +11164,20 @@
       ]
     },
     {
+      "address": "THwbVuBBb26abe5TrAsYUpYz9mhWnBppdz",
+      "chain": "tron",
+      "date_listed": "2026-09-30",
+      "entity_id": 58256,
+      "entity_name": "Galeano Bazurto Jose Dario",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT",
+        "TCO"
+      ]
+    },
+    {
       "address": "TJ6NznpBV5uUpp5uZGDub9zD1999999999",
       "chain": "tron",
       "date_listed": "2026-09-09",
@@ -11201,6 +11271,20 @@
         "IFSR",
         "IRGC",
         "SDGT"
+      ]
+    },
+    {
+      "address": "TJjRAn9kLiyh8h6gjBjaYjkfDkskgZfyW9",
+      "chain": "tron",
+      "date_listed": "2026-09-30",
+      "entity_id": 58161,
+      "entity_name": "CANELON AGUIRRE Anibal Alexander",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT",
+        "TCO"
       ]
     },
     {
@@ -13271,6 +13355,20 @@
       ]
     },
     {
+      "address": "TWJmTGhquvdp1jhBmgeGxBBwefteGZUQYW",
+      "chain": "tron",
+      "date_listed": "2026-09-30",
+      "entity_id": 58255,
+      "entity_name": "Mejia Castillo Alejandro",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "SDGT",
+        "TCO"
+      ]
+    },
+    {
       "address": "TWPma8xH48AEN93x2krdukV9e1j6sPsBeS",
       "chain": "tron",
       "date_listed": "2026-09-09",
@@ -13905,5 +14003,5 @@
     }
   ],
   "source_list": "SDN",
-  "total_address_count": 1043
+  "total_address_count": 1050
 }
