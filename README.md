@@ -134,7 +134,12 @@ Railway can run this as a daily cron job that automatically commits updated data
 
 ### Setup
 
-1. **Create a GitHub Personal Access Token** with `contents: write` permission scoped to this repository. Go to GitHub Settings > Developer settings > Fine-grained personal access tokens.
+1. **Create a fine-grained GitHub personal access token** at GitHub Settings > Developer settings > Fine-grained personal access tokens:
+   - **Repository access**: only this repository.
+   - **Permissions**: Contents: Read and write. Nothing else (GitHub adds Metadata: Read-only by itself).
+   - **Expiration**: set one (for example 90 days) and rotate the token before it expires.
+
+   Do not use a classic (`ghp_`) token: it cannot be limited to one repository.
 
 2. **Create a new Railway project** at [railway.com](https://railway.com):
    - Click **New Project** > **Deploy from GitHub repo**
@@ -145,7 +150,7 @@ Railway can run this as a daily cron job that automatically commits updated data
 
    | Variable | Value | Description |
    | -------- | ----- | ----------- |
-   | `GITHUB_TOKEN` | `ghp_...` | GitHub PAT with repo write access |
+   | `GITHUB_TOKEN` | `github_pat_...` | Fine-grained PAT, this repo only, Contents: read and write |
    | `GITHUB_REPO` | `cylon56/ofac-naughtylist` | Owner/repo format |
    | `GITHUB_BRANCH` | `main` | Branch to push updates to |
 
