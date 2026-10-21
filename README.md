@@ -161,6 +161,8 @@ The `scripts/railway_cron.py` script:
 2. Runs the full OFAC pipeline (which also refreshes the README snapshot)
 3. Commits and pushes any `data/` or `README.md` changes back to the repository
 
+The token goes to git only as an HTTP auth header in git's environment (`GIT_CONFIG_*` variables). It is not in the clone URL, the command line, `.git/config` or the logs, and the pipeline step does not receive it. As a safety net, the script also masks the token in every command, stdout and stderr line that it logs.
+
 ### Cost
 
 This runs as a cron job (not an always-on service), so you only pay for the ~2-3 minutes of compute per daily run. Railway's free tier is usually sufficient.
