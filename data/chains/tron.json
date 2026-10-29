@@ -1,5 +1,5 @@
 {
-  "address_count": 340,
+  "address_count": 345,
   "addresses": [
     {
       "address": "TA3941uFAvmVibSkQ6fMJXxmaSNovX86mz",
@@ -813,6 +813,22 @@
       ],
       "source_feature_ids": [
         101206
+      ]
+    },
+    {
+      "address": "TCV4qdpTxoMyqkn7sSPeRrXmhH5JFxMvmT",
+      "date_listed": "2026-10-28",
+      "entity_id": 58889,
+      "entity_name": "Obertas Vitold Viktorovich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "DPRK2"
+      ],
+      "source_feature_ids": [
+        102036
       ]
     },
     {
@@ -1665,6 +1681,22 @@
       ],
       "source_feature_ids": [
         99126
+      ]
+    },
+    {
+      "address": "TFksjBcHPYqgAax2USheQuaT1ydRKyZRdg",
+      "date_listed": "2026-10-28",
+      "entity_id": 58889,
+      "entity_name": "Obertas Vitold Viktorovich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "DPRK2"
+      ],
+      "source_feature_ids": [
+        102038
       ]
     },
     {
@@ -3552,6 +3584,22 @@
       ]
     },
     {
+      "address": "TQCBdU4K92oxLAkzwexZpqVZJhmPbtLYMm",
+      "date_listed": "2026-10-28",
+      "entity_id": 58889,
+      "entity_name": "Obertas Vitold Viktorovich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "DPRK2"
+      ],
+      "source_feature_ids": [
+        102037
+      ]
+    },
+    {
       "address": "TQKQ4ntejdYYJpuYkFz8oCSDoXW6RKRDdY",
       "date_listed": "2017-09-26",
       "entity_id": 22985,
@@ -3565,6 +3613,22 @@
       ],
       "source_feature_ids": [
         93795
+      ]
+    },
+    {
+      "address": "TQKoDq5aCrWAciiNtete5pDYVN38i4qFN1",
+      "date_listed": "2026-10-28",
+      "entity_id": 58886,
+      "entity_name": "Boykov Ilya Aleksandrovich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "DPRK2"
+      ],
+      "source_feature_ids": [
+        102027
       ]
     },
     {
@@ -5340,6 +5404,22 @@
       ],
       "source_feature_ids": [
         101063
+      ]
+    },
+    {
+      "address": "TXmrnVgsqCMJncYHTXchuJ5z111BXSj4g3",
+      "date_listed": "2026-10-28",
+      "entity_id": 58886,
+      "entity_name": "Boykov Ilya Aleksandrovich",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "DPRK2"
+      ],
+      "source_feature_ids": [
+        102028
       ]
     },
     {

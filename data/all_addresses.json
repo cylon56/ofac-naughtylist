@@ -7333,6 +7333,19 @@
       ]
     },
     {
+      "address": "0x12Ea80238C7d805D003ce793594e92d84A6f4E8d",
+      "chain": "ethereum",
+      "date_listed": "2026-10-28",
+      "entity_id": 58886,
+      "entity_name": "Boykov Ilya Aleksandrovich",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "DPRK2"
+      ]
+    },
+    {
       "address": "0x12de548F79a50D2bd05481C8515C1eF5183666a9",
       "chain": "ethereum",
       "date_listed": "2025-08-14",
@@ -7987,6 +8000,19 @@
       ]
     },
     {
+      "address": "0x761edd5e4546229a0bd35ae99b4d3d01cf4a3510",
+      "chain": "ethereum",
+      "date_listed": "2026-10-28",
+      "entity_id": 58886,
+      "entity_name": "Boykov Ilya Aleksandrovich",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "DPRK2"
+      ]
+    },
+    {
       "address": "0x76EA76CA4Eb727f18956aB93445a94c5280412B9",
       "chain": "ethereum",
       "date_listed": "2023-04-24",
@@ -8353,6 +8379,19 @@
       "programs": [
         "CYBER4",
         "RUSSIA-EO14024"
+      ]
+    },
+    {
+      "address": "0xE4C9a7F68B1EbA4508f54f07f7378847318dD1A3",
+      "chain": "ethereum",
+      "date_listed": "2026-10-28",
+      "entity_id": 58887,
+      "entity_name": "Kim Ki Hyok",
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "DPRK2"
       ]
     },
     {
@@ -9972,6 +10011,19 @@
       ]
     },
     {
+      "address": "TCV4qdpTxoMyqkn7sSPeRrXmhH5JFxMvmT",
+      "chain": "tron",
+      "date_listed": "2026-10-28",
+      "entity_id": 58889,
+      "entity_name": "Obertas Vitold Viktorovich",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "DPRK2"
+      ]
+    },
+    {
       "address": "TCXihiScsAodR942Xq45df9qQAdr5nhkjQ",
       "chain": "tron",
       "date_listed": "2015-09-29",
@@ -10668,6 +10720,19 @@
       "programs": [
         "FTO",
         "SDGT"
+      ]
+    },
+    {
+      "address": "TFksjBcHPYqgAax2USheQuaT1ydRKyZRdg",
+      "chain": "tron",
+      "date_listed": "2026-10-28",
+      "entity_id": 58889,
+      "entity_name": "Obertas Vitold Viktorovich",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "DPRK2"
       ]
     },
     {
@@ -12213,6 +12278,19 @@
       ]
     },
     {
+      "address": "TQCBdU4K92oxLAkzwexZpqVZJhmPbtLYMm",
+      "chain": "tron",
+      "date_listed": "2026-10-28",
+      "entity_id": 58889,
+      "entity_name": "Obertas Vitold Viktorovich",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "DPRK2"
+      ]
+    },
+    {
       "address": "TQKQ4ntejdYYJpuYkFz8oCSDoXW6RKRDdY",
       "chain": "tron",
       "date_listed": "2017-09-26",
@@ -12223,6 +12301,19 @@
       ],
       "programs": [
         "DPRK4"
+      ]
+    },
+    {
+      "address": "TQKoDq5aCrWAciiNtete5pDYVN38i4qFN1",
+      "chain": "tron",
+      "date_listed": "2026-10-28",
+      "entity_id": 58886,
+      "entity_name": "Boykov Ilya Aleksandrovich",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "DPRK2"
       ]
     },
     {
@@ -13680,6 +13771,19 @@
       ]
     },
     {
+      "address": "TXmrnVgsqCMJncYHTXchuJ5z111BXSj4g3",
+      "chain": "tron",
+      "date_listed": "2026-10-28",
+      "entity_id": 58886,
+      "entity_name": "Boykov Ilya Aleksandrovich",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "DPRK2"
+      ]
+    },
+    {
       "address": "TXoVNrqm11FFVKcF1vEND64gibVkr1HwAR",
       "chain": "tron",
       "date_listed": "2015-09-29",
@@ -14003,5 +14107,5 @@
     }
   ],
   "source_list": "SDN",
-  "total_address_count": 1050
+  "total_address_count": 1058
 }

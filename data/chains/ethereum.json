@@ -1,5 +1,5 @@
 {
-  "address_count": 124,
+  "address_count": 127,
   "addresses": [
     {
       "address": "0x0330070FD38Ec3bB94F58FA55D40368271E9e54A",
@@ -129,6 +129,22 @@
       ],
       "source_feature_ids": [
         56441
+      ]
+    },
+    {
+      "address": "0x12Ea80238C7d805D003ce793594e92d84A6f4E8d",
+      "date_listed": "2026-10-28",
+      "entity_id": 58886,
+      "entity_name": "Boykov Ilya Aleksandrovich",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "DPRK2"
+      ],
+      "source_feature_ids": [
+        102025
       ]
     },
     {
@@ -937,6 +953,23 @@
       ]
     },
     {
+      "address": "0x761edd5e4546229a0bd35ae99b4d3d01cf4a3510",
+      "date_listed": "2026-10-28",
+      "entity_id": 58886,
+      "entity_name": "Boykov Ilya Aleksandrovich",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "DPRK2"
+      ],
+      "source_feature_ids": [
+        102026,
+        102039
+      ]
+    },
+    {
       "address": "0x76EA76CA4Eb727f18956aB93445a94c5280412B9",
       "date_listed": "2023-04-24",
       "entity_id": 42498,
@@ -1386,6 +1419,22 @@
       ],
       "source_feature_ids": [
         85351
+      ]
+    },
+    {
+      "address": "0xE4C9a7F68B1EbA4508f54f07f7378847318dD1A3",
+      "date_listed": "2026-10-28",
+      "entity_id": 58887,
+      "entity_name": "Kim Ki Hyok",
+      "evm_compatible": true,
+      "ofac_tickers": [
+        "ETH"
+      ],
+      "programs": [
+        "DPRK2"
+      ],
+      "source_feature_ids": [
+        102031
       ]
     },
     {
