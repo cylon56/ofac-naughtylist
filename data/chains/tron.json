@@ -1,5 +1,5 @@
 {
-  "address_count": 345,
+  "address_count": 351,
   "addresses": [
     {
       "address": "TA3941uFAvmVibSkQ6fMJXxmaSNovX86mz",
@@ -930,6 +930,22 @@
       ],
       "source_feature_ids": [
         98997
+      ]
+    },
+    {
+      "address": "TCreRMzGspdHNEkqkasejS6xTzqXNkYJJZ",
+      "date_listed": "2026-11-06",
+      "entity_id": 59093,
+      "entity_name": "CCC Inc",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "source_feature_ids": [
+        104855
       ]
     },
     {
@@ -2221,6 +2237,22 @@
       ]
     },
     {
+      "address": "THauYJJEaFGLpEknoKnYmXmT5TCeQGKjDE",
+      "date_listed": "2026-11-06",
+      "entity_id": 59096,
+      "entity_name": "1380079 BC Ltd",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "source_feature_ids": [
+        104865
+      ]
+    },
+    {
       "address": "THfLaNMBAMz7xXnHoz5BkRMmrwuHKqfAfR",
       "date_listed": "2015-09-29",
       "entity_id": 18647,
@@ -2416,6 +2448,38 @@
       ],
       "source_feature_ids": [
         99048
+      ]
+    },
+    {
+      "address": "TJHZswisiMgjioAVpmpMSWXCeQGCPjcTMK",
+      "date_listed": "2026-11-06",
+      "entity_id": 59091,
+      "entity_name": "Diverse Trade Inc",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "source_feature_ids": [
+        104847
+      ]
+    },
+    {
+      "address": "TJT3JZKJWVHVkKRKSmWmg5UYHhAqBM7mfP",
+      "date_listed": "2026-11-06",
+      "entity_id": 59096,
+      "entity_name": "1380079 BC Ltd",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "source_feature_ids": [
+        104866
       ]
     },
     {
@@ -2751,6 +2815,22 @@
       ],
       "source_feature_ids": [
         95874
+      ]
+    },
+    {
+      "address": "TLyRLCNwBhaXkYak1bTFUYTj72crbgN5Vy",
+      "date_listed": "2026-11-06",
+      "entity_id": 59096,
+      "entity_name": "1380079 BC Ltd",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "source_feature_ids": [
+        104864
       ]
     },
     {
@@ -4908,6 +4988,22 @@
       ],
       "source_feature_ids": [
         93806
+      ]
+    },
+    {
+      "address": "TW5NEaaoPHXC1rt5PaYgG474gQ49oiZ2F5",
+      "date_listed": "2026-11-06",
+      "entity_id": 59095,
+      "entity_name": "2397639 Ontario Ltd",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "source_feature_ids": [
+        104874
       ]
     },
     {

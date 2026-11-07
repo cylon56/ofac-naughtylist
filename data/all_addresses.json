@@ -10107,6 +10107,19 @@
       ]
     },
     {
+      "address": "TCreRMzGspdHNEkqkasejS6xTzqXNkYJJZ",
+      "chain": "tron",
+      "date_listed": "2026-11-06",
+      "entity_id": 59093,
+      "entity_name": "CCC Inc",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902"
+      ]
+    },
+    {
       "address": "TCu5onCzXuqxjvVzdB2tR4FLuF66d4yRqf",
       "chain": "tron",
       "date_listed": "2025-11-19",
@@ -11161,6 +11174,19 @@
       ]
     },
     {
+      "address": "THauYJJEaFGLpEknoKnYmXmT5TCeQGKjDE",
+      "chain": "tron",
+      "date_listed": "2026-11-06",
+      "entity_id": 59096,
+      "entity_name": "1380079 BC Ltd",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902"
+      ]
+    },
+    {
       "address": "THfLaNMBAMz7xXnHoz5BkRMmrwuHKqfAfR",
       "chain": "tron",
       "date_listed": "2015-09-29",
@@ -11320,6 +11346,32 @@
       "programs": [
         "FTO",
         "SDGT"
+      ]
+    },
+    {
+      "address": "TJHZswisiMgjioAVpmpMSWXCeQGCPjcTMK",
+      "chain": "tron",
+      "date_listed": "2026-11-06",
+      "entity_id": 59091,
+      "entity_name": "Diverse Trade Inc",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902"
+      ]
+    },
+    {
+      "address": "TJT3JZKJWVHVkKRKSmWmg5UYHhAqBM7mfP",
+      "chain": "tron",
+      "date_listed": "2026-11-06",
+      "entity_id": 59096,
+      "entity_name": "1380079 BC Ltd",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902"
       ]
     },
     {
@@ -11595,6 +11647,19 @@
         "IRAN-EO13902",
         "SDGT",
         "IFSR"
+      ]
+    },
+    {
+      "address": "TLyRLCNwBhaXkYak1bTFUYTj72crbgN5Vy",
+      "chain": "tron",
+      "date_listed": "2026-11-06",
+      "entity_id": 59096,
+      "entity_name": "1380079 BC Ltd",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902"
       ]
     },
     {
@@ -13365,6 +13430,19 @@
       ]
     },
     {
+      "address": "TW5NEaaoPHXC1rt5PaYgG474gQ49oiZ2F5",
+      "chain": "tron",
+      "date_listed": "2026-11-06",
+      "entity_id": 59095,
+      "entity_name": "2397639 Ontario Ltd",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "IRAN-EO13902"
+      ]
+    },
+    {
       "address": "TW5tokvhEfrb77z98Rc8HqbkzQJ6sxYtGX",
       "chain": "tron",
       "date_listed": "2026-09-09",
@@ -14107,5 +14185,5 @@
     }
   ],
   "source_list": "SDN",
-  "total_address_count": 1058
+  "total_address_count": 1064
 }

@@ -30,12 +30,12 @@ curl https://raw.githubusercontent.com/cylon56/ofac-naughtylist/main/data/all_ad
 
 ## Current sanctions snapshot
 
-> Last updated: **2026-10-29** | **1058 addresses** across **109 sanctioned entities**
+> Last updated: **2026-11-07** | **1064 addresses** across **113 sanctioned entities**
 
 | Chain | Addresses | Last Added | File |
 | ----- | --------: | ---------- | ---- |
 | Bitcoin | 535 | 2026-08-24 | `data/chains/bitcoin.json` |
-| Tron | 345 | 2026-10-28 | `data/chains/tron.json` |
+| Tron | 351 | 2026-11-06 | `data/chains/tron.json` |
 | Ethereum | 127 | 2026-10-28 | `data/chains/ethereum.json` |
 | Litecoin | 13 | 2026-07-13 | `data/chains/litecoin.json` |
 | Monero | 11 | 2025-03-04 | `data/chains/monero.json` |
