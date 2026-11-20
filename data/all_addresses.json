@@ -13404,6 +13404,19 @@
       ]
     },
     {
+      "address": "TVwLtgUXyDhmcSoQ9x2z9QSua41f8mDFvU",
+      "chain": "tron",
+      "date_listed": "2026-11-19",
+      "entity_id": 58806,
+      "entity_name": "Alexandre Varela Villar",
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ]
+    },
+    {
       "address": "TVyiDQ25H6Rx6PcNV1WyjGasGSa8ehj1Uv",
       "chain": "tron",
       "date_listed": "2017-09-26",
@@ -14185,5 +14198,5 @@
     }
   ],
   "source_list": "SDN",
-  "total_address_count": 1064
+  "total_address_count": 1065
 }

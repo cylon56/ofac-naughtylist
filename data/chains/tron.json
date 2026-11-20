@@ -1,5 +1,5 @@
 {
-  "address_count": 351,
+  "address_count": 352,
   "addresses": [
     {
       "address": "TA3941uFAvmVibSkQ6fMJXxmaSNovX86mz",
@@ -4956,6 +4956,22 @@
       ],
       "source_feature_ids": [
         93804
+      ]
+    },
+    {
+      "address": "TVwLtgUXyDhmcSoQ9x2z9QSua41f8mDFvU",
+      "date_listed": "2026-11-19",
+      "entity_id": 58806,
+      "entity_name": "Alexandre Varela Villar",
+      "evm_compatible": false,
+      "ofac_tickers": [
+        "TRX"
+      ],
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "source_feature_ids": [
+        101817
       ]
     },
     {
